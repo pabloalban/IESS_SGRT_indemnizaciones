@@ -1,0 +1,113 @@
+%---------------------------------------------------------------------------------------------------
+\chapter{Resumen ejecutivo}
+\label{chp_res_ejec}
+
+%---------------------------------------------------------------------------------------------------
+\section{Objetivo del estudio}
+\label{chp_res_ejec:objeto}
+El presente estudio actuarial abarca al Seguro General de Riesgos del Trabajo con fecha de corte 31 de diciembre de 2021, un horizonte de 40 años, cuyo objetivo es estimar el impacto de la Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP en la sostenibilidad y reservas del Fondo; y, de esta manera, garantizar en el tiempo el pago de las prestaciones a los asegurados.
+
+%---------------------------------------------------------------------------------------------------
+\section{Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP}
+\label{chp_res_ejec:descripcion}
+Con fecha 01 de septiembre de 2021, el Juez ponente, Ramiro Ávila Santamaría, de la Corte Constitucional emite la sentencia CASO No. 1024-19-JP/21 y 66-20-JP (Derecho a la seguridad social, pensión jubilar por incapacidad, montepío, pensión de viudez y orfandad y la responsabilidad del empleador). El Pleno de la Corte Constitucional del Ecuador, en ejercicio de sus atribuciones constitucionales y legales, emite la siguiente sentencia:
+\textit{4. Declarar la inconstitucionalidad, de oficio, de la frase del inciso segundo del artículo 94 de la Ley de Seguridad Social que dice “solamente cuando se haga efectiva la responsabilidad de éste, a menos que el patrono rinda garantía satisfactoria para el pago de lo que debiere por aquel concepto” y disponer que en el texto se lea “El IESS concederá inmediatamente tales prestaciones, cuando se cumplan los requisitos de ley.” En consecuencia, el artículo 94, inciso segundo, dirá:}
+
+\textit{``El IESS concederá inmediatamente tales prestaciones cuando se cumplan los requisitos de ley, aun cuando no se haga efectiva la responsabilidad del patrono''.}
+%---------------------------------------------------------------------------------------------------
+\section{Reglamento General de Responsabilidad Patronal}
+Con fecha 30 de marzo de 2016, se expidió el Reglamento General de Responsabilidad Patronal, mediante la emisión de la \textcite{ResIESS_CD517}, el cual señala en su Capítulo Sexto, establece:
+
+\textit{``Artículo 14.- En los casos de generarse derecho al otorgamiento de pensiones por accidente de trabajo o enfermedad profesional, hay responsabilidad patronal cuando:}
+\begin{enumerate}[nosep, label=\alph*), itemsep=0mm, topsep=0pt]
+\item \textit{El empleador no inscribió al trabajador ni pagó aportes al IESS antes de la ocurrencia del siniestro;}\\
+\item \textit{El empleador se encuentra en mora en el pago de aportes al momento del accidente de trabajo o al momento de la calificación de la enfermedad profesional o del cese provocado por ésta;}\\
+\item \textit{El empleador por sí o por interpuesta persona, no comunicó al IESS el siniestro, dentro de los 10 días laborables contados a partir de la fecha del accidente de trabajo o del diagnóstico de presunción inicial de la enfermedad profesional;}\\
+\item \textit{Si a consecuencia de las investigaciones realizadas por las unidades de Riesgos del Trabajo, se determina que el accidente de trabajo o enfermedad profesional ha sido causado por incumplimiento y/o inobservancia de las normas sobre prevención de riesgos de trabajo, aun cuando este al día en el pago de aportes; y,}\\
+\item \textit{Los aportes correspondientes a uno de los 12 meses de aportación, anteriores a la fecha del siniestro, fueron pagados con una extemporaneidad mayor de 3 meses''.}\\
+\end{enumerate}
+
+%---------------------------------------------------------------------------------------------------
+\section{Hipótesis y supuestos claves del estudio}
+\label{chp_res_ejec:hipotesis}
+A manera de resumen, se describen las principales hipótesis de este estudio: 
+
+% \begin{center}
+% {\fontsize{11}{12}\selectfont
+% %\begin{longtable}[H]{r*{5}{R{2.5cm}}}
+% \begin{longtable}[H]{lc}
+% \caption{Tasas utilizadas en el estudio}
+% \label{tab:iess_hip_macro_re} \\
+% \toprule
+% Ítem: & \multicolumn{1}{c}{Tasa}\\
+% \midrule
+% \endfirsthead
+% 
+% \toprule
+% Ítem: & \multicolumn{1}{c}{Tasa}\\
+% \midrule
+% \endhead
+% 
+% \bottomrule
+% \multicolumn{2}{r}{continúa...} \\
+% \endfoot
+% 
+% \bottomrule
+% \endlastfoot
+% 
+% \input{tablas/iess_hipotesis_macro.tex}
+% 
+% \end{longtable}
+% }
+% \end{center}
+
+%---------------------------------------------------------------------------------------------------
+\section{Escenarios del estudio}
+\label{chp_res_ejec:escenarios}
+Para el análisis se han definido un único escenario:  
+\begin{enumerate}[itemsep=1mm, topsep=5pt] 
+\item \textbf{Escenario Base:} Constituye el escenario más verosímil, aplicando parámetros financieros conservadores y realistas, en base a valores proyectados promedio. En este escenario se supone: tasa actuarial \Sexpr{REP$i_a}\%, tasa de crecimiento salarial de \Sexpr{REP$i_s}\% y tasa de crecimiento de pensiones igual a \Sexpr{REP$i_p}\%. Además, supone que el aporte estatal promedio para los próximos años es igual a 28\% y toma en cuenta el cese del aporte del 2,76\% de los pensionistas.
+Para estimar el impacto de los valores por cobrar pendientes por responsabilidad patronal del \Sexpr{REP_seg}, se estableció un porcentaje relacionado con el aporte patronal al Seguro por \Sexpr{REP$i_rp}\% en la sección \ref{chp_modelo:rp}. Y no se considera los egresos por atenciones-médicas por accidentes y enfermedades laborales que están a cargo del Seguro General de Salud Individual y Familiar.
+\end{enumerate}
+
+Se consideró la misma estructura actuarial del \Sexpr{REP_seg}, definida por un sistema de financiamiento de reparto con prima media nivelada, un esquema de prestaciones de beneficio definido y un régimen demográfico en grupo abierto, acorde a lo expuesto en la sección \ref{chp_modelo:actu}.
+
+Solo se considera el 28\% (no el 40\%) del aporte del Estado a las pensiones, puesto que ese fue el porcentaje que el Estado aporta en el año 2019. Además, se aplica los porcentajes de aportación dispuestos por la \legalcite{ResIESS_CD515}.
+%---------------------------------------------------------------------------------------------------
+\section{Principales resultados}
+\label{chp_res_ejec:resultados}
+Del estudio actuarial se concluyen los siguientes resultados:
+\begin{table}[H]
+\centering
+\caption{Balance actuarial en el escenario base}
+\label{tab:iess_bal_act_vap_escenario_1}
+\caption*{Fecha de valuación: al \Sexpr{REP_fec_fin}}
+{\fontsize{11}{14}\selectfont
+\begin{tabular}{lr}
+\toprule
+Componente:	& Valor (USD) \\
+\midrule
+% el comando \csname es para evitar un error cuando el input comienza con \multicolumn
+ \csname @@input\endcsname tablas/iess_bal_act_vap_escenario_1.tex
+\bottomrule
+\end{tabular}
+}
+\end{table}
+% --------------------------------------------------------------------------------------------------
+\section{Principales conclusiones y recomendaciones.}
+\label{chp_res_ejec:conclusiones}
+Entre las principales conclusiones, se tiene:
+Del presente estudio se obtienen las siguientes conclusiones:
+\begin{enumerate}[itemsep=0mm, topsep=0pt]
+\item Se concluye que la Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP, no afecta a la sostenibilidad del Fondo del \Sexpr{REP_seg}, mientras se realicen las respectivas gestiones de cobranza de las responsabilidades patronales pendientes. En caso de que no se cobre oportunamente los valores generados por responsabilidad patronal, el perjuicio al Fondo ascendería a sería USD \Sexpr{REP$egre_rp_1} en los próximos 40 años; y el no cobro de estos valores no afectaría en la sostenibilidad del Fondo a largo plazo, debido a las reservas que dispone este Seguro.
+
+\item El Fondo del \Sexpr{REP_seg}, presenta un superávit actuarial alcanza USD \Sexpr{REP$bal_act_esc_1}, su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_1}\%. 
+
+\item Entre el año 2010 a 2021, se generaron glosas por responsabilidad patronal por USD 37.954.946,82, de los cuales USD 9.114.106,07 (pendientes sin cancelar) se encuentran en estado de impugnación, notificada, publicada o transferida a convenio o títulos.
+
+\end{enumerate}
+% --------------------------------------------------------------------------------------------------
+Las principales recomendaciones de esta Dirección son:
+\begin{enumerate}
+\item La Dirección del Seguro General de Riesgos del Trabajo deberá realizar las gestiones pertinentes dentro de sus atribuciones establecidas en la Ley, en coordinación con las otras direcciones del IESS para recaudar los valores pendientes por responsabilidad patronal.
+\end{enumerate}

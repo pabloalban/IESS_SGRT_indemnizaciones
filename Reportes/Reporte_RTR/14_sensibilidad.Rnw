@@ -1,0 +1,101 @@
+%---------------------------------------------------------------------------------------------------
+\chapter{Presentación de resultados}
+\label{chp_resultados}
+%---------------------------------------------------------------------------------------------------
+\section{Resultados de la valuación actuarial}
+\label{chp_valuacionactu:est_apo}
+La Dirección Actuarial, de Investigación y Estadística efectuó 4 escenarios para realizar las 
+proyecciones actuariales para el período de evaluación.
+
+Los resultados del balance actuarial de estos 4 escenarios se encuentran descritos en la tabla 
+\ref{tab:iess_bal_act_vap_escenario_1}.
+
+Del estudio actuarial, se concluyen los siguientes resultados:
+\begin{table}[H]
+\centering
+\caption{Resultado de los escenarios de la valuación actuarial (2020 a 2060)}
+\label{tab:iess_resultados_resumen_ejec}
+{\fontsize{9}{11}\selectfont
+\begin{tabular}{lr}
+\toprule
+\multirow{1}{*}{Parámetro o componente:} &  
+\multicolumn{1}{c}{\textbf{Escenario 1}}  
+\\
+\midrule
+\input{tablas/iess_resultados.tex}
+\bottomrule
+\end{tabular}
+}
+\end{table}
+
+%---------------------------------------------------------------------------------------------------
+\section{Estimación del nivel óptimo de aportes}
+\label{chp_valuacionactu:est_apo}
+Mediante el análisis establecido en la sección \ref{chp_modelo:sis_fin}, considerando que el 
+\Sexpr{REP_seg} tiene un sistema de financiamiento de reparto, para estimar el nivel óptimo de los 
+aportes y obtener la prima media nivelada se calcula a partir de los flujos de egresos por 
+beneficios $B_t$ y gastos administrativos $G_t$, los flujos por ingresos debido al aporte Estatal
+$A^{est}_t$, aporte de pensionistas $A^{9}_t, A^{13}_t, A^{14}_t, A^{15}_t$ y la masa salarial de 
+los afiliados activos $M_t$. Así, la prima media nivelada para el horizonte $T$ se calcula de la 
+siguiente forma:
+\begin{equation}
+\pi^2_T = \frac{ \sum\limits_{t=0}^T v^t \left( B_t + G_t - A^{est}_t - A^9_t - A^{13}_t - A^{14}_t - 
+A^{15}_t \right) - \gamma \, V_{0} }{\sum\limits_{t=0}^T v^t M_t}
+\end{equation}
+
+Al determinar el valor de la prima suficiente, no se considera el importe de la reserva inicial del
+fondo; es decir, se establece $\gamma=0$, puesto que el patrimonio inicial se lo trata como un
+fondo de contingencia para casos excepcionales, tales como: pandemias o catástrofes naturales que
+pudieran originar el aparecimiento de nuevas enfermedades profesionales u ocupaciones y accidentes
+laborales fatales. Además, para el caso particular de este estudio actuarial, se ha utilizado el
+horizonte de estudio $T = \Sexpr{REP_hor}$.
+
+Considerando lo anotado anteriormente, para cada uno de los escenarios donde se realizó la valuación 
+actuarial, se obtuvieron las siguientes primas medias niveladas.
+\begin{table}[H]
+\centering
+\caption{Prima suficiente para cada uno de los escenarios.}
+\label{tab:iess_prima_suficiente}
+{\fontsize{8}{10}\selectfont
+\begin{tabular}{L{3.5cm}R{1.5cm}R{1.5cm}R{1.5cm}R{1.5cm}R{1.5cm}R{1.5cm}}
+\toprule
+\textbf{Escenario:}
+& \textbf{Tasa actuarial}
+& \textbf{Tasa aportación cotizantes}
+& \textbf{Tasa aportación pensionistas}
+& \textbf{Tasa aportación salud}
+& \textbf{Contribución Estado pensiones} 
+& \textbf{Prima media nivelada} \\
+& $i_a$
+& $\pi^2$
+& $\pi^{9,13,14,15}$
+& $\pi^{sal}$
+& $\alpha_{est}$
+& $\pi^2_{T}$ \\
+\midrule
+
+\input{tablas/iess_tab_primas.tex}
+
+\bottomrule
+\end{tabular}
+}
+\end{table}
+
+%---------------------------------------------------------------------------------------------------
+\section{Causas de posibles desfinanciamientos}
+\label{chp_resultados:caus_desf}
+
+Como se puede observar en la mayoría de los escenarios presentados en este capítulo, la 
+contribución estatal para financiar las pensiones es cada vez es más grande, llegando incluso a 
+superar los aportes totales; esta dependencia es cada vez más representativa conforme avanza el 
+horizonte de proyección; por tanto, la ausencia de esta contribución, bajo este contexto llevará al 
+desfinanciamiento del \Sexpr{REP_seg}.
+
+El IESS debe encontrar mecanismos de financiamiento y ajustes necesarios para asegurar la 
+sostenibilidad del \Sexpr{REP_seg} y mantener una moderada relación de dependencia entre los 
+beneficios y el aporte estatal.
+
+Otra posible causa de desfinanciamiento es no mantener niveles adecuados de rendimiento en 
+inversiones del portafolio, el mismo que depende del comportamiento de la economía, la colocación y 
+diversificación de las inversiones del portafolio. Los excedentes sobre el rendimiento esperado 
+deben ser canalizados para mejorar y obtener beneficios solventes y capitalizar aún más la reserva.

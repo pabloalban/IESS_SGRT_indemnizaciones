@@ -1,0 +1,62 @@
+%---------------------------------------------------------------------------------------------------
+\chapter{Antecedentes}
+\label{chap_Intro}
+
+Con la finalidad de cumplir con las disposiciones legales emitidas por la Corte Constitucional del Ecuador, se confirma la sentencia No. 1024-19-JP/21 y 66-20-JP: Revisión de garantías (JP). Derecho a la seguridad social, pensión jubilar por incapacidad, montepío, pensión de viudez y orfandad y la responsabilidad del empleador, para la cual, la Dirección Actuarial procede a elaborar el respectivo estudio. \\
+
+Mediante Memorando Nro.IESS-PG-2021-1119-M, de fecha 15 de septiembre del 2021, el Dr. Santiago Peñaherrera Navas, Procurador General del Instituto Ecuatoriano de Seguridad Social, de la época, sugiere a su autoridad, Sra. Eco. Olga Susana Núñez Sánchez, Directora General del Instituto Ecuatoriano de Seguridad Social, con la finalidad de dar cumplimiento a la sentencia, que se disponga a las diferentes direcciones del IESS que implementen de manera inmediata las siguientes acciones:
+
+\textit{“(...)8.4.- A la Dirección Actuarial, de Investigación y Estadística, Dirección Nacional de Recaudación y Gestión de Cartera; y, Dirección del Seguro de Riesgos del Trabajo, esta última deberá liderar el proceso, en virtud de la modificación del Art.94 de la Ley de Seguridad Social:}\\
+
+\begin{quote}
+
+\textit{Art. 94.- RESPONSABILIDAD PATRONAL.- Si por culpa de un patrono el IESS no pudiere conceder a un trabajador o a sus deudos las prestaciones en dinero que fueran reclamadas y a las que habrían podido tener derecho, o si resultaren disminuidas dichas prestaciones por falta de cumplimiento de las obligaciones del empleador, este será responsable de los perjuicios causados al asegurado o a sus deudos, responsabilidad que el Instituto hará efectiva mediante la coactiva. El IESS concederá tales prestaciones, en la parte debida a la omisión o culpa del empleador, solamente cuando se haga efectiva la responsabilidad de éste, a menos que el patrono rinda garantía satisfactoria para el pago de lo que debiere por aquel concepto.}
+\end{quote}
+
+\textit{procedan de manera conjunta y coordinada con el cumplimiento de la disposición No.5, en la que se manifiesta lo siguiente:}\\
+\begin{quote}
+\textit{Disponer que, en el plazo de un año, como medidas de no repetición, el IESS deberá realizar una auditoría, tomar medidas para solucionar los problemas en los procedimientos de cobro de deudas patronales y diseñar e implementar un programa de capacitación, de conformidad con lo dispuesto en el párrafo 170 de esta sentencia.}
+\end{quote}
+\textit{en base a todas las disposiciones contenidas en el párrafo 170 de la sentencia, en la cual, se señala que:}
+\textit{En cuanto a otras medidas de reparación, y para fortalecer las medidas de no repetición, el IESS, en el plazo de un año, deberá:
+\begin{enumerate}
+\item Realizar una auditoría sobre los procesos de cobro de obligaciones por responsabilidad patronal que devengan de riesgos del trabajo, que le permita determinar las dificultades para el cobro efectivo y las soluciones.
+\item Reformar la normativa interna con el objetivo de reducir al mínimo el tiempo de cobro de las obligaciones patronales, en cuanto a prestaciones por riesgos del trabajo, para evitar el desfinanciamiento de dicho seguro.
+\item Emitir directrices para corregir los problemas de colaboración entre sus direcciones provinciales para evitar que cuando realicen procesos coactivos por obligaciones patronales estos se vean detenidos o alargados porque los empleadores se encuentran en otras provincias.
+\item Establecer criterios de prioridad para la atención y prioridad en función de los derechos que tienen las personas a atención prioritaria y especializada.
+\item Revisar la normativa de responsabilidad patronal en cuanto a recargos y sanciones y establecer mecanismos para que los montos a pagar sean posibles, sin que pongan en riesgo los fondos previsionales, así como determinar facilidades de pago en el tiempo.
+\item Establecer sanciones administrativas en casos en los que se demuestre la negligencia o la falta debida para el cobro de deudas de los servidores del IESS relacionados con dicha actividad.
+\item Establecer y regular la obligación de repetir a sus servidores por los daños generados por la negligencia o falta de debida diligencia para el cobro  de deudas por mora y responsabilidad patronal.
+\item Diseñar y ejecutar un proceso de formación a las y los servidores del IESS que atienden en ventanilla y al público, a nivel nacional y que incluya a los profesionales externos, con el fin de mejorar la calidez, eficiencia y eficacia en la atención al usuario y prevenir el mal trato a las personas usuarias del sistema de seguridad social.
+\end{enumerate}
+}
+
+\textit{determinar actuarialmente la afectación del cambio de la forma de entrega de la prestación; y, efectuar todas las actuaciones pertinentes, oportunas y suficientes  para el íntegro cumplimiento de lo ordenado  por la Corte Constitucional, lo cual deberá ser informado a la Procuraduría General del IESS mensualmente, y su cumplimiento íntegro en el plazo de 11 meses. La Dirección del Seguro de Riesgos del Trabajo puede, de considerarlo necesario, solicitar el apoyo y colaboración activa de cualquier otra área del IESS que estime pertinente. (...)"}\\
+
+
+Mediante memorando No.IESS-DSGRT-2021-1550-M de fecha 28 de Octubre del 2021, el Abg. Edgar Patricio Camino Villanueva, Director del Seguro General de Riesgos del trabajo,  realiza el siguiente pedido al Sr. Lcdo. Gilberto Ramiro Vega Suárez, Director Actuarial, de Investigación y Estadística del IESS, lo siguiente: \textit{”(...)se solicita el estudio actuarial a fin de determinar la afectación del cambio de la forma de entrega de la prestación, para lo cual se adjunta la base de datos histórica de responsabilidad patronal del Seguro de Riesgos del Trabajo con corte al 15 de octubre del 2021.”}
+
+Mediante memorando Nro.IESS-SDNP-2022-0114-M, de fecha 26 de Enero de 2022, suscrito por la Mgs. Ivonne Carolina Moreano Montalvo, Subdirectora Nacional de Patrocinio, Encargada y dirigido a: la Sra. Lcda. María Paulina Altamirano Sánchez, Directora Nacional de Comunicación Social; el Sr. Abg. Edgar Patricio Camilo Villanueva, Director del Seguro General de Riesgos del Trabajo; el Sr. Dr. Hugo Fernando Romo Castillo, Director del Seguro General de Salud Individual y Familiar, Encargado; el Sr. Ing. Diego David Dueñas López, Director Provinicial de Morona Santiago; la Sra. Ing. Mercedes Noemy Alvear Galarza, Directora Provincial El Oro; el Sr. Lcdo. Gilberto Ramiro Vega Suárez, Director Actuarial, de Investigación y Estadística ; Sra. Ing. Ximena Estefanía Córdova Cabezas-Borja, Directora Nacional de Recaudación y Gestión de Cartera    se dispone que: \textit{ “ (...)la Dirección Actuarial de Investigación y Estadística, Dirección Nacional de Recaudación  y Gestión de Cartera; y, Dirección del Seguro de Riesgos del Trabajo, esta última deberá liderar el proceso, en virtud de la modificación del Art.94 de la Ley de Seguridad Social, procedan de manera conjunta y coordinada con el cumplimiento de la disposición No. 5, en base a todas las disposiciones  contenidas en el párrafo 170 de la sentencia, determinar actuarialmente la afectación del cambio de la forma de entrega de la prestación; y, efectuar todas las actuaciones pertinentes, oportunas y suficientes, para el íntegro cumplimiento de lo ordenado por la corte Constitucional, lo cual deberá ser informado a la Procuraduría General del IESS mensualmente, y su cumplimiento íntegro en el plazo de 11 meses. La Dirección del seguro de Riesgos del Trabajo puede de considerarlo necesario solicitar el apoyo y colaboración activa de cualquier otra área del IESS que estime pertinente.(...)“}
+
+Con memorando Nro. IESS-DAIE-2022-0228-M, de fecha 10 de Marzo del 2022, el Lcdo. Gilberto Ramiro Vega Suárez, Director Actuarial, de Investigación y Estadística del IESS, realiza el siguiente pedido al Sr.Abg. Edgar Patricio Camino Villanueva, Director del  Seguro General de Riesgos del Trabajo y a la Sra.Mgs.Ximena Estefanía Córdova Cabezas-Borja, Directora Nacional de Recaudación y Gestión de Cartera: \textit{”(...) se solicita delegar un funcionario de  su dirección para que asista a la reunión de trabajo sobre este tema (cumplimiento de la sentencia de la Corte Constitucional No.1024-19-JP/21) a llevarse a cabo en las oficinas de la DAIE el día martes 15 de marzo de 2022, a las 9:00 horas, toda vez que la Dirección Actuarial necesita conocer con que información dispone la Dirección del Seguro de Riesgos del Trabajo y la Dirección Nacional de Recaudación y Gestión de Cartera, con el fin de calcular la afectación económica que implica el cambio de la normativa.”}
+
+Mediante memorando Nro. IESS-DAIE-2022-0241-M, con fecha 15 de Marzo de 2022 suscrito por el Lcdo. Gilberto Ramiro Vega Suárez, Director Actuarial, de Investigación y Estadística del IESS y dirigido a la Sra. Mgs. Ximena Estefanía Córdova Cabezas-Borja, Directora Nacional de Recaudación y Gestión de Cartera se solicita: \textit{“(...)remitir la base de datos de los empleadores en mora, con los campos del visor de mora patronal. Adicionalmente, agradeceré remitir la información estadística que disponga referente a la mora patronal.(...)”}
+
+
+Con memorando Nro. IESS-DSGRT-2022-0386-M, con fecha 22 de Marzo de 2022, suscrito por el Abg. Edgar Patricio Camino Villanueva, Director del Seguro General de Riesgos del Trabajo y dirigido al  Sr. Lcdo. Gilberto Ramiro Vega Suárez, Director Actuarial, de Investigación y Estadística del IESS remite lo siguiente: \textit{” (...) hasta la presente fecha no hemos obtenido respuesta al requerimiento, por lo cual y con el objetivo de dar cumplimiento a lo dispuesto por parte de la Procuraduría General de esta institución, me permito solicitar nuevamente el estudio actuarial a fin de determinar la afectación del cambio de la forma de entrega de la prestación.”}
+
+Con memorando Nro. IESS-DSGRT-2022-0409-M, con fecha 24 de Marzo de 2022, suscrito por el Abg. Edgar Patricio Camino Villanueva, Director del Seguro General de Riesgos del Trabajo y dirigido al  Sr. Lcdo. Gilberto Ramiro Vega Suárez, Director Actuarial, de Investigación y Estadística del IESS remite lo siguiente: \textit{" (...) en el archivo adjunto se envía la base de datos histórica de las resoluciones de responsabilidad patronal del Seguro General de Riesgos del Trabajo con corte al 18 de Marzo de 2022. Es importante mencionar  que se está recopilando información de interés de las Unidades Provinciales que se enviará a los correos electrónicos detallados.(...)”}
+
+Con memorando Nro. IESS-DNRGC-2022-0585-M, con fecha 25 de Marzo de 2022, suscrito por el Ing. Andrés David Gómez Pérez, Director Nacional de Recaudación y Gestión de cartera, Subrogante y dirigido al  Sr. Lcdo. Gilberto Ramiro Vega Suárez, Director Actuarial, de Investigación y Estadística del IESS remite lo siguiente: \textit{”(...) bajo el contexto de lo previamente expuesto, esta Dirección Nacional se permite remitir link de acceso a la información requerida, en la cual se desprende la base del visor de mora patronal con corte al 05 de marzo de 2022, y la información estadística solicitada, la misma que fue obtenida de un pedido realizado a la Dirección Nacional de Tecnologías de la información (INFO 9635). Link: \url{https://drive.google.com/drive/folders/li6N00s-iyFc9nwJQvp3QsbMGSi304PwW?usp=sharing}.”}
+
+
+
+
+
+
+
+
+
+
+
+

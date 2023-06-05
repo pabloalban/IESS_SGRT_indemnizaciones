@@ -1,0 +1,164 @@
+%---------------------------------------------------------------------------------------------------
+\chapter{Base legal}
+\label{chp_baselegal}
+
+%---------------------------------------------------------------------------------------------------
+
+\section{Ley de Seguridad Social}
+\label{chp_seguridadsocial}
+
+La Ley de Seguridad Social publicada en el Registro Oficial Suplemento 465, de fecha 30 de
+noviembre de 2001, establece respecto a la responsabilidad patronal:
+
+\textit{``Artículo 94.- RESPONSABILIDAD PATRONAL.- Si por culpa de un patrono el IESS no pudiere conceder a un trabajador o a sus deudos las prestaciones en dinero que fueran reclamadas y a las que habrían podido tener derecho, o si resultaren disminuidas dichas prestaciones por falta de cumplimiento de las obligaciones del empleador, este será responsable de los perjuicios causados al asegurado o a sus deudos, responsabilidad que el Instituto hará efectiva mediante la coactiva. El IESS concederá tales prestaciones, en la parte debida a la omisión o culpa del empleador, solamente cuando se haga efectiva la responsabilidad de éste, a menos que el patrono rinda garantía satisfactoria para el pago de lo que debiere por aquel concepto''.}
+
+\textit{``Artículo 95.- ACCION PARA PERSEGUIR LA RESPONSABILIDAD PATRONAL.- En los casos de responsabilidad patronal, dentro de los treinta (30) días de producido el hecho que la determina, el IESS iniciará el juicio coactivo correspondiente contra el empleador en mora. El juicio concluirá o podrá suspenderse por pago en efectivo o por suscripción de un convenio de purga de mora con alguna de las garantías señaladas en el artículo 93 de esta Ley, bajo la responsabilidad pecuniaria del Director General o Provincial o del funcionario que ejerza la jurisdicción coactiva por delegación, según corresponda''.}
+
+\textit{``Artículo 96.- PRESTACIONES QUE DEBEN CONCEDERSE AUN EN CASO DE MORA PATRONAL.- El Instituto Ecuatoriano de Seguridad Social queda obligado a conceder las prestaciones por enfermedad, maternidad, auxilio de funerales y el fondo mortuorio a todos sus asegurados que hayan cumplido las condiciones establecidas en esta Ley y los reglamentos, aún cuando sus patronos estén en mora. Todo, sin perjuicio de la responsabilidad patronal a que haya lugar.}
+
+\textit{El Instituto Ecuatoriano de Seguridad Social queda obligado, asimismo, a la entrega oportuna de las prestaciones de salud a los jubilados en sus unidades médicas, aún cuando el Estado no se hallare al día en el pago de la contribución obligatoria que cubre el costo del seguro colectivo contra la contingencia de enfermedad de los jubilados''.}
+
+
+Respecto a la responsabilidad de la Dirección Actuarial, de Investigación y Estadística:
+
+\textit{``Artículo 45.- RESPONSABILIDAD.- La Dirección Actuarial es órgano de asesoría técnica del IESS, subordinado al Consejo Directivo. Tiene a su cargo la preparación de los balances actuariales de cada uno de los regímenes de protección del Seguro General Obligatorio; la elaboración de los estudios técnicos y los informes periódicos sobre la situación de dichos regímenes y sus proyecciones; la evaluación de la cobertura poblacional, el perfil epidemiológico, los índices de siniestralidad de cada riesgo protegido, y del equilibrio financiero de los seguros sociales aplicados por el IESS; la preparación sistemática, periódica y oportuna de la memoria estadística del IESS, y los demás que ordene el Consejo Directivo.} 
+
+\textit{El Director Actuarial será designado por el Consejo Directivo para un período de cuatro (4) años, de acuerdo con los requisitos establecidos en el Reglamento''.}
+
+
+
+\section{Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP}
+\label{chp_sentencia}
+
+Con fecha 01 de septiembre de 2021, el Juez ponente, Ramiro Ávila Santamaría, de la Corte Constitucional emite la sentencia CASO No. 1024-19-JP/21 y 66-20-JP (Derecho a la seguridad social, pensión jubilar por incapacidad, montepío, pensión de viudez y orfandad y la responsabilidad del empleador). El Pleno de la Corte Constitucional del Ecuador, en ejercicio de sus atribuciones constitucionales y legales, emite la siguiente sentencia:
+
+\begin{center}
+\textit{``V. Decisión}
+\end{center}
+\textit{La Corte Constitucional, administrando justicia constitucional conforme lo dispuesto en el artículo 436 (6) de la Constitución, artículo 25 de la LOGJCC, RESUELVE:}
+\begin{enumerate}[nosep, label = {\arabic*.}]
+\item \textit{Confirmar las sentencias emitidas el 6 de junio de 2019 por la Única Sala de la Corte Provincial de Morona Santiago, y el 28 de noviembre de 2019 por la Sala de Familia, Mujer y Adolescencia de la Corte Provincial de El Oro.}\\
+
+\item \textit{Declarar la violación de derechos por parte del IESS a la seguridad social, a la vida digna, a la atención prioritaria y especializada y al acceso a servicios de calidad, eficientes, eficaces y de buen trato, de Galo Patiño Quezada y su familia, y de Maritza Liliana Saavedra Chasing, de sus hijos JBS y MBS.}\\
+
+\item \textit{Disponer, como medidas de reparación, que:}\\
+
+\begin{enumerate}[nosep, label = {(\arabic*)} ]
+\item \textit{El IESS, en el plazo de un mes, pedirá disculpas públicas a Maritza Saavedra y Galo Patiño Quezada, mediante oficio a sus domicilios y confirma de autoridad competencia, y mediante publicación en un diario de circulación nacional y local, de conformidad con el siguiente texto:}\\
+
+\textit{``El IESS pide disculpas públicamente [a Maritza Saavedra y a sus hijos] [a Galo Patiño Quezada y a su familia] por la demora excesiva en otorgar las pensiones debidas, que ocasionó innecesariamente sufrimientos y violaciones a sus derechos a la seguridad social, vida digna, atención prioritaria y a acceder a bienes y servicios públicos de calidad, eficaces y eficientes, que fueron declaradas mediante sentencia de la Corte Constitucional (Caso 1024-19-JP y acumulado), y promete tomar las medidas necesarias para que situaciones como las sucedidas, no vuelva a pasar a otras personas''.}\\
+
+\item \textit{El IESS deberá entregar, en el plazo de treinta días, la prótesis necesaria a Galo Patiño y encargarse de reemplazarla oportunamente cada vez que su condición médica lo requiera.}\\
+
+\item \textit{El IESS, en el plazo de 6 meses, por los daños materiales e inmateriales, la angustia, sufrimiento y las violaciones a los derechos de Galo Patiño y Maritza Saavedra y sus familias, deberá entregarles la cantidad de diez mil dólares (USD 10.000) a cada una de las víctimas.}\\
+\end{enumerate}
+
+\item \textit{Declarar la inconstitucionalidad, de oficio, de la frase del inciso segundo del artículo 94 de la Ley de Seguridad Social que dice “solamente cuando se haga efectiva la responsabilidad de éste, a menos que el patrono rinda garantía satisfactoria para el pago de lo que debiere por aquel concepto” y disponer que en el texto se lea “El IESS concederá inmediatamente tales prestaciones, cuando se cumplan los requisitos de ley.” En consecuencia, el artículo 94, inciso segundo, dirá:}\\
+
+\textit{``El IESS concederá inmediatamente tales prestaciones cuando se cumplan los requisitos de ley, aun cuando no se haga efectiva la responsabilidad del patrono''.}\\
+
+\item \textit{Disponer que, en el plazo de un año, como medidas de no repetición, el IESS deberá realizar una auditoría, tomar medidas para solucionar los problemas en los procedimientos de cobro de deudas patronales y diseñar e implementar un programa de capacitación, de conformidad con lo dispuesto en el párrafo 170 de esta sentencia.}\\
+
+\item \textit{Exhortar a los empleadores a través de las distintas Cámaras de Comercio, Producción, para que difundan esta sentencia entre sus agremiados y ofrezcan capacitación en tema de cumplimiento de obligaciones de seguridad industrial y prevención de accidentes y enfermedades laborales, así como realizar una campaña sobre la importancia del pago oportuno de las aportaciones al IESS.}\\
+
+\item \textit{Notifíquese, publíquese y cúmplase''.}
+\end{enumerate}
+
+\section{Reglamento Orgánico Funcional del Instituto Ecuatoriano de Seguridad Social}
+\label{chp_reglamento_org_funcional}
+
+
+En el punto 2.3 del artículo 10 de la \textcite{ResIESS_CD535} emitida por el Consejo Directivo del IESS de fecha 8 de septiembre de 2016, se establecen: la misión, atribuciones y responsabilidades de la Dirección Actuarial, de Investigación y Estadística. Entre las cuales se establece la siguiente atribución y responsabilidad:
+
+\textit{"2.3 GESTIÓN ACTUARIAL, DE INVESTIGACIÓN Y ESTADÍSTICA\\
+DIRECCIÓN ACTUARIAL, DE INVESTIGACIÓN Y ESTADÍSTICA\\
+(...)\\
+ATRIBUCIONES Y RESPONSABILIDADES\\
+(...)\\
+b) Desarrollar y revisar estudios e informes técnicos sobre la situación financiera actuarial de los regímenes de aseguramiento para la prestación de las contingencias del seguro universal obligatorio de los afiliados al IESS; y, para la prestación de contingencias del régimen especial establecido para el Seguro Social Campesino, y requerido por el Consejo Directivo y la Dirección General;(..)"}
+
+y su misión:
+
+\textit{``(...) Preparar los balances actuariales de cada uno de los regímenes de protección del Seguro Obligatorio, la elaboración de los estudios técnicos y los informes periódicos sobre la situación de dichos regímenes y sus proyecciones  para mantener el equilibrio financiero de los seguros administrados por el IESS; realizar investigaciones y estudios en el campo de la seguridad social; y, preparar de manera sistemática, periódica y oportuna la memoria estadística del IESS en los términos establecidos en la Ley (...)''}
+
+\section{Reglamento General de Responsabilidad Patronal}
+Con fecha 30 de marzo de 2016, se expidió el Reglamento General de Responsabilidad Patronal, mediante la emisión de la \textcite{ResIESS_CD517}, el cual señala en su Capítulo Sexto, establece:
+
+\textit{``Artículo 14.- En los casos de generarse derecho al otorgamiento de pensiones por accidente de trabajo o enfermedad profesional, hay responsabilidad patronal cuando:}
+
+\begin{enumerate}[nosep, label=\alph*)]
+\item \textit{El empleador no inscribió al trabajador ni pagó aportes al IESS antes de la ocurrencia del siniestro;}\\
+
+\item \textit{El empleador se encuentra en mora en el pago de aportes al momento del accidente de trabajo o al momento de la calificación de la enfermedad profesional o del cese provocado por ésta;}\\
+
+\item \textit{El empleador por sí o por interpuesta persona, no comunicó al IESS el siniestro, dentro de los 10 días laborables contados a partir de la fecha del accidente de trabajo o del diagnóstico de presunción inicial de la enfermedad profesional;}\\
+
+\item \textit{Si a consecuencia de las investigaciones realizadas por las unidades de Riesgos del Trabajo, se determina que el accidente de trabajo o enfermedad profesional ha sido causado por incumplimiento y/o inobservancia de las normas sobre prevención de riesgos de trabajo, aun cuando este al día en el pago de aportes; y,}\\
+
+\item \textit{Los aportes correspondientes a uno de los 12 meses de aportación, anteriores a la fecha del siniestro, fueron pagados con una extemporaneidad mayor de 3 meses''.}\\
+
+\end{enumerate}
+
+\textit{``Artículo 15.- Cuantía. - La cuantía de la responsabilidad patronal en los casos de subsidios, indemnizaciones, pensiones y rentas por accidentes de trabajo o enfermedades profesionales u ocupacionales, será igual:}
+
+\begin{enumerate}[nosep, label=\alph*)]
+\item \textit{Al valor equivalente a un salario básico unificado del trabajador en general, vigente a la fecha de liquidación, cuando se trate de la aplicación de la responsabilidad patronal constante en los literales a) y c) del artículo 14 de este Reglamento, sin perjuicio del pro de la responsabilidad patronal que hubiere lugar por atenciones de salud.}\\
+
+\item \textit{En los casos constantes en el literal b) del artículo 14 del presente Reglamento, cuando los aportes que se encuentren en mora correspondan a períodos inferiores a 180 meses, se calculará de la siguiente manera: el número de meses en mora multiplicado por el monto total en mora y por la rentabilidad mensual óptima de los recursos; a dicho producto se le suma el 50\% del salario básico unificado:}
+	\[ RP_{total} = T \ast r \ast X_{t} + 0,5 \, SBU
+\]
+Donde:\\
+$RP_{total}$: \textit{Responsabilidad Patronal Total.}\\
+$FD_{k}$: \textit{Fecha límite de pago del aporte "$k$".}\\
+$FP_{k}$: \textit{Fecha de pago del aporte "$k$".}\\
+$t$: \textit{Número de aportes pagados en mora.}\\
+$T$: \textit{Máximo valor de las diferencias entre la fecha de pago y la fecha límite de pago de los aportes cancelados extemporáneamente después del siniestro, toda fracción será considerada como un mes para efectos del cálculo.} \\
+	\[ T = \max \left\{FP_{k} - FD_{k} : k \in \left\{1,2,\ldots,t\right\} \right\}
+\]
+$r$: \textit{3 veces la rentabilidad anual mensualizada del BIESS.}\\
+$X_{t}$: \textit{Es el monto total del aporte al seguro del tiempo adeudado.}\\
+	\[X_{t} = \sum_{k}^{t} x_{k}
+\]
+$X_{k}$: \textit{Es el aporte "$k$" \; no pagado, $k = \bar{1,t}$ \\
+SBU: Salario Básico Unificado a la fecha de liquidación.}\\
+
+\textit{Como tasa de rentabilidad se considerará la rentabilidad del año anterior generada por el BIESS para las Inversiones del Seguro especializado correspondiente.}\\
+
+\item \textit{En los casos constantes en el literal b) del artículo 14 del presente Reglamento, cuando los aportes pagados con mora después de la fecha del siniestro sean iguales o superiores a 180 meses, la cuantía es la diferencia entre el valor que hubiesen rendido los aportes no pagados (Reserva Matemática) y el valor cobrado por mora, no menor de 25 SBU.}\\
+
+\textit{La fórmula de cálculo es la siguiente:}\\
+
+	\[RP_{total} = \max \left\{ 25\,SBU; \sum_{k=1}^{t} x_{t} \left[ \prod_{j=1}^{m_{k}} \left(\left(1+ta\right)\left( 1+\pi_{j}\right)\right)^{1/12} - \left(1 + m_{k}\ast\frac{mc_{k}+4\%}{12}\right)\right] I_{0}^{1}\right\}
+\]
+\textit{Donde:}\\
+$RP_{total}$: \textit{Responsabilidad Patronal Total.}\\
+$SBU$: \textit{Salario Básico Unificado a la fecha de liquidación.}\\
+$t$: \textit{Número de aportes pagados por mora.}\\
+$x_{k}$: \textit{Es el aporte $k$ no pagado, $k=\bar{1,t}$.}\\
+$FD_{k}$: \textit{Fecha límite de pago del aporte "$k$".}\\
+$FP_{k}$: \textit{Fecha de pago del aporte "$k$".}\\
+$m_{k}$: \textit{Número de meses transcurridos entre la fecha de pago $FP_{k}$ y la fecha límite de pago $FD_{k}$ del aporte "$k$", toda fracción será considerada como un mes para efectos del cálculo.}\\
+$ta$: \textit{Tasa actuarial.}\\
+$\pi_{j}$: \textit{Inflación del mes "$i$" posterior al mes de la fecha límite de pago.}\\
+$mc_{k}$: \textit{Tasa máxima convencional permitida por el Banco Central vigente a la fecha de pago o liquidación del aporte "$k$".}\\
+$I_{0}^{1}$: \textit{es una variable binaria definida de la siguiente manera:}\\
+
+\begin{equation*}
+ I_{0}^{1} = \begin{cases}
+  1  & \text{si }  \prod_{j=1}^{m_{k}} \left(\left(1+ta\right)\left( 1+\pi_{j}\right)\right)^{1/12} - \left(1 + m_{k}\ast\frac{mc_{k}+4\%}{12}\right) \\
+  0                                                        & \text{caso contrario.}
+  \end{cases} \\
+\end{equation*}
+
+
+\item \textit{Si a consecuencia de las investigaciones realizadas por las Unidades de Riesgos del Trabajo, se determinare que el accidente o la enfermedad profesional u ocupacional ha sido causada por incumplimiento y/o inobservancia de las normas sobre prevención de riesgos del trabajo; para las incapacidades temporales y permanentes parciales, se cobrará el valor de la prestación otorgada multiplicada por la sumatoria de los porcentajes establecidos en la tabla anexa, de acuerdo al resultado de la investigación del siniestro, que genere el número de incumplimientos por tipo de causalidad, y de conformidad al Reglamento del Seguro General de Riesgos del Trabajo.
+Para los casos de incapacidades permanente total, permanente absoluta y/o fallecimientos, y que en la investigación de causalidad del siniestro se determine la responsabilidad del empleador, el valor a cobrarse será del 100\% de la prestación generada.}\\
+
+\item \textit{La aplicación de la Responsabilidad Patronal en los casos constantes en el literal d) del artículo 14 del presente Reglamento, en sujeción al dictamen de la Comisión Nacional de Prevención, la cuantía de la sanción en el caso de pensiones en el Seguro General de Riesgos de Trabajo, será igual al valor actuarial de la pensión a pagar a cargo del IESS menos la reserva acumulada en este Seguro, para la prestación a otorgarse.}\\
+
+\item \textit{Responsabilidad Patronal de dos o más empleadores por enfermedad profesional u ocupacional.- Cuando se determine responsabilidad patronal por inobservancia de medidas de prevención, de dos o más empleadores respecto de un mismo asegurado, por enfermedad profesional u ocupacional, la sanción se aplicará proporcionalmente a cada empleador, en relación directa con las remuneraciones sobre las cuales se realizaron las aportaciones.}\\
+
+\item \textit{Responsabilidad Solidaria por accidente de trabajo.- Sin perjuicio de la responsabilidad principal del obligado directo y dejando a salvo el derecho de repetición, la persona en cuyo beneficio se realice la obra o se preste el servicio será responsable solidario del pago de la cuantía de la responsabilidad patronal por incumplimiento de la normativa técnico legal en seguridad y salud en el trabajo, aunque el contrato de trabajo se efectúe a través de prestadores de actividades complementarias. Los responsables solidarios deberán ser notificados al igual que el obligado principal, desde el inicio del proceso de responsabilidad patronal y durante todas sus fases.}
+
+\end{enumerate}
+

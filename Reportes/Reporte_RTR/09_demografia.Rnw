@@ -1,0 +1,2164 @@
+%---------------------------------------------------------------------------------------------------
+\chapter[Análisis demográfico, de salarios y prestaciones]{Análisis demográfico, de salarios y prestaciones}
+\label{chp_demog}
+%--------------------------------------------------------------------------------------------------
+% Población Afiliada y Pensionistas del SGO
+
+En cumplimento del punto A del artículo 7 del CAPÍTULO II: ``REQUISITOS TÉCNICOS PARA LA ELABORACIÓN, PRESENTACIÓN, APROBACIÓN Y REVISIÓN DE LOS ESTUDIOS ACTUARIALES DE LAS ENTIDADES DE SEGURIDAD SOCIAL, el cual establece la evolución y tendencia financiera de las ``\textit{i. Evolución demográfica de al menos los últimos cinco (5) años:}'', se presenta el análisis demográfico, de salarios y prestaciones del Fondo del \Sexpr{REP_seg}.
+
+A continuación, se presenta un análisis tabular y gráfico de las principales variables demográficas, salariales, aportaciones y montos de pensiones pagadas, de la población asegurada y beneficiaria.
+
+\section{Estructura demográfica de la población afiliada}
+
+% %---------------------------------------------------------------------------------------------------
+\subsection{Afiliados}
+\label{chp_demog:afi}
+
+%---------------------------------------------------------------------------------------------------
+A diciembre de 2022, se registraron 3.087.759 cotizantes al Seguro General Obligatorio, de los cuales 1.758.915 (56,96\%) son hombres y 1.328.844 (43,04\%) son mujeres. En comparación a diciembre de 2021, existe un aumento de 118.153 cotizantes activos, lo que representa un crecimiento igual a 3,98\%. El mayor número de afiliados activos se registró en noviembre de 2018, con 3.137.439; debido a la pandemia de la COVID – 19, solo cotizaron 2.818.491 afiliados en septiembre de 2020, desde ese punto, el número de cotizantes creció en promedio 9,973 cada mes hasta diciembre de 2022; pero lamentablemente no se ha logrado alcanzar el número de afiliados activos a diciembre de 2019 (3.116.555). En la tabla \ref{tab:iess_afliados}, se presente el número de cotizantes al SGO a diciembre de cada año ; en cambio en la figura \ref{fig:iess_pob_afi_ini}, se presenta la evolución mensual de afiliados activos.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{13}\selectfont
+\begin{longtable}[H]{crrrrrrr}
+  \caption{Evolución de los cotizantes a diciembre del \Sexpr{REP_seg}}
+\label{tab:iess_afliados} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{2}{c}{Hombres} &
+\multicolumn{2}{c}{Mujeres} &
+ \multicolumn{1}{c}{\multirow{2}{*}{Total}} & 
+\multicolumn{1}{c}{Incremento de} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+& 
+\multicolumn{1}{c}{Cotizantes} &
+\multicolumn{1}{c}{Porcentaje (\%)} &
+\multicolumn{1}{c}{Cotizantes} &
+\multicolumn{1}{c}{Porcentaje (\%)} &
+&
+\multicolumn{1}{c}{Cotizantes} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{2}{c}{Hombres} &
+\multicolumn{2}{c}{Mujeres} &
+ \multicolumn{1}{c}{\multirow{2}{*}{Total}} & 
+\multicolumn{1}{c}{Incremento de} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-3}  \cline{4-5} 
+& 
+\multicolumn{1}{c}{Cotizantes} &
+\multicolumn{1}{c}{Porcentaje (\%)} &
+\multicolumn{1}{c}{Cotizantes} &
+\multicolumn{1}{c}{Porcentaje (\%)} &
+&
+\multicolumn{1}{c}{Cotizantes} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{8}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DNAC - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/iess_afliados.tex}
+\end{longtable}
+}
+}
+
+
+
+\begin{figure}[H]
+\centering
+\captionsetup{justification=centering}
+\caption{Evolución la población cotizante del \Sexpr{REP_seg}}
+\label{fig:iess_pob_afi_ini}
+\includegraphics[scale=1.15]{graficos/iess_afi.png}
+\caption*{\scriptsize {\bf Fuente:} DNAC - IESS \\
+{\bf Elaborado:} DAIE}
+\end{figure}
+
+La pirámide poblacional de los cotizante a diciembre de 2022 presenta una forma regresiva, con las siguientes características: la esperanza de vida va aumentando, una baja entrada de a la vida laboral formal para los jóvenes menores de 25 años, sustitución de la fuerza laboral débil y una población en proceso de envejecimiento (ver pirámide poblacional de los cotizantes al SGO a diciembre de 2022 en la figura \ref{fig:iess_pir_afiliados}).
+
+\begin{figure}[H]
+\centering
+\captionsetup{justification=centering}
+\caption{Distribución por edad y sexo de la población cotizante a diciembre de 2022}
+\label{fig:iess_pir_afiliados}
+\includegraphics[scale=1]{graficos/iess_pir_afiliados.png}
+\caption*{\scriptsize {\bf Fuente:} DNAC - IESS \\
+{\bf Elaborado:} DAIE}
+\end{figure}
+
+Del total de afiliados activos a diciembre de 2022, el 43,04\% son mujeres y el 56,96\% son hombres. La edad promedio de la población femenina es de 41,3 años, mientras que la población masculina es de 39,7 años. La población de cotizantes se distribuye de la siguiente forma: solo el 1,95\% de los cotizantes tiene menos de 20 años; los cotizantes entre 20 y 30 años representan el 24,02\%; los cotizantes entre 30 y 40 años representan el 28,91\%, siendo el grupo más numeroso; el 21,92\% tiene entre 40 y 50 años y solo el 16,11\% tiene entre 50 y 60 años. Respecto a las personas mayores a 60 años, esta población solo representa el 7,08\%. En la tabla \ref{tab:iess_rangos_afiliados_sgo}, se presenta la distribución por rangos de edad y sexo de los cotizantes del SGO a diciembre de 2022.
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{crrrrrr}
+\caption{Distribución de los cotizantes del SGO a diciembre de 2022, por rangos de edad y sexo}
+\label{tab:iess_rangos_afiliados_sgo}\\
+\toprule
+\multirow{2}[2]{*}{Rango edad:} &
+\multicolumn{2}{c}{Hombres} & 
+\multicolumn{2}{c}{Mujeres} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Cotizantes}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Cotizantes}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Cotizantes} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango edad:} &
+\multicolumn{2}{c}{Hombres} & 
+\multicolumn{2}{c}{Mujeres} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Cotizantes}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Cotizantes}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Cotizantes} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/iess_rangos_afiliados_sgo.tex}
+\end{longtable}
+}
+
+
+\begin{landscape}
+
+\subsection{Masa salarial}
+\label{chp_masa:salarial}
+
+En la tabla \ref{tab:iess_masa_salarial} y figura \ref{fig:iess_masa_salarial} se presenta
+la evolución anual de la masa salarial y la correspondiente al mes de diciembre para el período 2005
+al 2022.
+
+{\setlength{\tabcolsep}{7pt}
+{\fontsize{11}{14}\selectfont
+\begin{longtable}[H]{crrrrrrr}
+  \caption{Evolución anual de la masa salarial de los cotizantes al SGO}
+\label{tab:iess_masa_salarial} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{2}{c}{Hombres} &
+\multicolumn{2}{c}{Mujeres} &
+ \multicolumn{1}{c}{\multirow{2}{*}{Total}} & 
+\multicolumn{1}{c}{Incremento de} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+& 
+\multicolumn{1}{c}{Masa Salarial (USD)} &
+\multicolumn{1}{c}{Porcentaje (\%)} &
+\multicolumn{1}{c}{Masa Salarial (USD)} &
+\multicolumn{1}{c}{Porcentaje (\%)} &
+&
+\multicolumn{1}{c}{Masa Salarial (USD)} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{2}{c}{Hombres} &
+\multicolumn{2}{c}{Mujeres} &
+ \multicolumn{1}{c}{\multirow{2}{*}{Total}} & 
+\multicolumn{1}{c}{Incremento de} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5}
+& 
+\multicolumn{1}{c}{Masa Salarial (USD)} &
+\multicolumn{1}{c}{Porcentaje (\%)} &
+\multicolumn{1}{c}{Masa Salarial (USD)} &
+\multicolumn{1}{c}{Porcentaje (\%)} &
+&
+\multicolumn{1}{c}{Masa Salarial (USD)} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{8}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DNAC - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/iess_masa_salarial.tex}
+\end{longtable}
+}
+}
+
+\end{landscape}
+
+\begin{landscape}
+\begin{table}[H]
+\centering
+\captionsetup{justification=centering}
+\caption{Población afiliada al IESS por rangos de edad, número de aportaciones y sueldo promedio a diciembre de 2020}
+\label{tab:iess_afi_tiempo_aportacion}
+\scalebox{0.7}{
+\begin{tabular}{r|crrrrrrrrrr|c}
+\toprule
+\multicolumn{1}{c|}{\multirow{2}[4]{*}{Edad}} & \multicolumn{11}{p{20em}|}{Tiempo de afiliación} & \multicolumn{1}{c}{\multirow{2}[4]{*}{Total}} \\
+\cmidrule{2-12} & [0 , 5] & [6 , 10] & [11 , 15] & [16 , 20] & [21 , 25] & [26 ,30] & [31 , 35] & [36 , 40] & [41 , 45]  & [46 , 50]& \text{$>50$} &  \\
+\midrule
+\input{tablas/iess_afi_tiempo_aportacion.tex}
+\bottomrule
+\end{tabular}
+}
+
+\caption*{\scriptsize Fuente: DNAC - IESS \\
+Elaborado: DAIE}
+\end{table}
+\end{landscape}
+
+\begin{figure}[H]
+\centering
+\captionsetup{justification=centering}
+\caption{Evolución anual de la Masa salarial}
+\label{fig:iess_masa_salarial}
+\includegraphics[scale=0.9]{graficos/iess_masa_salarial.png}
+\caption*{\scriptsize Fuente: DNAC - IESS \\
+Elaborado: DAIE}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\captionsetup{justification=centering}
+\caption{Distribución por sexo del salario declarado de los afiliados a diciembre de 2022}
+\label{fig:iess_pir_masa_salarial}
+\includegraphics[scale=0.9]{graficos/iess_pir_masa_salarial.png}
+\caption*{\scriptsize Fuente: DNAC - IESS\\
+Elaborado: DAIE}
+\end{figure}
+
+Para el año 2022, la masa salarial tiene un valor de USD 26.133.768.816,71, que representa un crecimiento del 537,14\% en comparación al año 2005. Se observa un rápido crecimiento de la masa salarial en el período 2005 al 2015, con una tasa promedio anual del 20,50\%. En el año 2016 se evidencia una disminución de la masa salarial producto de la caída de más del 50\% del precio del petróleo en el 2015 y del terremoto de abril de 2016. Si bien la masa salarial se recuperó lentamente entre el año 2017 y 2019; sin embargo, en el 2020, nuevamente se registró un decremento importante del 7,33\% debido a la crisis sanitaria, económica y social producida por la pandemia de la COVID-19, que incrementó la tasa de desempleo en el país provocando una enorme cantidad de desafiliaciones. En el año 2021, todavía se sintió los estragos económicos de la pandemia y se alcanzó un amasa salarial igual a USD 25.678.939.665,57, un 0,04\% menos que en el 2020; pero para el año 2022, la masa salarial creció en 1,77\% a USD 26.133.768.816,71; es decir un incremento de USD 454.829.151,14, respecto al año anterior.
+
+En la figura \ref{fig:iess_pir_masa_salarial} se muestra la distribución por sexo del salario declarado de los afiliados a diciembre de 2022. El promedio declarado por parte de las mujeres a diciembre 2022 es USD 742,93 y para los hombres es de USD 772,29.El promedio total es de USD 756,48. En la tabla \ref{tab:iess_afi_tiempo_aportacion} se presenta la cantidad de afiliados activos a la fecha corte de este estudio, clasificados por edad, tiempo de aportes en años y el valor promedio del sueldo sobre el que se aporta. 
+
+En esta matriz se detectan afiliados con edades superiores a los 90 años y se observa que el 28,5\% de la población afiliada tiene entre 0 y 5 años aportados; más del 50\% de la población afiliada está comprendida entre 26 y 45 años; y, que las personas que más años aportados tienen les corresponden los salarios promedios más altos. La población entre 41 y 45 años tiene el promedio de sueldos más altos (USD 870,12 en promedio de sueldos).
+
+
+
+%---------------------------------------------------------------------------------------------------
+\section{Estructura demográfica de la población de beneficiarios y sus beneficios}
+
+A continuación, se detalla la población beneficiaria por cada una de las prestaciones que otorga el
+\Sexpr{REP_seg}.
+
+% %---------------------------------------------------------------------------------------------------
+\subsection{Subsidios por incapacidad temporal}
+
+En concordancia al artículo 22 del \legalcite{ResIESS_CD513}, que determina: “\textit{En los casos de incapacidad temporal que produzcan una imposibilidad p ara concurrir a laborar, el asegurado tendrá derecho a percibir el subsidio desde el día siguiente de producida la misma, por el período que señale el médico tratante, el mismo que será de hasta un año en los porcentajes fijados sobre la remuneración base de aportación al IESS (...)}”.
+
+Los subsidios por accidente de trabajo se calcularán en la forma establecida en el artículo 18 para el subsidio por enfermedad común, y se pagará en una cuantía igual al 75\% del sueldo o salario promedio durante las diez primeras semanas, y al 66\% del mismo sueldo o salario promedio hasta completar cincuenta y dos semanas. (artículo 30 de la \legalcite{ResIESS_CS358}, de 30 de octubre de 1979). En la siguiente tabla y gráfica, se expone la serie histórica del número de beneficiarios de subsidios de Seguro de Riesgos del Trabajo y el monto pagado anualmente.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{11}{12}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de los beneficiarios de subsidios del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_subsidios_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_ben_subsidios_rtr.tex}
+\end{longtable}
+}
+}
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de los beneficiarios de subsidios del \Sexpr{REP_seg}}
+\label{fig:iess_subsidios_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_subsidios_rtr.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+Durante el año 2022, se entregó subsidios a 7.727 beneficiarios, de los cuales la mayoría 6.439 (83,33\%) son hombres y solo 1.288 (16,67\%) mujeres, lo que representó un incremento del 26,71\%, respecto al año anterior. Solamente en el mes de diciembre de 2021, se entregó subsidios a 1.275 beneficiarios. Además, el año 2020, fue el año con menos número de beneficiarios de subsidios (6.098) se registró, un 34,56\% menos que el año 2019. Y, el máximo número de entrega de subsidios se dio en el año 2015 (15.019), que desde ese entonces se observa una tendencia a la baja. En la tabla \ref{tab:tab_evo_ben_subsidios_rtr} y figura \ref{fig:iess_subsidios_rtr}, se presenta la evolución histórica de los beneficiarios de subsidios por incapacidad temporal del \Sexpr{REP_seg}.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de los montos entregados por subsidios del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_subsidios_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficios en diciembre} &
+\multicolumn{3}{c}{Beneficios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Crecimiento} \\
+& 
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+ &
+\multicolumn{1}{c}{(\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficios en diciembre} &
+\multicolumn{3}{c}{Beneficios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Crecimiento} \\
+& 
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+ &
+\multicolumn{1}{c}{(\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_monto_subsidios_rtr.tex}
+\end{longtable}
+}
+}
+
+La edad promedio de los beneficiarios es 36,3 años en los hombres y 39,36 en las mujeres. En la figura \ref{fig:iess_pir_ben_subsidios}, se muestra la pirámide poblacional de los beneficiaros de subsidios en el año 2022, la cual posee una forma regresiva, que muestra que la mayoría de los beneficiarios son entre 20 y 45 años.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de beneficiarios de subsidios, por edad y sexo}
+\label{fig:iess_pir_ben_subsidios}
+\includegraphics[scale=1]{graficos/iess_pir_ben_subsidios.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+Durante el año 2022, se entregaron USD 1.015.819,08 por subsidios, lo que representó un incremento igual a 24,23\%, respeto al 2020, de los cuales USD 859.770,32 fueron entregados a hombres y solo USD 156.048,76 a mujeres. En cambio, en el mes de diciembre de 2021, se entregó USD 221.931,50 por subsidios. El subsidio promedio entregado a los hombres fue USD 181,09 y a las mujeres fue USD 172,02. En la figura \ref{tab:tab_evo_ben_subsidios_rtr}, se presenta la evolución histórica de los beneficios entregados por subsidios del \Sexpr{REP_seg}.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de los montos promedios entregados por subsidios de incapacidad temporal, por edad y sexo}
+\label{fig:iess_pir_montos_subsidios}
+\includegraphics[scale=1]{graficos/iess_pir_montos_subsidios.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{crrrrrr}
+\caption{Beneficiarios por rango de montos pagados en subsidios durante 2021}
+\label{tab:tab_rango_monto_subsidios_rtr}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\hline 
+\multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+  Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_rango_monto_subsidios_rtr.tex}
+\end{longtable}
+}
+}
+Durante el año 2022, el 40\% de los beneficiarios por subsidios recibieron menos de USD 77; el otro 40\% recibió entre USD 77 y USD 680; el 10\% de beneficiarios recibió entre USD 680 y USD 1.213; y, solamente, el 10\% restante recibió más de USD 1.213 por beneficio de subsidio del \Sexpr{REP_seg}. Y, por último, durante el 2022, se registró subsidios de hasta por USD 22.861 (ver tabla \ref{tab:tab_rango_monto_subsidios_rtr} y la figura \ref{fig:iess_pir_montos_subsidios} para la distribución de los beneficios entregados).
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Indemnización por incapacidad permanente parcial}
+A partir de la expedición de la \legalcite{ResIESS_CD390}, la misma que es ratificada en la \legalcite{ResIESS_CD513}, se suspende la entrega de pensiones vitalicias, por incapacidad
+permanente parcial, en su remplazo se entrega indemnizaciones. En concordancia al artículo 32 de la \legalcite{ResIESS_CD513}, los montos entregados por indemnizaciones es el promedio mensual de la remuneración de aportación del año anterior a la fecha del accidente o a la fecha de calificación de la enfermedad profesional u ocupacional por parte del Comité de Valuación de Incapacidades y de Responsabilidad Patronal “CVIRP”, multiplicado por sesenta mensualidades (60).
+
+El límite máximo es de cien (100) salarios básicos unificados del trabajador en general. Además, según lo establecido en el artículo 32 de la \legalcite{ResIESS_CD513}, la valoración total de la incapacidad, incluido los factores de ponderación, en ningún caso superará el ochenta por ciento (80\%) de disminución de la capacidad para el trabajo.
+
+
+Durante el año 2022, se entregó indemnizaciones por incapacidad permanente parcial a 857 beneficiarios, de los cuales la mayoría 747 (87,16\%) son hombres y solo 110 (12,84\%) mujeres, lo que representó un incremento del 150,58\%, respecto al año anterior. Solamente en el mes de diciembre de 2021, se entregó indemnizaciones a 30 beneficiarios. Además, el año 2020, fue el año con menos número de beneficiarios de indemnizaciones (342) se registró, un 7,57\% menos que el año 2019. Y, el máximo número de entrega de indemnizaciones se proporcionó en el año 2015 (1.175). En la tabla \ref{tab:tab_evo_ben_indemnizaciones_rtr} y figura \ref{fig:iess_evo_ben_indemnizaciones_rtr}, se presenta la evolución histórica de los beneficiarios de indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{11}{15}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de la población beneficiaria por indemnizaciones del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_indemnizaciones_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_ben_indemnizaciones_rtr.tex}
+\end{longtable}
+}
+}
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de la población beneficiaria de indemnizaciones del \Sexpr{REP_seg}}
+\label{fig:iess_evo_ben_indemnizaciones_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_indemnizaciones_rtr.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población beneficiaria de indemnizaciones, por edad y sexo}
+\label{fig:iess_pir_ben_indemnizaciones}
+\includegraphics[scale=1]{graficos/iess_pir_ben_indemnizaciones.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+La edad promedio de los beneficiarios es 39,85 años en los hombres y 42,47 en las mujeres. En la figura \ref{fig:iess_pir_ben_indemnizaciones}, se muestra la pirámide poblacional de los beneficiaros de indemnizaciones en el año 2022, la cual posee una forma regresiva, que muestra que la mayoría de los beneficiarios son entre 25 y 45 años y en su mayoría son varones.
+
+Durante el año 2022, se entregaron USD 6.431.096,25 por indemnizaciones, lo que representó un incremento igual a 147,53\%, respeto al 2020, de los cuales USD 5.740.257,37 fueron entregados a hombres y solo USD 690.838,88 a mujeres. En cambio, en el mes de diciembre de 2021, se entregó USD 186.759,64 por indemnizaciones. Las indemnizaciones promedio entregado a los hombres fue USD 7.647,66 y a las mujeres fue USD 6.280,35. En la figura \ref{tab:tab_evo_monto_indemnizaciones_rtr}, se presenta la evolución histórica de los beneficios entregados por indemnizaciones del \Sexpr{REP_seg}.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{14}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de los montos entregados por indemnizaciones del \Sexpr{REP_seg}}
+\label{tab:tab_evo_monto_indemnizaciones_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficios en diciembre} &
+\multicolumn{3}{c}{Beneficios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Crecimiento} \\
+& 
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+ &
+\multicolumn{1}{c}{(\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficios en diciembre} &
+\multicolumn{3}{c}{Beneficios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Crecimiento} \\
+& 
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+ &
+\multicolumn{1}{c}{(\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_monto_indemnizaciones_rtr.tex}
+\end{longtable}
+}
+}
+
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+\caption{Distribución de los montos pagados por indemnizaciones, para cada sexo}
+\label{tab:tab_rango_monto_indemnizaciones_rtr}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_rango_monto_indemnizaciones_rtr.tex}
+\end{longtable}
+}
+
+Durante el año 2022, el 40\% de los beneficiarios por indemnizaciones recibieron entre USD 779 y USD 4.136; el otro 40\% recibió entre USD 4.136 y USD 11.440; el 10\% de beneficiarios recibió entre USD 11.440 y USD 16.297; y, solamente, el 10\% restante recibió más de USD 16.297 por beneficio de indemnizaciones del \Sexpr{REP_seg}. Y, por último, durante el 2022, se registró indemnizaciones de hasta por USD 40.000 (ver tabla \ref{tab:tab_rango_monto_indemnizaciones_rtr} y la figura \ref{fig:iess_pir_montos_indemnizaciones} para la distribución de los beneficios entregados).
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de los montos promedios entregados por indemnizaciones, por edad y sexo}
+\label{fig:iess_pir_montos_indemnizaciones}
+\includegraphics[scale=1]{graficos/iess_pir_montos_indemnizaciones.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Pensionistas por incapacidad permanente parcial}
+
+Hasta la fecha el Seguro General de Riesgos del Trabajo aún mantiene pensionistas por incapacidad permanente parcial conforme lo dispuesto en el artículo 23 de la \legalcite{ResIESS_CS741}, de 18 de septiembre de 1990. A partir de la expedición de la \legalcite{ResIESS_CD390}, la misma que es ratificada en la \legalcite{ResIESS_CD513}, se suspende la entrega de pensiones vitalicias, por incapacidad
+permanente parcial, en su remplazo se entrega indemnizaciones.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{11}{15}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de la población pensionista de incapacidad permanente parcial del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_pp_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_ben_pp_rtr.tex}
+\end{longtable}
+}
+}
+
+En el año 2021, se entregó pensiones por incapacidad permanente parcial a 4.857 beneficiarios, de los cuales la mayoría 4.410 (90,80\%) son hombres y solo 447 (9,20\%) mujeres, lo que representó un decremento igual a 2,98\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, debido a que no existe ingresos de nuevos pensionistas. Y, el máximo número de beneficiarios de pensiones por incapacidad permanente parcial se proporcionó en el año 2015 (1.175). En la tabla \ref{tab:tab_evo_ben_pp_rtr} y figura \ref{fig:iess_evo_ben_pp_rtr}, se presenta la evolución histórica de los pensionistas de incapacidad permanente parcial del \Sexpr{REP_seg}.
+
+La edad promedio de los beneficiarios es 59,55 años en los hombres y 58,92 en las mujeres. En la figura \ref{fig:iess_pir_pensiones_pp}, se muestra la pirámide poblacional de los pensionistas de incapacidad permanente parcial en el año 2021, la cual posee una forma regresiva, que muestra una población envejecida y en su mayoría son mayores de 60 años; y la cual se está reduciendo cada año, puesto que no hay nuevas entradas de pensionistas.
+
+Durante el año 2021, se entregaron USD 15.593.885,44 por pensiones de incapacidad permanente parcial y décimos, de los cuales USD 13.784.071,55 (88,39\%) corresponden a las pensiones mensuales; USD 1.139.632,21 (7,31\%) al pago de decimotercero y solo USD 670.181,68 por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 3.378.532,13 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados. 
+
+Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad permanente parcial fue igual a USD 12.215.353,31 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 16.061.662,05 en el 2020 a USD 15.593.885,44, es decir, una reducción del 2,91\%, debido a la extinción de pensionistas; en cambio, los descuentos a los pensionistas crecieron en 18,75\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_pt_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de incapacidad permanente parcial del \Sexpr{REP_seg}.
+\clearpage
+
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de la población beneficiaria de rentas vitalicias por incapacidad permanente parcial del \Sexpr{REP_seg}}
+\label{fig:iess_evo_ben_pp_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_pp_rtr.png}
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\end{figure}
+
+\vspace*{\fill}
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población pensionistas por incapacidad permanente parcial, por edad y sexo, a la fecha de corte}
+\label{fig:iess_pir_ben_pp}
+\includegraphics[scale=1]{graficos/iess_pir_ben_pp.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+\newpage
+
+\begin{landscape}
+\vspace*{\fill}
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{18}\selectfont
+\begin{longtable}[H]{crrrrrrrrr}
+  \caption{Evolución histórica de los beneficios entregados a los pensionistas de incapacidad permanente parcial del \Sexpr{REP_seg}}
+\label{tab:tab_evo_monto_pt_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Pagar} \\
+ &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{(USD)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Liquido} \\
+&
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{a pagar (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{10}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_monto_pp_rtr.tex}
+\end{longtable}
+}
+}
+\vspace*{\fill}
+\end{landscape}
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de las pensiones promedio, incluido décimos, entregados por incapacidad permanente parcial, por edad y sexo}
+\label{fig:iess_pir_pensiones_pp}
+\includegraphics[scale=1]{graficos/iess_pir_pensiones_pp.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad permanente parcial recibieron menos de USD 238; el otro 40\% recibió entre USD 238 y USD 352; y, solamente, el 10\% restante recibió más de USD 352 de renta mensual, incluido décimas. Y, por último, durante el 2021, la pensión promedio de incapacidad permanente parcial fue igual a USD 276,79 para los hombres y USD 263,86 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_pp_rtr} y la figura \ref{fig:iess_pir_ben_pp} para la distribución de las pensiones promedio por edad y sexo).
+
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+\caption{Distribución de las rentas mensuales por incapacidad permanente parcial, para cada sexo}
+\label{tab:tab_rango_monto_pp_rtr}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_rango_monto_pp_rtr.tex}
+\end{longtable}
+}
+
+
+
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Pensionistas por incapacidad permanente total}
+
+Según lo establecido en el artículo 33 de la \legalcite{ResIESS_CD513}, la incapacidad permanente total es aquella que inhabilita al trabajador para la realización de todas o las fundamentales tareas de su profesión u oficio habitual. 
+
+El artículo 34 de la \legalcite{ResIESS_CD513} establece que la pensión es equivale al ochenta por ciento (80\%) del promedio mensual de la remuneración base de aportación del último año anterior de trescientos sesenta días (360) o del promedio mensual de los cinco (5) años de mayor aportación si éste fuere superior, calculada desde la fecha del accidente de trabajo o de la fecha de calificación de la enfermedad profesional u ocupacional por el Comité de Valuación de Incapacidades y de Responsabilidad Patronal “CVIRP”.
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de la población beneficiaria por incapacidad permanente total del \Sexpr{REP_seg}}
+\label{fig:iess_evo_ben_pt_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_pt_rtr.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{11}{14}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de la población pensionista de incapacidad permanente total del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_pt_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_ben_pt_rtr.tex}
+\end{longtable}
+}
+}
+
+En el año 2021, se entregó pensiones por incapacidad permanente total a 1.210 beneficiarios, de los cuales la mayoría 1.048 (86,61\%) son hombres y solo 162 (13,39\%) mujeres, lo que representó un decremento igual a 0,74\%, respecto al año anterior. Además, el año 2012, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el máximo número de beneficiarios de pensiones por incapacidad permanente total se proporcionó en el año 2018 (1.223). En la tabla \ref{tab:tab_evo_ben_pt_rtr} y figura \ref{fig:iess_evo_ben_pt_rtr}, se presenta la evolución histórica de los pensionistas de incapacidad permanente total del \Sexpr{REP_seg}.
+
+
+La edad promedio de los beneficiarios es 58,07 años en los hombres y 58,7 en las mujeres. En la figura \ref{fig:iess_pir_pensiones_pt}, se muestra la pirámide poblacional de los pensionistas de incapacidad permanente total en el año 2021, la cual posee una forma regresiva, que muestra una población que continúa envejeciendo y en su mayoría son mayores de 55 años; y pocas entradas de nuevos pensionistas.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población de pensionistas por incapacidad permanente total, por edad y sexo}
+\label{fig:iess_pir_ben_pt}
+\includegraphics[scale=1]{graficos/iess_pir_ben_pt.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+
+\begin{landscape}
+\vspace*{\fill}
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{18}\selectfont
+\begin{longtable}[H]{crrrrrrrrr}
+  \caption{Evolución histórica de los beneficios entregados a los pensionistas de incapacidad permanente total del \Sexpr{REP_seg}}
+\label{tab:tab_evo_monto_pt_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Pagar} \\
+ &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{(USD)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Liquido} \\
+&
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{a pagar (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{10}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_monto_pt_rtr.tex}
+\end{longtable}
+}
+}
+\vspace*{\fill}
+\end{landscape}
+
+Durante el año 2021, se entregaron USD 8.896.545,91 por pensiones de incapacidad permanente total y décimos, de los cuales USD 7.779.197,84 (87,44\%) corresponden a las pensiones mensuales; USD 645.321,42 (7,25\%) al pago de decimotercero y solo USD 472.026,65 (5,31\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 2.205.621,61 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos representan el 24,79\% de los ingresos por pensiones y décimas.
+
+
+Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad permanente total fue USD 6.690.924,30 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 9.059.076,83 en el 2020 a USD 8.896.545,91, es decir, una reducción del 1,79\%, debido a la extinción de pensionistas; en cambio, los descuentos a los pensionistas crecieron en 3,59\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_pt_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de incapacidad permanente total del \Sexpr{REP_seg}.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de las pensiones promedio, incluido décimos, entregados por incapacidad permanente total, por edad y sexo}
+\label{fig:iess_pir_pensiones_pt}
+\includegraphics[scale=1]{graficos/iess_pir_pensiones_pt.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad permanente total recibieron menos de USD 578; el otro 40\% recibió entre USD 578 y USD 755; y, solamente, el 10\% restante recibió más de USD 755 a USD 2.104 de renta mensual, incluido décimas. Y, por último, durante el 2021, la pensión promedio de incapacidad permanente total fue igual a USD 635,31 para los hombres y USD 675,82 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_pt_rtr} y la figura \ref{fig:iess_pir_ben_pt} para la distribución de las pensiones promedio por edad y sexo).
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+\caption{Distribución de las rentas mensuales por incapacidad permanente total, para cada sexo}
+\label{tab:tab_rango_monto_pt_rtr}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_rango_monto_pt_rtr.tex}
+\end{longtable}
+}
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Pensionistas por incapacidad permanente absoluta}
+
+El artículo 36 de la \legalcite{ResIESS_CD513} define a la incapacidad permanente absoluta como aquella que le inhabilita por completo al asegurado para el ejercicio de toda profesión u ocupación, requiriendo de otra persona para su cuidado y atención permanente, producida por consecuencia de un accidente de trabajo, o enfermedad profesional u ocupacional. El asegurado que fuere declarado con incapacidad permanente absoluta tendrá derecho a una pensión mensual equivalente al ciento por ciento (100\%) del promedio mensual de la remuneración del último año anterior o del promedio mensual de los cinco (5) años de mayor aportación, si éste fuere superior, calculada desde la fecha del accidente de trabajo, en concordancia al artículo 38 de la \legalcite{ResIESS_CD513}.
+
+En el año 2021, se entregó pensiones por incapacidad permanente absoluta a 157 beneficiarios, de los cuales la mayoría 149 (94,90\%) son hombres y solo 8 (5,20\%) mujeres, lo que representó un incremento igual a 3,97\%, respecto al año anterior. Además, el año 2012, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el máximo número de beneficiarios de pensiones por incapacidad permanente absoluta se proporcionó en el año 2021 (157), debido a una tendencia creciente del número de afiliados. En la tabla \ref{tab:tab_evo_ben_pa_rtr} y figura \ref{fig:iess_evo_ben_pa_rtr}, se presenta la evolución histórica de los pensionistas de incapacidad permanente absoluta del \Sexpr{REP_seg}.
+
+La edad promedio de los beneficiarios es 46,22 años en los hombres y 49,52 en las mujeres. En la figura \ref{fig:iess_pir_pensiones_pa}, se muestra la pirámide poblacional de los pensionistas de incapacidad permanente absoluta en el año 2021, la cual posee una forma regresiva, que muestra una población que continúa envejeciendo y en su mayoría se encuentran entre 35 y 60 años de sexo masculino; y pocas entradas de nuevos pensionistas.
+
+Durante el año 2021, se entregaron USD 1.117.097,10 por pensiones de incapacidad permanente total y décimos, de los cuales USD 974.207,52 (87,21\%) corresponden a las pensiones mensuales; USD 82.376,76 (7,37\%) al pago de decimotercero y solo USD 60.512,82 (5,42\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 270.781,16 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos representan el 24,24\% de los ingresos por pensiones y décimas.
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de pensionistas por incapacidad permanente absoluta del \Sexpr{REP_seg}}
+\label{fig:iess_evo_ben_pa_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_pa_rtr.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{11}{12}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de la población pensionista de incapacidad permanente absoluta del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_pa_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_ben_pa_rtr.tex}
+\end{longtable}
+}
+}
+
+\begin{landscape}
+\vspace*{\fill}
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{18}\selectfont
+\begin{longtable}[H]{crrrrrrrrr}
+  \caption{Evolución histórica de los beneficios entregados a los pensionistas de incapacidad permanente absoluta del \Sexpr{REP_seg}}
+\label{tab:tab_evo_monto_pa_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Pagar} \\
+ &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{(USD)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Liquido} \\
+&
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{a pagar (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{10}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_monto_pa_rtr.tex}
+\end{longtable}
+}
+}
+\vspace*{\fill}
+\end{landscape}
+
+
+
+Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad permanente absoluta fue igual a USD 846.315,94 en el 2021. Durante el último año, monto entregado por pensiones y décimos creció de USD 1.082.414,84 en el 2020 a USD 1.117.097,10, es decir, un aumento igual a 3,20\%, debido al pequeño aumento de pensionistas; de igual manera, los descuentos a los pensionistas crecieron en 7,43\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_pa_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de incapacidad permanente absoluta del \Sexpr{REP_seg}.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población de pensionistas por incapacidad permanente absoluta, por edad y sexo}
+\label{fig:iess_pir_ben_pa}
+\includegraphics[scale=1]{graficos/iess_pir_ben_pa.png}
+\caption*{\scriptsize DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+\caption{Distribución de las rentas mensuales por incapacidad permanente absoluta, para cada sexo}
+\label{tab:tab_rango_monto_pa_rtr}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_rango_monto_pa_rtr.tex}
+\end{longtable}
+}
+
+Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad permanente absoluta recibieron menos de USD 490; el otro 40\% recibió entre USD 490 y USD 919; y, solamente, el 10\% restante recibió de USD 919 a USD 1.983 de renta mensual, incluido décimas. Y, por último, en el 2021, la pensión promedio de incapacidad permanente absoluta fue igual a USD 621,55 para los hombres y USD 513,46 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_pa_rtr} y la figura \ref{fig:iess_pir_ben_pa} para la distribución de las pensiones promedio por edad y sexo).
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de las pensiones promedio, incluido décimos, entregados por incapacidad permanente absoluta, por edad y sexo}
+\label{fig:iess_pir_pensiones_pa}
+\includegraphics[scale=1]{graficos/iess_pir_pensiones_pa.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Pensionistas por orfandad}
+
+Cuando el asegurado que falleciere a consecuencia de un accidente de trabajo o de una enfermedad profesional u ocupacional, generará derecho a la prestación de montepío cualquiera sea el número de aportaciones; igualmente, al fallecimiento del pensionista por incapacidad permanente total o incapacidad permanente absoluta, según el artículo 40 de la \legalcite{ResIESS_CD513}. Por la muerte del asegurado las pensiones de viudedad y orfandad se concederán con sujeción a los porcentajes fijados en la Ley de Seguridad Social y en la normativa interna, se calcularán sobre la pensión de incapacidad permanente total que le habría correspondido al causante al momento de su muerte, establecido por el artículo 41 de la \legalcite{ResIESS_CD513}.
+
+Anteriormente, se entregó el derecho a una pensión vitalicia de montepío a hijas solteras y hermanos hasta 1956; a partir del año 1984, se restringe la entrega de pensiones de orfandad solo a hijos menores de dieciocho (18) años e hijos mayores a dieciocho (18) años con alguna incapacidad y se deja de entregar el beneficio a padres. Desde la expedición de la \legalcite{ResIESS_CD100}, se limita a solo los hijos menores de dieciocho (18) años y menores de veintiuno (21) que se encuentren estudiando. Por esta razón, se IESS se encuentra pagando pensiones de orfandad a mayores de edad y personas de noventa (90) años.
+
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de pensionistas por orfandad del \Sexpr{REP_seg}}
+\label{fig:iess_evo_ben_of_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_of_rtr.png}
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\end{figure}
+
+En el año 2021, se entregó pensiones de orfandad del \Sexpr{REP_seg} a 3.150 beneficiarios, de los cuales la mayoría 1.987 (63,08\%) son mujeres y solo 1.163 (36,92\%) son mujeres, lo que representó un decrecimiento igual a 3,43\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de orfandad del \Sexpr{REP_seg} se alcanzó en el año 2016 (4.056). En la tabla \ref{tab:tab_evo_ben_of_rtr} y figura \ref{fig:iess_evo_ben_of_rtr}, se presenta la evolución histórica de los beneficiarios de orfandad del \Sexpr{REP_seg}.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{11}{15}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de la población pensionista de orfandad del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_of_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_ben_of_rtr.tex}
+\end{longtable}
+}
+}
+
+La edad promedio de los beneficiarios es 14,16 años en los hombres y 36 años en las mujeres, debido a que antiguamente el IESS entregaba pensiones de montepío a los hijos mayores de dieciocho años incapacitados e hijas solteras. En la figura \ref{fig:iess_pir_pensiones_of}, se muestra la pirámide poblacional de los beneficiarios de una pensión de orfandad del \Sexpr{REP_seg} en el año 2021, la cual posee una forma irregular, que muestra una población dos poblaciones claramente diferentes; la primera, de los huérfanos menores de dieciocho (18) años, los cuales se van acumulando hasta los diecisiete (17) años, y se encuentra equilibrada en genero; en segundo lugar, una población compuesta mayormente por mujeres entre 45 a 63 años, las cuales obtuvieron el derecho bajo el antiguo régimen que permitía a entregar el beneficio a hijas solteras, y se encuentra envejeciendo.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población de pensionistas por orfandad, por edad y sexo}
+\label{fig:iess_pir_ben_of}
+\includegraphics[scale=1]{graficos/iess_pir_ben_of.png}
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\end{figure}
+
+
+\begin{landscape}
+\vspace*{\fill}
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{18}\selectfont
+\begin{longtable}[H]{crrrrrrrrr}
+  \caption{Evolución histórica de los beneficios entregados a los pensionistas de orfandad del \Sexpr{REP_seg}}
+\label{tab:tab_evo_monto_of_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Pagar} \\
+ &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{(USD)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Liquido} \\
+&
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{a pagar (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{10}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_monto_of_rtr.tex}
+\end{longtable}
+}
+}
+\vspace*{\fill}
+\end{landscape}
+
+Durante el año 2021, se entregaron USD 6.145.332,92 por pensiones de orfandad del \Sexpr{REP_seg} y décimos, de los cuales USD 5.116.543,62 (83,26\%) corresponden a las pensiones mensuales; USD 433.198,43 (7,05\%) al pago de decimotercero y USD 595.590,87 (9,69\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 107.190,40 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos solo representan el 1,74\% de los ingresos por pensiones y décimas.
+
+Por consiguiente, el valor liquido a pagar a los beneficiarios de una pensión de orfandad del \Sexpr{REP_seg} fue igual a USD 6.038.142,52 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 6.316.515,77 en el 2020 a USD 6.145.332,92; es decir, un decrecimiento igual a 1,74\%; en cambio, los descuentos a los pensionistas crecieron en 139,83\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_of_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de orfandad del \Sexpr{REP_seg}.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de las pensiones promedio, incluido décimos, de orfandad, por edad y sexo}
+\label{fig:iess_pir_pensiones_of}
+\includegraphics[scale=1]{graficos/iess_pir_pensiones_of.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+Durante el año 2021, el 50\% de los beneficiarios por pensiones de orfandad recibieron menos de USD 143; el otro 40\% recibió entre USD 143 y USD 250; y, solamente, el 10\% restante recibió de USD 250 a USD 961 de renta mensual, incluido décimas. Y, por último, en el 2021, la pensión promedio de orfandad del \Sexpr{REP_seg} fue igual a USD 157,52 para los hombres y USD 193,8 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_of_rtr} y la figura \ref{fig:iess_pir_ben_of} para la distribución de las pensiones promedio de orfandad por edad y sexo).
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+\caption{Distribución de las rentas mensuales por orfandad, para cada sexo}
+\label{tab:tab_rango_monto_of_rtr}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_rango_monto_of_rtr.tex}
+\end{longtable}
+}
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Pensionistas por viudedad}
+
+De igual manera que con las pensiones de orfandad, se entregan beneficios de acuerdo con los artículos 40 y 41 de la \legalcite{ResIESS_CD513}. Anteriormente, se entregó el derecho a una pensión vitalicia de montepío a hijas solteras hasta 1956; a partir del año 1984, se restringe la entrega de pensiones de viudedad al cónyuge y se deja de entregar el beneficio a padres.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{11}{12}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de la población pensionista de  montepío por viudez del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_vo_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_ben_vo_rtr.tex}
+\end{longtable}
+}
+}
+
+En el año 2021, se entregó pensiones de viudedad del \Sexpr{REP_seg} a 4.426beneficiarios, de los cuales la mayoría 4.370 (\%) son mujeres y solo 56 (\%) son mujeres, lo que representó un decrecimiento igual a 0,61\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de viudedad del \Sexpr{REP_seg} se alcanzó en el año 2019 (4.500). En la tabla \ref{tab:tab_evo_ben_vo_rtr} y figura \ref{fig:iess_evo_ben_vo_rtr}, se presenta la evolución histórica de los beneficiarios de viudedad del \Sexpr{REP_seg}.
+
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de pensionistas de montepío por viudez del \Sexpr{REP_seg}}
+\label{fig:iess_evo_ben_vo_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_of_rtr.png}
+\caption*{\scriptsize Fuente: Base nómina de pensiones de Riesgos del Trabajo
+\\Elaborado: DAIE}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población de pensionista de montepío por viudez, por edad y sexo}
+\label{fig:iess_pir_ben_vo}
+\includegraphics[scale=1]{graficos/iess_pir_ben_vo.png}
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\end{figure}
+
+
+
+\begin{landscape}
+\vspace*{\fill}
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{18}\selectfont
+\begin{longtable}[H]{crrrrrrrrr}
+  \caption{Evolución histórica de los beneficios entregados a los pensionistas de montepío por viudez del \Sexpr{REP_seg}}
+\label{tab:tab_evo_monto_vo_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Pagar} \\
+ &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{(USD)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{4}{c}{Pensiones u otros ingresos} &
+\multicolumn{4}{c}{Descuentos} &
+\multicolumn{1}{c}{Liquido a} \\
+\cmidrule(lr){2-5} \cmidrule(lr){6-9}
+& 
+\multicolumn{1}{c}{Pensiones} &
+\multicolumn{1}{c}{Decimotercer} &
+\multicolumn{1}{c}{Decimocuarta } &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Financiamiento} &
+\multicolumn{1}{c}{Otros} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Liquido} \\
+&
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Ingresos (USD)} &
+\multicolumn{1}{c}{Décimos (USD)} &
+\multicolumn{1}{c}{Fondo Mortuorio (USD)} &
+ \multicolumn{1}{c}{Descuentos (USD)} &
+  \multicolumn{1}{c}{Descuentos (USD)} &
+ \multicolumn{1}{c}{a pagar (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{10}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_monto_vo_rtr.tex}
+\end{longtable}
+}
+}
+\vspace*{\fill}
+\end{landscape}
+
+
+En el año 2021, se entregó pensiones de viudedad del \Sexpr{REP_seg} a 4.426beneficiarios, de los cuales la mayoría 4.370 (\%) son mujeres y solo 56 (\%) son mujeres, lo que representó un decrecimiento igual a 0,61\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de viudedad del \Sexpr{REP_seg} se alcanzó en el año 2019 (4.500). En la tabla \ref{tab:tab_evo_ben_vo_rtr} y figura \ref{fig:iess_evo_ben_vo_rtr}, se presenta la evolución histórica de los beneficiarios de viudedad del \Sexpr{REP_seg}.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de las pensiones promedio, incluido décimos, de viudedad, por edad y sexo}
+\label{fig:iess_pir_pensiones_vo}
+\includegraphics[scale=1]{graficos/iess_pir_pensiones_vo.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+Durante el año 2021, se entregaron USD 18.322.646,49 por pensiones de viudedad del \Sexpr{REP_seg} y décimos, de los cuales USD 15.575.558,27 (\%) corresponden a las pensiones mensuales; USD 1.307.512,07 (\%) al pago de decimotercero y USD 1.439.576,15 (\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015, y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 3.537.664,02 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos representan el 19,31\% de los ingresos por pensiones y décimas.
+
+Por consiguiente, el valor liquido a pagar a los pensionistas de viudedad del \Sexpr{REP_seg} fue igual a USD 14.784.982,47 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 18.416.390,20 en el 2020 a USD 18.322.646,49; es decir, un decrecimiento igual a 0,51\%; en cambio, los descuentos a los pensionistas crecieron en 9,37\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_vo_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de viudedad del \Sexpr{REP_seg}.
+
+Durante el año 2021, el 50\% de los beneficiarios por pensiones de viudedad recibieron menos de USD 312; el otro 40\% recibió entre USD 312 y USD 451; y, solamente, el 10\% restante recibió de USD 451 a USD 1.580 de renta mensual, incluido décimas. Y, por último, en el 2021, la pensión promedio de viudedad del \Sexpr{REP_seg} fue igual a USD 359,89 para los hombres y USD 423,19 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_vo_rtr} y la figura \ref{fig:iess_pir_ben_vo} para la distribución de las pensiones promedio de viudedad por edad y sexo).
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+\caption{Distribución de las rentas mensuales por viudedad, para cada sexo}
+\label{tab:tab_rango_monto_vo_rtr}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_rango_monto_vo_rtr.tex}
+\end{longtable}
+}
+
+\chapter[Análisis de las responsabilidades patronales] {Análisis de las responsabilidades patronales}
+\label{chp_rp}
+
+En los casos de generarse derecho al otorgamiento de pensiones por accidente de trabajo o enfermedad profesional, hay responsabilidad patronal cuando:
+
+\begin{enumerate}[nosep, label=\alph*)]
+\item El empleador no inscribió al trabajador ni pagó aportes al IESS antes de la ocurrencia del siniestro;
+\item El empleador se encuentra en mora en el pago de aportes al momento del accidente de trabajo o al momento de la calificación de la enfermedad profesional o del cese provocado por ésta;
+\item El empleador por sí o por interpuesta persona, no comunicó al IESS el siniestro, dentro de los 10 días laborables contados a partir de la fecha del accidente de trabajo o del diagnóstico de presunción inicial de la enfermedad profesional;
+\item Si a consecuencia de las investigaciones realizadas por las unidades de Riesgos del Trabajo, se determina que el accidente de trabajo o enfermedad profesional ha sido causado por incumplimiento y/o inobservancia de las normas sobre prevención de riesgos de trabajo, aun cuando este al día en el pago de aportes; y,
+\item Los aportes correspondientes a uno de los 12 meses de aportación, anteriores a la fecha del siniestro, fueron pagados con una extemporaneidad mayor de 3 meses.
+\end{enumerate}
+
+Históricamente, se registran responsabilidades patronales del \Sexpr{REP_seg}, desde el año 2010, que se han generado valores por pagar por USD 750.489,34 de 472 acuerdos; pero a 2021, se registró USD 6.089.861,39 por pagar por 987 acuerdos. Por el período 2010 a 2021 se han generado USD 37.954.946,82 por responsabilidad patronal del \Sexpr{REP_seg}, desde el año 2017, se observa una tendencia creciente en los valores generados por responsabilidad patronal, siendo el 2021 el año con mayores valores generados, con 40,59\% de incremento respecto al 2020. En la figura \ref{fig:iess_evo_rp_montos_anio}, se presenta la evolución histórica de los valores por pagar generados por responsabilidad patronal en el del \Sexpr{REP_seg}.
+
+La edad promedio de los afiliados que generaron un acuerdo de pago de responsabilidad patronal es 36,40 años para los hombres y 40,30 años para las mujeres. Por otro lado, los hombres representan el 85,70\% de los acuerdos generados y las mujeres solo el 14,30\%. En la figura \ref{fig:iess_pir_rp_edad_sexo}, se presenta su pirámide poblacional, la cual presenta una forma regresiva, y desequilibraba, puesto que la mayoría es de género masculino, y el gran porcentaje de las responsabilidades patronales sucedieron en edades entre 21 a 45, en hombres. Debido a que los hombres generalmente realizan trabajos en los cuales están expuestos a riesgos laborales.
+
+Por sector, en el período 2010 a 2021, se han registrado 11.936 acuerdos, de los cuales 10.663 (89,33\%) son del sector privado y solo 1.273 (10,67\%) del público. Los valores a pagar por el mismo periodo de tiempo fue igual a USD 37.954.946,82, de los cuales USD 29.595.497,00 (77,98\%) eran en el sector privado y solo USD 8.359.449,82(22,02\%), en el público; es decir, que el promedio por acuerdo en el sector privado es USD 2.775,53; mientras que el público es USD 6.566,73.
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de la responsabilidad patronal en el SGRT}
+\label{fig:iess_evo_rp_montos_anio}
+\includegraphics[scale=1]{graficos/iess_evo_rp_montos_anio.png}
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población de los afiliados que generaron responsabilidad patronal del \Sexpr{REP_seg}}
+\label{fig:iess_pir_rp_edad_sexo}
+\includegraphics[scale=1]{graficos/iess_pir_rp_edad_sexo.png}
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\end{figure}
+
+\begin{landscape}
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+  \caption{Responsabilidad patronal del \Sexpr{REP_seg} por sector}
+\label{tab:tab_acuerdo_sector} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Estado del acuerdo:}} & 
+\multicolumn{3}{c}{Afiliados} &
+\multicolumn{3}{c}{Valores de responsabilidad patronal} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Empresa Privada} &
+\multicolumn{1}{c}{Empresa Pública} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Empresa Privada (USD)} &
+\multicolumn{1}{c}{Empresa Pública (USD)} &
+\multicolumn{1}{c}{Total (USD)} \\
+
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Estado del acuerdo:}} & 
+\multicolumn{3}{c}{Afiliados} &
+\multicolumn{3}{c}{Valores de responsabilidad patronal} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Empresa Privada} &
+\multicolumn{1}{c}{Empresa Pública} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Empresa Privada (USD)} &
+\multicolumn{1}{c}{Empresa Pública (USD)} &
+\multicolumn{1}{c}{Total (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_acuerdo_sector.tex}
+\end{longtable}
+}
+}
+
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+  \caption{Valores por estado de los acuerdos transferidos a glosa}
+\label{tab:tab_transferido_glosa_sector} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Estado de la glosa:}} & 
+\multicolumn{3}{c}{Afiliados} &
+\multicolumn{3}{c}{Valores de responsabilidad patronal} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Empresa Privada} &
+\multicolumn{1}{c}{Empresa Pública} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Empresa Privada (USD)} &
+\multicolumn{1}{c}{Empresa Pública (USD)} &
+\multicolumn{1}{c}{Total (USD)} \\
+
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Estado del acuerdo:}} & 
+\multicolumn{3}{c}{Afiliados} &
+\multicolumn{3}{c}{Valores de responsabilidad patronal} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Empresa Privada} &
+\multicolumn{1}{c}{Empresa Pública} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Empresa Privada (USD)} &
+\multicolumn{1}{c}{Empresa Pública (USD)} &
+\multicolumn{1}{c}{Total (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_transferido_glosa_sector.tex}
+\end{longtable}
+}
+}
+\end{landscape}
+
+\begin{landscape}
+\vspace*{\fill}
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{14}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+  \caption{Valores de lo acuerdos por concepto y sector sin glosas canceladas}
+\label{tab:tab_acuerdo_concepto} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Concepto:}} & 
+\multicolumn{3}{c}{Afiliados} &
+\multicolumn{3}{c}{Valores de responsabilidad patronal} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Empresa Privada} &
+\multicolumn{1}{c}{Empresa Pública} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Empresa Privada (USD)} &
+\multicolumn{1}{c}{Empresa Pública (USD)} &
+\multicolumn{1}{c}{Total (USD)} \\
+
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Estado del acuerdo:}} & 
+\multicolumn{3}{c}{Afiliados} &
+\multicolumn{3}{c}{Valores de responsabilidad patronal} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Empresa Privada} &
+\multicolumn{1}{c}{Empresa Pública} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Empresa Privada (USD)} &
+\multicolumn{1}{c}{Empresa Pública (USD)} &
+\multicolumn{1}{c}{Total (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_acuerdo_concepto.tex}
+\end{longtable}
+}
+}
+\vspace*{\fill}
+\end{landscape}
+
+
+De estos valores generados por responsabilidad patronal del \Sexpr{REP_seg}, se cancelaron USD 28.645.311,56 a la fecha; USD 19.042.705,61 (10,85\%) se cancelaron mediante glosa emitida, USD 3.107.212,15 (10,85\%) se canceló mediante convenio y USD 6.495.393,80 (22,68\%) se canceló mediante título de crédito (ver tabla \ref{tab:tab_acuerdo_sector} para más detalle). Por otro lado, existen USD 7.157,35 con estado de acuerdo emitido y USD 9.302.477,91 fueron transferidos a glosas.
+
+De los valores transferidos a glosas (USD 9.302.477,91), se encuentran cancelados a la fecha USD 188.371,84 (2,02\%); USD 52.729,31 (0,57\%) se encuentran con estado de glosa “EMITIDO”; USD 89.052,94 (0,96\%), se encuentran en espera de notificación; USD 39.888,23 (0,43\%) en espera de publicación ; USD 197.569,25 (2,12\%) están en segunda instancia de impugnación; USD 2.330.968,60 (25,06\%) en impugnación de primera instancia; USD 89.226,10 (0,96\%) en impugnación en el trámite de coactiva; USD 173.695,85 (1,87\%) no se encuentran notificados; USD 105.667,68 (1,14\%) no se notificaron electrónicamente; USD 16.760,01 (0,18\%) se encuentran con la glosa notificada; USD 1.154,23 (0,01\%) con glosa publicada; USD 525.896,66 (5,65\%) trasferida a convenios; y ,finalmente, USD	 5.491.497,21 (59,03\%) se encuentran transferido a títulos de crédito. Por lo tanto, de los valores transferidos a glosas, existen USD 9.114.106,07 (97,98\%) pendientes.
+
+Por concepto de generación de responsabilidad patronal, los valores pendientes de recibir por glosas emitidas (USD 9.114.106,07) se distribuyen de la siguiente manera: USD 109.618,76 (1,2\%) por incapacidad permanente absoluta; USD 235.260,43 (2,58\%) por incapacidad permanente parcial; USD 255.462,99 (2,8\%) por incapacidad permanente total; USD 360.161,84 (3,95\%) por indemnizaciones; USD 216.762,28 (2,38\%) por montepío; USD 47.228,91 (0,52\%) no especifica en las bases de datos; USD 36.013 (0,4\%) en sanciones y multas; USD 7.622.547,3 (83,63\%) por inobservancia de medidas de prevención; y, finalmente, USD 231.050,56 (2,54\%) por subsidios.
+
+{\setlength{\tabcolsep}{3pt}
+{\fontsize{10}{13}\selectfont
+\begin{longtable}[H]{lrrrr}
+  \caption{Valores de lo acuerdos por concepto, porcentaje y monto promedio de las glosas pendientes de cancelar}
+\label{tab:tab_concepto_prom} \\
+\toprule
+\multicolumn{1}{l}{\multirow{2}{*}{Concepto:}} & 
+\multicolumn{1}{c}{Número} &
+\multicolumn{1}{c}{Porcentaje} &
+\multicolumn{1}{c}{Monto promedio} &
+\multicolumn{1}{c}{Monto} \\
+& 
+\multicolumn{1}{c}{de RP} &
+\multicolumn{1}{c}{(\%)} &
+\multicolumn{1}{c}{por RP (USD)} &
+\multicolumn{1}{c}{RP (USD)} \\
+
+\midrule
+\endfirsthead
+
+\toprule
+\multicolumn{1}{l}{\multirow{2}{*}{Concepto:}} & 
+\multicolumn{1}{c}{Número} &
+\multicolumn{1}{c}{Porcentaje} &
+\multicolumn{1}{c}{Monto promedio} &
+\multicolumn{1}{c}{Monto} \\
+& 
+\multicolumn{1}{c}{de RP} &
+\multicolumn{1}{c}{(\%)} &
+\multicolumn{1}{c}{por RP (USD)} &
+\multicolumn{1}{c}{RP (USD)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{5}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_concepto_prom.tex}
+\end{longtable}
+}
+}
+
+El valor promedio de las glosas emitidas pendientes de pago es USD 12.200,95; y por concepto: USD 23.820,46 por inobservancia de medidas de prevención; USD 4.001,44 por sanciones y multas; USD 958,72 por subsidios; USD 6.992,33 por montepío; USD 8.112,43 por incapacidad permanente parcial; USD 5.219,74 por indemnizaciones; USD 18.247,36por incapacidad permanente total; USD 36.539,59 por incapacidad permanente absoluta; y, finalmente, USD 1.523,51 no especifica en las bases de datos (ver tabla \ref{tab:tab_concepto_prom}).
+
+{\setlength{\tabcolsep}{3pt}
+{\fontsize{10}{13}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+  \caption{Responsabilidades patronales con glosas pendientes de cancelar por provincia}
+\label{tab:tabla_rp_provincia} \\
+\toprule
+\multicolumn{1}{l}{\multirow{2}{*}{Provincia:}} & 
+\multicolumn{3}{c}{Número de RP} &
+\multicolumn{3}{c}{Valores de RP sin cancelar}\\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres (USD)} &
+\multicolumn{1}{c}{Mujeres (USD)} &
+\multicolumn{1}{c}{Total (USD)}  \\
+
+\midrule
+\endfirsthead
+
+\toprule
+\multicolumn{1}{l}{\multirow{2}{*}{Concepto:}} & 
+\multicolumn{3}{c}{Número de RP} &
+\multicolumn{3}{c}{Valores de RP sin cancelar}\\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres (USD)} &
+\multicolumn{1}{c}{Mujeres (USD)} &
+\multicolumn{1}{c}{Total (USD)}  \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tabla_rp_provincia.tex}
+\end{longtable}
+}
+}
+
+Por provincias; el Guayas registra USD 2.632.400,40 por valores pendientes de cancelar por glosas generadas por RP, lo que representa el 28,88\%; en segundo lugar, se encuentra Pichincha con USD 2.433.077,94 (26,70\%); en tercer lugar, la provincia del ORO, con USD 1.060.111,45 (11,63\%); seguida de Azuay con USD 348.520,48; USD 333.104,70 Chimborazo; USD 270.659,57 Imbabura; USD 266.481,20 Loja; USD 250.904,36 Manabí; USD 203.031,85 Galápagos; USD 192.392,49 Esmeraldas; USD 158.597,67 Tungurahua; USD 137.510,56 Santa Elena, USD 130.594,96 Sucumbíos; USD 134.444,63 Los Ríos; USD 104.894,43 Cotopaxi; USD 91.265,82 Bolívar; USD 74.746,57 Orellana;  USD 69.183,14 Morona Santiago; USD 68.848,82 Zamora Chinchipe; USD 42.882,53 Napo; USD 40.291,27 Carchi; USD 39.034,57 Santo Domingo de los Tsáchilas; y, por último, USD 31.126,66 Cañar (ver tabla \ref{tab:tabla_rp_provincia}).
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{crrrrrr}
+\caption{Responsabilidad Patronal por rangos y por sexo}
+\label{tab:tabla_rangos_montos_rp}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tabla_rangos_montos_rp.tex}
+\end{longtable}
+}
+
+Los valores pendientes de cancelar por glosas generadas por RP por rangos se distribuyen de la siguiente forma: el 50\% de las glosas son por menos de USD 1.445; el 30\% son glosas entre USD 1.445 y USD 13.308; el 10\% es por glosas entre USD 13.308 y 36.126; y, solo el 10\% restante son glosas por más de USD 36.126 y hasta USD 306.663. En la tabla \ref{tab:tabla_rangos_montos_rp}, se presenta la distribución más detallada de los rangos de las glosas pendientes de cancelar por responsabilidad patronal.

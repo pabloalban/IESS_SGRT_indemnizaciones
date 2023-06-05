@@ -1,0 +1,411 @@
+\chapter{Tablas demográficas y factores de riesgo}
+\label{chp_riesgos}
+
+En este capítulo presentamos las tablas biométricas que fueron usadas en el desarrollo del presente 
+estudio. En estas tablas utilizamos la notación actuarial siguiente:
+
+\begin{description}
+  \item   $x$: edad en años
+  \item   $l_x$: número de asegurados con vida a la edad $x$
+  \item   $q_x$: probabilidad de que un asegurado que alcanzó la edad $x$, fallezca antes de 
+  alcanzar la edad $x+1$
+  \item   $p_x$: probabilidad de que un asegurado de edad $x$, sobreviva hasta alcanzar la edad $x+1$
+  \item   $e_x$: esperanza de vida a la edad $x$
+\end{description}
+
+Antes de continuar con la presentación de cada una de las tablas biométricas, es importante 
+recalcar que el número de personas $l_x$ no tiene porqué tomar un valor entero, es así que en las 
+tablas a continuación $l_x$ está redondeado a dos cifras decimales, esto fue realizado con la 
+finalidad de proveer de tablas biométricas que ofrezcan una mayor precisión al momento de realizar 
+cálculos numéricos con los valores presentados.
+
+%---------------------------------------------------------------------------------------------------
+\section{Tablas de mortalidad}
+\label{chp_riesgos:tabmort}
+
+A continuación, se presentan las tablas de mortalidad para el año 2020 para la población de 
+afiliados, pensionistas de vejez, pensionistas de invalidez y montepío.
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Tabla de mortalidad de afiliados}
+La tabla de mortalidad de afiliados por edad y sexo se presenta en la tabla 
+\ref{tab:iess_afi_mort_2020}.
+
+{\fontsize{10}{12}\selectfont
+  \begin{longtable}[H]{l*{4}{r}|l*{4}{r}}
+  %\captionsetup{justification=centering}
+    \caption{Tabla de mortalidad de afiliados (2020)}
+    \label{tab:iess_afi_mort_2020}\\
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\ 
+    \midrule
+    \endfirsthead
+    
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\ 
+    \midrule
+    \endhead
+    
+    \bottomrule \multicolumn{10}{r}{continúa...} \\
+    \endfoot
+    
+    \bottomrule
+    \caption*{\scriptsize Elaborado: DAIE.}
+    \endlastfoot
+    
+       \input{tablas/iess_afi_mort_2020.tex}
+       
+  \end{longtable}
+}
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Tabla de mortalidad de pensionistas de vejez}
+A continuación, en la tabla \ref{tab:iess_pen_vej_mort_2020} se presenta la mortalidad de 
+pensionistas de vejez por edad y sexo. 
+
+{\fontsize{10}{12}\selectfont
+  \begin{longtable}[H]{l*{4}{r}|l*{4}{r}}
+    %\captionsetup{justification=centering}
+    \caption{Tabla de mortalidad de pensionistas vejez (2020)}
+    \label{tab:iess_pen_vej_mort_2020}\\
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\ 
+    \midrule
+    \endfirsthead
+    
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\ 
+    \midrule
+    \endhead
+    
+    \bottomrule \multicolumn{10}{r}{continúa...} \\
+    \endfoot
+    
+    \bottomrule
+    \caption*{\scriptsize Elaborado: DAIE.}
+    \endlastfoot
+    
+       \input{tablas/iess_pen_vej_mort_2020.tex}
+       
+  \end{longtable}
+}
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Tabla de mortalidad de pensionistas de incapacidad permanente parcial, absoluta y total}
+En la tabla \ref{tab:iess_pen_incap_mort_rtr} se presenta la mortalidad de pensionistas de
+incapacidad permanente parcial, absoluta y total por edad y sexo.
+
+{\fontsize{10}{12}\selectfont
+  \begin{longtable}[H]{l*{4}{r}|l*{4}{r}}
+  %\captionsetup{justification=centering}
+    \caption{Tabla de mortalidad de pensionistas de incapacidad permanente parcial, absoluta y total}
+    \label{tab:iess_pen_incap_mort_rtr}\\
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\
+    \midrule
+    \endfirsthead
+
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\
+    \midrule
+    \endhead
+
+    \bottomrule \multicolumn{10}{r}{continúa...} \\
+    \endfoot
+
+    \bottomrule
+    \caption*{\scriptsize Elaborado: DAIE.}
+    \endlastfoot
+
+       \input{tablas/iess_pen_incap_mort_rtr.tex}
+
+  \end{longtable}
+}
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Tabla de mortalidad de pensionistas de invalidez}
+En la tabla \ref{tab:iess_pen_inv_mort_2020} se presenta la mortalidad de pensionistas de invalidez 
+por edad y sexo.
+
+{\fontsize{10}{12}\selectfont
+  \begin{longtable}[H]{l*{4}{r}|l*{4}{r}}
+  %\captionsetup{justification=centering}
+    \caption{Tabla de mortalidad de pensionistas invalidez (2020)}
+    \label{tab:iess_pen_inv_mort_2020}\\
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\ 
+    \midrule
+    \endfirsthead
+    
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\ 
+    \midrule
+    \endhead
+    
+    \bottomrule \multicolumn{10}{r}{continúa...} \\
+    \endfoot
+    
+    \bottomrule
+    \caption*{\scriptsize Elaborado: DAIE.}
+    \endlastfoot
+    
+       \input{tablas/iess_pen_inv_mort_2020.tex}
+       
+  \end{longtable}
+}
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Tabla de mortalidad de montepío por viudedad}
+Se presenta la tabla de mortalidad de montepío por viudedad detallado por edad y sexo
+
+{\fontsize{10}{12}\selectfont
+  \begin{longtable}[H]{l*{4}{r}|l*{4}{r}}
+  %\captionsetup{justification=centering}
+    \caption{Tabla de mortalidad de pensionistas de montepío (2020)}
+    \label{tab:iess_pen_mont_mort_2020}\\
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & 
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\ 
+    \midrule
+    \endfirsthead
+    
+    \toprule
+    \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+    \midrule
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$ & 
+    $x$ & $l_x$ & $q_x$ & $p_x$ & $e_x$\\ 
+    \midrule
+    \endhead
+    
+    \bottomrule \multicolumn{10}{r}{continúa...} \\
+    \endfoot
+    
+    \bottomrule
+    \caption*{\scriptsize Elaborado: DAIE.}
+    \endlastfoot
+    
+       \input{tablas/iess_mon_mort_2020.tex}
+  
+  \end{longtable}
+}
+
+%---------------------------------------------------------------------------------------------------
+\section{Tabla de decrementos múltiples para afiliados}
+
+A partir de las diferentes tasas estimadas para los afiliados $\mu^{2,3}_{t,g,x}$, 
+$\mu^{2,4}_{t,g,x}$, $\mu^{2,5}_{t,g,x}$, cuya metodología de estimación y ajuste ha sido descrita 
+en la sección \ref{chp_modelo:sec_cad_markov_cont}, se está en la capacidad de generar una tabla de 
+decrementos múltiples para afiliados, para más detalles al respecto se puede referir a 
+\textcite{ActMathLifContRisk:2013}. Esta tabla de decrementos múltiples es de extrema importancia 
+para el cálculo de conmutativos asociados a activos, por estar sujetos a realizar transiciones a 
+muerto, pensionista por vejez o pensionista por invalidez. 
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{*{5}{r}|*{5}{r}}
+  \caption{Tabla de decrementos para afiliados ambos sexos}\\
+  \label{tab:dec_afi}\\
+
+  \toprule
+  \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+  \midrule
+  $x$ & $l_x$ & $d^3_x$ & $d^4_x$ & $d^5_x$ & 
+  $x$ & $l_x$ & $d^3_x$ & $d^4_x$ & $d^5_x$ \\ 
+  \midrule
+  \endfirsthead
+
+  \toprule
+  \multicolumn{5}{c|}{Mujeres} & \multicolumn{5}{c}{Hombres} \\
+  \midrule
+  $x$ & $l_x$ & $d^3_x$ & $d^4_x$ & $d^5_x$ & 
+  $x$ & $l_x$ & $d^3_x$ & $d^4_x$ & $d^5_x$ \\ 
+  \midrule
+  \endhead
+
+  \bottomrule
+  \multicolumn{10}{r}{continúa...} \\ 
+  \endfoot
+
+  \bottomrule
+  \caption*{\scriptsize Elaborado: DAIE.}
+  \endlastfoot
+  
+    \input{tablas/iess_tab_dec.tex}
+      
+  \end{longtable}
+}
+
+%---------------------------------------------------------------------------------------------------
+\section{Tabla de factores de riesgo en las prestaciones por indemnizaciones por incapacidad permanente parcial}
+
+En la tabla \ref{tab:iess_factores_riesgos_indm} y la figura \ref{fig:iess_factores_riesgos_indm}, 
+se presentan los factores de riesgo en las prestaciones por incapacidad permanente parcial de 
+siniestralidad, tales como: la tasa de siniestralidad, $p^{2,10}_{g,x}$, y el porcentaje de 
+incapacidad, $\beta^{Indem}_{1,x}$, por incapacidad permanente parcial.
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{*{3}{r}|*{3}{r}}
+\captionsetup{justification=centering}
+  \caption{Tabla de siniestralidad y porcentaje de incapacidad para las indemnizaciones por 
+  incapacidad permanente parcial}
+  \label{tab:iess_factores_riesgos_indm}\\
+  \toprule
+  \multicolumn{3}{c|}{Mujeres} & \multicolumn{3}{c}{Hombres} \\
+  \midrule
+  $x$ & $p^{2,10}_{1,x}$ & $\beta^{Indem}_{1,x}$ & $x$ & $p^{2,10}_{2,x}$ &  $\beta^{Indem}_{2,x}$ \\ 
+  \midrule
+  \endfirsthead
+
+  \toprule
+ \multicolumn{3}{c|}{Mujeres} & \multicolumn{3}{c}{Hombres} \\
+  \midrule
+  $x$ & $p^{2,10}_{1,x}$ & $\beta^{Indem}_{1,x}$ & $x$ & $p^{2,10}_{2,x}$ &  $\beta^{Indem}_{2,x}$ \\  
+  \midrule
+  \endhead
+
+  \bottomrule
+  \multicolumn{6}{r}{continúa...} \\ 
+  \endfoot
+
+  \bottomrule
+  \caption*{\scriptsize Elaborado: DAIE.}
+  \endlastfoot
+  
+    \input{tablas/iess_indem_sinies_rtr.tex}
+      
+  \end{longtable}
+}
+
+\clearpage
+
+\begin{landscape}
+\begin{figure}[H]
+\caption{Siniestralidad y porcentaje de incapacidad para las indemnizaciones por incapacidad 
+permanente parcial}
+\label{fig:iess_factores_riesgos_indm}
+\centering
+\includegraphics[scale=1.0]{graficos/iess_factores_riesgos_indm.png}
+\end{figure}
+\end{landscape}
+
+%---------------------------------------------------------------------------------------------------
+\section{Tabla de factores de riesgo en las prestaciones por incapacidad temporal}
+En la tabla \ref{tab:iess_factores_riesgos_subs} y la figura \ref{fig:iess_factores_riesgos_subs}, 
+se presentan los factores de riesgo en las prestaciones por incapacidad temporal, tales como: la tasa de siniestralidad, $p^{2,11}_{g,x}$, el porcentaje de 
+incapacidad temporal, $\beta^{Indem}_{1,x}$ y duración (en días) de los subsidios por incapacidad 
+temporal, $d_{g,x}$.
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{*{4}{r}|*{4}{r}}
+\captionsetup{justification=centering}
+  \caption{Tabla de siniestralidad, porcentajes de incapacidad temporal y duración de los 
+  subsidios por incapacidad temporal}
+  \label{tab:iess_factores_riesgos_subs}\\
+  \toprule
+  \multicolumn{4}{c|}{Mujeres} & \multicolumn{4}{c}{Hombres} \\
+  \midrule
+  $x$ & $p^{2,11}_{1,x}$ & $\beta^{Subs}_{1,x}$ & $d_{1,x}$ & $x$ & $p^{2,11}_{2,x}$ &  
+  $\beta^{Subs}_{2,x}$ & $d_{2,x}$ \\ 
+  \midrule
+  \endfirsthead
+
+  \toprule
+ \multicolumn{4}{c|}{Mujeres} & \multicolumn{4}{c}{Hombres} \\
+  \midrule
+  $x$ & $p^{2,11}_{1,x}$ & $\beta^{Subs}_{1,x}$ & $d_{1,x}$ & $x$ & $p^{2,11}_{2,x}$ & 
+  $\beta^{Subs}_{2,x}$ & $d_{2,x}$ \\   
+  \midrule
+  \endhead
+
+  \bottomrule
+  \multicolumn{8}{r}{continúa...} \\ 
+  \endfoot
+
+  \bottomrule
+  \caption*{\scriptsize Elaborado: DAIE.}
+  \endlastfoot
+  
+    \input{tablas/iess_subs_sinies_rtr.tex}
+      
+  \end{longtable}
+}
+
+\begin{landscape}
+\begin{figure}[H]
+\caption{Siniestralidad, porcentajes de incapacidad temporal y duración de los subsidios por 
+incapacidad temporal}
+\label{fig:iess_factores_riesgos_subs}
+\centering
+\includegraphics[scale=1.0]{graficos/iess_factores_riesgos_subs.png}
+\end{figure}
+\end{landscape}
+
+%---------------------------------------------------------------------------------------------------
+\section{Tabla de factores de riesgo en las prestaciones por montepío}
+
+En la tabla \ref{tab:factores_mon} y la figura \ref{fig:factores_mon}, se presentan los factores de 
+riesgo en las prestaciones por incapacidad permanente parcial de siniestralidad, tales como: la 
+tasa de siniestralidad de accidentes laborales fatales, $p^{FA}_{x}$, la función de densidad de 
+probabilidades de la edad de entrada de huérfanos,  $f^{orf}_{x}$, y viudas, $f^{viu}_{x}$, y el 
+número de hijos de menores de 18 años, $GF_{x}^{orf}$, y conyugues, $GF_{x}^{viu}$, de los 
+afiliados fallecidos en accidentes laborales.
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{C{0.3cm}*{4}{R{1cm}}R{1.1cm}|C{0.3cm}*{5}{R{1cm}}}
+\captionsetup{justification=centering}
+  \caption{Tabla de factores de riesgo en las prestaciones por montepío}
+    \label{tab:factores_mon}\\
+  \toprule
+  \multicolumn{6}{c|}{Mujeres} & \multicolumn{6}{c}{Hombres} \\
+  \midrule
+$x$ & $p^{2,12}_{x}$ & $f^{orf}_{1,x}$ & $f^{viu}_{1,x}$ & $GF_{1,x}^{orf}$ & $GF_{1,x}^{viu}$ & 
+$x$ & $p^{2,12}_{x}$ & $f^{orf}_{2,x}$ & $f^{viu}_{2,x}$ & $GF_{2,x}^{orf}$ & $GF_{2,x}^{viu}$ \\
+  \midrule
+  \endfirsthead
+
+  \toprule
+ \multicolumn{6}{c|}{Mujeres} & \multicolumn{6}{c}{Hombres} \\
+  \midrule
+ $x$ & $p^{2,12}_{x}$ & $f^{orf}_{1,x}$ & $f^{viu}_{1,x}$ & $GF_{1,x}^{orf}$ & $GF_{1,x}^{viu}$ & 
+ $x$ & $p^{2,12}_{x}$ & $f^{orf}_{2,x}$ & $f^{viu}_{2,x}$ & $GF_{2,x}^{orf}$ & $GF_{2,x}^{viu}$ \\
+  \midrule
+  \endhead
+
+  \bottomrule
+  \multicolumn{12}{r}{continúa...} \\
+  \endfoot
+
+  \bottomrule
+  \caption*{\scriptsize Elaborado: DAIE.}
+  \endlastfoot
+
+    \input{tablas/iess_factor_montepio_rtr.tex}
+
+  \end{longtable}
+}
+
+\begin{landscape}
+\begin{figure}[H]
+\caption{Tabla de factores de riesgo en las prestaciones por montepío}
+\label{fig:factores_mon}
+\centering
+\includegraphics[scale=1.0]{graficos/iess_factores_riesgos_montepio.png}
+\end{figure}
+\end{landscape}
