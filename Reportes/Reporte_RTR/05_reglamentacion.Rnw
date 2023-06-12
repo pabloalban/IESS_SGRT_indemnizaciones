@@ -1,164 +1,891 @@
 %---------------------------------------------------------------------------------------------------
-\chapter{Base legal}
-\label{chp_baselegal}
+\chapter{Reglamentación del fondo o seguro}
+\label{chp_reglamentacion}
 
 %---------------------------------------------------------------------------------------------------
 
-\section{Ley de Seguridad Social}
-\label{chp_seguridadsocial}
+\section{Reseña histórica de la normativa expedida de los porcentajes de aportación para el \Sexpr{REP_seg}}
+\label{chp_reglamentacion:historica}
 
-La Ley de Seguridad Social publicada en el Registro Oficial Suplemento 465, de fecha 30 de
-noviembre de 2001, establece respecto a la responsabilidad patronal:
+Se presenta la evolución y desarrollo histórico de la normativa expedida sobre los porcentajes de aportación para las atenciones medico asistenciales del Seguro General de Riesgos del Trabajo del IESS. Con este fin, se ha realizado una investigación de la normativa existente hasta la fecha en el Instituto Ecuatoriano de seguridad Social desde su nacimiento como Caja Nacional de Seguro Social, Caja de Previsión hasta la actualidad.
 
-\textit{``Artículo 94.- RESPONSABILIDAD PATRONAL.- Si por culpa de un patrono el IESS no pudiere conceder a un trabajador o a sus deudos las prestaciones en dinero que fueran reclamadas y a las que habrían podido tener derecho, o si resultaren disminuidas dichas prestaciones por falta de cumplimiento de las obligaciones del empleador, este será responsable de los perjuicios causados al asegurado o a sus deudos, responsabilidad que el Instituto hará efectiva mediante la coactiva. El IESS concederá tales prestaciones, en la parte debida a la omisión o culpa del empleador, solamente cuando se haga efectiva la responsabilidad de éste, a menos que el patrono rinda garantía satisfactoria para el pago de lo que debiere por aquel concepto''.}
+El artículo 31 del estatuto de las Cajas de Previsión y sus reformas, expedido el 18 de octubre de 1963, establece: Las Cajas de Previsión acreditarán al Departamento Médico una cantidad igual al 3,41\% de los sueldos, más el 25\% del excedente de utilidades líquidas en las inversiones de los fondos del Seguro IVM. Además, en el artículo 108, se establece que los aportes para el Seguro de Accidentes del Trabajo y Enfermedades Profesionales, para los Seguros Familiares y para los Seguros Adicionales y Facultativos, que serán fijados en Reglamentos especiales, de acuerdo con el dictamen del Departamento Matemático Actuarial.
 
-\textit{``Artículo 95.- ACCION PARA PERSEGUIR LA RESPONSABILIDAD PATRONAL.- En los casos de responsabilidad patronal, dentro de los treinta (30) días de producido el hecho que la determina, el IESS iniciará el juicio coactivo correspondiente contra el empleador en mora. El juicio concluirá o podrá suspenderse por pago en efectivo o por suscripción de un convenio de purga de mora con alguna de las garantías señaladas en el artículo 93 de esta Ley, bajo la responsabilidad pecuniaria del Director General o Provincial o del funcionario que ejerza la jurisdicción coactiva por delegación, según corresponda''.}
+En el artículo 1 del Decreto No. 878, de fecha 29 de abril de 1964, expedido por la Junta Militar de Gobierno, establece que a partir del 01 de mayo de 1964 para que se fije la prima especial igual a 1,5\% mensual sobre los sueldos, para financiar el Seguro de Riesgos del Trabajo, a los patronos públicos y las empresas, y patronos privados.
 
-\textit{``Artículo 96.- PRESTACIONES QUE DEBEN CONCEDERSE AUN EN CASO DE MORA PATRONAL.- El Instituto Ecuatoriano de Seguridad Social queda obligado a conceder las prestaciones por enfermedad, maternidad, auxilio de funerales y el fondo mortuorio a todos sus asegurados que hayan cumplido las condiciones establecidas en esta Ley y los reglamentos, aún cuando sus patronos estén en mora. Todo, sin perjuicio de la responsabilidad patronal a que haya lugar.}
-
-\textit{El Instituto Ecuatoriano de Seguridad Social queda obligado, asimismo, a la entrega oportuna de las prestaciones de salud a los jubilados en sus unidades médicas, aún cuando el Estado no se hallare al día en el pago de la contribución obligatoria que cubre el costo del seguro colectivo contra la contingencia de enfermedad de los jubilados''.}
-
-
-Respecto a la responsabilidad de la Dirección Actuarial, de Investigación y Estadística:
-
-\textit{``Artículo 45.- RESPONSABILIDAD.- La Dirección Actuarial es órgano de asesoría técnica del IESS, subordinado al Consejo Directivo. Tiene a su cargo la preparación de los balances actuariales de cada uno de los regímenes de protección del Seguro General Obligatorio; la elaboración de los estudios técnicos y los informes periódicos sobre la situación de dichos regímenes y sus proyecciones; la evaluación de la cobertura poblacional, el perfil epidemiológico, los índices de siniestralidad de cada riesgo protegido, y del equilibrio financiero de los seguros sociales aplicados por el IESS; la preparación sistemática, periódica y oportuna de la memoria estadística del IESS, y los demás que ordene el Consejo Directivo.} 
-
-\textit{El Director Actuarial será designado por el Consejo Directivo para un período de cuatro (4) años, de acuerdo con los requisitos establecidos en el Reglamento''.}
-
-
-
-\section{Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP}
-\label{chp_sentencia}
-
-Con fecha 01 de septiembre de 2021, el Juez ponente, Ramiro Ávila Santamaría, de la Corte Constitucional emite la sentencia CASO No. 1024-19-JP/21 y 66-20-JP (Derecho a la seguridad social, pensión jubilar por incapacidad, montepío, pensión de viudez y orfandad y la responsabilidad del empleador). El Pleno de la Corte Constitucional del Ecuador, en ejercicio de sus atribuciones constitucionales y legales, emite la siguiente sentencia:
-
-\begin{center}
-\textit{``V. Decisión}
-\end{center}
-\textit{La Corte Constitucional, administrando justicia constitucional conforme lo dispuesto en el artículo 436 (6) de la Constitución, artículo 25 de la LOGJCC, RESUELVE:}
-\begin{enumerate}[nosep, label = {\arabic*.}]
-\item \textit{Confirmar las sentencias emitidas el 6 de junio de 2019 por la Única Sala de la Corte Provincial de Morona Santiago, y el 28 de noviembre de 2019 por la Sala de Familia, Mujer y Adolescencia de la Corte Provincial de El Oro.}\\
-
-\item \textit{Declarar la violación de derechos por parte del IESS a la seguridad social, a la vida digna, a la atención prioritaria y especializada y al acceso a servicios de calidad, eficientes, eficaces y de buen trato, de Galo Patiño Quezada y su familia, y de Maritza Liliana Saavedra Chasing, de sus hijos JBS y MBS.}\\
-
-\item \textit{Disponer, como medidas de reparación, que:}\\
-
-\begin{enumerate}[nosep, label = {(\arabic*)} ]
-\item \textit{El IESS, en el plazo de un mes, pedirá disculpas públicas a Maritza Saavedra y Galo Patiño Quezada, mediante oficio a sus domicilios y confirma de autoridad competencia, y mediante publicación en un diario de circulación nacional y local, de conformidad con el siguiente texto:}\\
-
-\textit{``El IESS pide disculpas públicamente [a Maritza Saavedra y a sus hijos] [a Galo Patiño Quezada y a su familia] por la demora excesiva en otorgar las pensiones debidas, que ocasionó innecesariamente sufrimientos y violaciones a sus derechos a la seguridad social, vida digna, atención prioritaria y a acceder a bienes y servicios públicos de calidad, eficaces y eficientes, que fueron declaradas mediante sentencia de la Corte Constitucional (Caso 1024-19-JP y acumulado), y promete tomar las medidas necesarias para que situaciones como las sucedidas, no vuelva a pasar a otras personas''.}\\
-
-\item \textit{El IESS deberá entregar, en el plazo de treinta días, la prótesis necesaria a Galo Patiño y encargarse de reemplazarla oportunamente cada vez que su condición médica lo requiera.}\\
-
-\item \textit{El IESS, en el plazo de 6 meses, por los daños materiales e inmateriales, la angustia, sufrimiento y las violaciones a los derechos de Galo Patiño y Maritza Saavedra y sus familias, deberá entregarles la cantidad de diez mil dólares (USD 10.000) a cada una de las víctimas.}\\
+En el artículo 190 del Estatuto codificado del IESS, de fecha 01 de marzo de 1990, se establece el financiamiento del Seguro General de Riesgos del Trabajo, el cual señala en su literal a), las aportaciones serán igual al 1,5\% de los sueldos y salarios imponibles que pagarán los empleados públicos y privados, cualquiera sea su actividad económica. El artículo 191 indica el reparto de la prima de cotización para las prestaciones asistenciales, económicas y los servicios de prevención de riesgos, de la siguiente manera: 
+\begin{enumerate}[label=\alph*), itemsep=0mm, topsep=0pt]
+\item El 1\% de las prestaciones asistenciales a cargo de la Dirección Nacional Médico Social;
+\item El 0.40\% para las prestaciones económicas y gastos administrativos; y,
+\item El 0.10\% para los servicios de prevención a cargo de la Dirección de Riesgos y Prestaciones, la División de Riesgos del Trabajo y las Oficinas de Prevención de las Direcciones Regionales.
 \end{enumerate}
 
-\item \textit{Declarar la inconstitucionalidad, de oficio, de la frase del inciso segundo del artículo 94 de la Ley de Seguridad Social que dice “solamente cuando se haga efectiva la responsabilidad de éste, a menos que el patrono rinda garantía satisfactoria para el pago de lo que debiere por aquel concepto” y disponer que en el texto se lea “El IESS concederá inmediatamente tales prestaciones, cuando se cumplan los requisitos de ley.” En consecuencia, el artículo 94, inciso segundo, dirá:}\\
+Con Resolución 740 del 24 de septiembre de 1990 fue sustituido el primer inciso del Art. 191 del Estatuto, por el siguiente:
+“El financiamiento de las prestaciones económicas en el Seguro de Riesgos del Trabajo, tiene su respaldo técnico en el llamado sistema de Capitales de Cobertura”.
 
-\textit{``El IESS concederá inmediatamente tales prestaciones cuando se cumplan los requisitos de ley, aun cuando no se haga efectiva la responsabilidad del patrono''.}\\
-
-\item \textit{Disponer que, en el plazo de un año, como medidas de no repetición, el IESS deberá realizar una auditoría, tomar medidas para solucionar los problemas en los procedimientos de cobro de deudas patronales y diseñar e implementar un programa de capacitación, de conformidad con lo dispuesto en el párrafo 170 de esta sentencia.}\\
-
-\item \textit{Exhortar a los empleadores a través de las distintas Cámaras de Comercio, Producción, para que difundan esta sentencia entre sus agremiados y ofrezcan capacitación en tema de cumplimiento de obligaciones de seguridad industrial y prevención de accidentes y enfermedades laborales, así como realizar una campaña sobre la importancia del pago oportuno de las aportaciones al IESS.}\\
-
-\item \textit{Notifíquese, publíquese y cúmplase''.}
+El Reglamento General del Seguro de Riesgos del Trabajo, emitido a través de la Resolución Del Consejo Superior No. 741, de fecha 18 de septiembre de 1990, establece en su artículo 15, las incapacidades originadas en accidentes de trabajo o enfermedades profesionales pueden tener los siguientes efectos: 
+\begin{enumerate} [itemsep=1mm, topsep=5pt]
+\item Incapacidad Temporal 
+\item Incapacidad Permanente Parcial 
+\item Incapacidad Permanente Total 
+\item Incapacidad Permanente Absoluta 
+\item Muerte
 \end{enumerate}
 
-\section{Reglamento Orgánico Funcional del Instituto Ecuatoriano de Seguridad Social}
-\label{chp_reglamento_org_funcional}
+Y su artículo 47 establece la prima del 0,10\% destinada a los servicios de prevención de riesgos, será distribuido de acuerdo con los programas y necesidades de cada Regional conforme el número de empresas y trabajadores.
 
-
-En el punto 2.3 del artículo 10 de la \textcite{ResIESS_CD535} emitida por el Consejo Directivo del IESS de fecha 8 de septiembre de 2016, se establecen: la misión, atribuciones y responsabilidades de la Dirección Actuarial, de Investigación y Estadística. Entre las cuales se establece la siguiente atribución y responsabilidad:
-
-\textit{"2.3 GESTIÓN ACTUARIAL, DE INVESTIGACIÓN Y ESTADÍSTICA\\
-DIRECCIÓN ACTUARIAL, DE INVESTIGACIÓN Y ESTADÍSTICA\\
-(...)\\
-ATRIBUCIONES Y RESPONSABILIDADES\\
-(...)\\
-b) Desarrollar y revisar estudios e informes técnicos sobre la situación financiera actuarial de los regímenes de aseguramiento para la prestación de las contingencias del seguro universal obligatorio de los afiliados al IESS; y, para la prestación de contingencias del régimen especial establecido para el Seguro Social Campesino, y requerido por el Consejo Directivo y la Dirección General;(..)"}
-
-y su misión:
-
-\textit{``(...) Preparar los balances actuariales de cada uno de los regímenes de protección del Seguro Obligatorio, la elaboración de los estudios técnicos y los informes periódicos sobre la situación de dichos regímenes y sus proyecciones  para mantener el equilibrio financiero de los seguros administrados por el IESS; realizar investigaciones y estudios en el campo de la seguridad social; y, preparar de manera sistemática, periódica y oportuna la memoria estadística del IESS en los términos establecidos en la Ley (...)''}
-
-\section{Reglamento General de Responsabilidad Patronal}
-Con fecha 30 de marzo de 2016, se expidió el Reglamento General de Responsabilidad Patronal, mediante la emisión de la \textcite{ResIESS_CD517}, el cual señala en su Capítulo Sexto, establece:
-
-\textit{``Artículo 14.- En los casos de generarse derecho al otorgamiento de pensiones por accidente de trabajo o enfermedad profesional, hay responsabilidad patronal cuando:}
-
-\begin{enumerate}[nosep, label=\alph*)]
-\item \textit{El empleador no inscribió al trabajador ni pagó aportes al IESS antes de la ocurrencia del siniestro;}\\
-
-\item \textit{El empleador se encuentra en mora en el pago de aportes al momento del accidente de trabajo o al momento de la calificación de la enfermedad profesional o del cese provocado por ésta;}\\
-
-\item \textit{El empleador por sí o por interpuesta persona, no comunicó al IESS el siniestro, dentro de los 10 días laborables contados a partir de la fecha del accidente de trabajo o del diagnóstico de presunción inicial de la enfermedad profesional;}\\
-
-\item \textit{Si a consecuencia de las investigaciones realizadas por las unidades de Riesgos del Trabajo, se determina que el accidente de trabajo o enfermedad profesional ha sido causado por incumplimiento y/o inobservancia de las normas sobre prevención de riesgos de trabajo, aun cuando este al día en el pago de aportes; y,}\\
-
-\item \textit{Los aportes correspondientes a uno de los 12 meses de aportación, anteriores a la fecha del siniestro, fueron pagados con una extemporaneidad mayor de 3 meses''.}\\
-
+El Reglamento de Afiliación del Trabajador Contratado por Horas expedido en la Resolución C.I. 130, de fecha 22 de febrero del 2002, establece, en su artículo 23, la tasa de aportación patronal igual a 19\%, de la cual se separa para cada seguro:
+\begin{enumerate} [itemsep=1mm, topsep=5pt]
+	\item 10,0 \% para el Seguro General de Salud.
+	\item 0,5 \% para el Seguro General de Riesgos del Trabajo;
+	\item 8,5 \% para el Seguro General de Invalidez, Vejez y Muerte. 
 \end{enumerate}
 
-\textit{``Artículo 15.- Cuantía. - La cuantía de la responsabilidad patronal en los casos de subsidios, indemnizaciones, pensiones y rentas por accidentes de trabajo o enfermedades profesionales u ocupacionales, será igual:}
-
-\begin{enumerate}[nosep, label=\alph*)]
-\item \textit{Al valor equivalente a un salario básico unificado del trabajador en general, vigente a la fecha de liquidación, cuando se trate de la aplicación de la responsabilidad patronal constante en los literales a) y c) del artículo 14 de este Reglamento, sin perjuicio del pro de la responsabilidad patronal que hubiere lugar por atenciones de salud.}\\
-
-\item \textit{En los casos constantes en el literal b) del artículo 14 del presente Reglamento, cuando los aportes que se encuentren en mora correspondan a períodos inferiores a 180 meses, se calculará de la siguiente manera: el número de meses en mora multiplicado por el monto total en mora y por la rentabilidad mensual óptima de los recursos; a dicho producto se le suma el 50\% del salario básico unificado:}
-	\[ RP_{total} = T \ast r \ast X_{t} + 0,5 \, SBU
-\]
-Donde:\\
-$RP_{total}$: \textit{Responsabilidad Patronal Total.}\\
-$FD_{k}$: \textit{Fecha límite de pago del aporte "$k$".}\\
-$FP_{k}$: \textit{Fecha de pago del aporte "$k$".}\\
-$t$: \textit{Número de aportes pagados en mora.}\\
-$T$: \textit{Máximo valor de las diferencias entre la fecha de pago y la fecha límite de pago de los aportes cancelados extemporáneamente después del siniestro, toda fracción será considerada como un mes para efectos del cálculo.} \\
-	\[ T = \max \left\{FP_{k} - FD_{k} : k \in \left\{1,2,\ldots,t\right\} \right\}
-\]
-$r$: \textit{3 veces la rentabilidad anual mensualizada del BIESS.}\\
-$X_{t}$: \textit{Es el monto total del aporte al seguro del tiempo adeudado.}\\
-	\[X_{t} = \sum_{k}^{t} x_{k}
-\]
-$X_{k}$: \textit{Es el aporte "$k$" \; no pagado, $k = \bar{1,t}$ \\
-SBU: Salario Básico Unificado a la fecha de liquidación.}\\
-
-\textit{Como tasa de rentabilidad se considerará la rentabilidad del año anterior generada por el BIESS para las Inversiones del Seguro especializado correspondiente.}\\
-
-\item \textit{En los casos constantes en el literal b) del artículo 14 del presente Reglamento, cuando los aportes pagados con mora después de la fecha del siniestro sean iguales o superiores a 180 meses, la cuantía es la diferencia entre el valor que hubiesen rendido los aportes no pagados (Reserva Matemática) y el valor cobrado por mora, no menor de 25 SBU.}\\
-
-\textit{La fórmula de cálculo es la siguiente:}\\
-
-	\[RP_{total} = \max \left\{ 25\,SBU; \sum_{k=1}^{t} x_{t} \left[ \prod_{j=1}^{m_{k}} \left(\left(1+ta\right)\left( 1+\pi_{j}\right)\right)^{1/12} - \left(1 + m_{k}\ast\frac{mc_{k}+4\%}{12}\right)\right] I_{0}^{1}\right\}
-\]
-\textit{Donde:}\\
-$RP_{total}$: \textit{Responsabilidad Patronal Total.}\\
-$SBU$: \textit{Salario Básico Unificado a la fecha de liquidación.}\\
-$t$: \textit{Número de aportes pagados por mora.}\\
-$x_{k}$: \textit{Es el aporte $k$ no pagado, $k=\bar{1,t}$.}\\
-$FD_{k}$: \textit{Fecha límite de pago del aporte "$k$".}\\
-$FP_{k}$: \textit{Fecha de pago del aporte "$k$".}\\
-$m_{k}$: \textit{Número de meses transcurridos entre la fecha de pago $FP_{k}$ y la fecha límite de pago $FD_{k}$ del aporte "$k$", toda fracción será considerada como un mes para efectos del cálculo.}\\
-$ta$: \textit{Tasa actuarial.}\\
-$\pi_{j}$: \textit{Inflación del mes "$i$" posterior al mes de la fecha límite de pago.}\\
-$mc_{k}$: \textit{Tasa máxima convencional permitida por el Banco Central vigente a la fecha de pago o liquidación del aporte "$k$".}\\
-$I_{0}^{1}$: \textit{es una variable binaria definida de la siguiente manera:}\\
-
-\begin{equation*}
- I_{0}^{1} = \begin{cases}
-  1  & \text{si }  \prod_{j=1}^{m_{k}} \left(\left(1+ta\right)\left( 1+\pi_{j}\right)\right)^{1/12} - \left(1 + m_{k}\ast\frac{mc_{k}+4\%}{12}\right) \\
-  0                                                        & \text{caso contrario.}
-  \end{cases} \\
-\end{equation*}
-
-
-\item \textit{Si a consecuencia de las investigaciones realizadas por las Unidades de Riesgos del Trabajo, se determinare que el accidente o la enfermedad profesional u ocupacional ha sido causada por incumplimiento y/o inobservancia de las normas sobre prevención de riesgos del trabajo; para las incapacidades temporales y permanentes parciales, se cobrará el valor de la prestación otorgada multiplicada por la sumatoria de los porcentajes establecidos en la tabla anexa, de acuerdo al resultado de la investigación del siniestro, que genere el número de incumplimientos por tipo de causalidad, y de conformidad al Reglamento del Seguro General de Riesgos del Trabajo.
-Para los casos de incapacidades permanente total, permanente absoluta y/o fallecimientos, y que en la investigación de causalidad del siniestro se determine la responsabilidad del empleador, el valor a cobrarse será del 100\% de la prestación generada.}\\
-
-\item \textit{La aplicación de la Responsabilidad Patronal en los casos constantes en el literal d) del artículo 14 del presente Reglamento, en sujeción al dictamen de la Comisión Nacional de Prevención, la cuantía de la sanción en el caso de pensiones en el Seguro General de Riesgos de Trabajo, será igual al valor actuarial de la pensión a pagar a cargo del IESS menos la reserva acumulada en este Seguro, para la prestación a otorgarse.}\\
-
-\item \textit{Responsabilidad Patronal de dos o más empleadores por enfermedad profesional u ocupacional.- Cuando se determine responsabilidad patronal por inobservancia de medidas de prevención, de dos o más empleadores respecto de un mismo asegurado, por enfermedad profesional u ocupacional, la sanción se aplicará proporcionalmente a cada empleador, en relación directa con las remuneraciones sobre las cuales se realizaron las aportaciones.}\\
-
-\item \textit{Responsabilidad Solidaria por accidente de trabajo.- Sin perjuicio de la responsabilidad principal del obligado directo y dejando a salvo el derecho de repetición, la persona en cuyo beneficio se realice la obra o se preste el servicio será responsable solidario del pago de la cuantía de la responsabilidad patronal por incumplimiento de la normativa técnico legal en seguridad y salud en el trabajo, aunque el contrato de trabajo se efectúe a través de prestadores de actividades complementarias. Los responsables solidarios deberán ser notificados al igual que el obligado principal, desde el inicio del proceso de responsabilidad patronal y durante todas sus fases.}
-
+La Ley de Seguridad Social de 2001, en su Título VII, “DEL SEGURO GENERAL DE RIESGOS DEL TRABAJO”, establece en su artículo 157 las prestaciones básicas:
+\begin{enumerate} [itemsep=1mm, topsep=5pt]
+\item Servicios de prevención;
+\item Servicios médico-asistenciales, incluidos los servicios de prótesis y ortopedia;
+\item Subsidio por incapacidad, cuando el riesgo ocasione impedimento temporal para trabajar;
+\item Indemnización por pérdida de capacidad profesional, según la importancia de la lesión, cuando el riesgo ocasione incapacidad permanente parcial que no justifique el otorgamiento de una pensión de invalidez;
+\item Pensión de invalidez; y,
+\item Pensión de montepío, cuando el riesgo hubiese ocasionado el fallecimiento del afiliado.
 \end{enumerate}
 
+En cambio, el artículo 159 de la Ley de Seguridad Social de 2001 dictamina que el financiamiento de las prestaciones del Seguro de Riesgos del Trabajo se financiará con un aporte patronal obligatorio del cero punto cinco por ciento (0,5\%) sobre la materia gravada del afiliado en relación de dependencia, que cubrirá el costo de las actividades de promoción y prevención y el de las prestaciones en subsidios, indemnización, y pensiones. Además, dictamina que el aporte de las prestaciones \textbf{en servicios de salud será cubierto con recursos del Fondo Presupuestario del Seguro General de Salud Individual y Familiar, en la forma que determinará el Consejo Directivo del IESS}.
+
+Y el artículo 161 de la Ley de Seguridad Social, "DIVISIÓN DE FUNCIONES", establece: “\textit{El Seguro General de Riesgos del Trabajo dividirá los procesos de aseguramiento, compra de servicios médico-asistenciales, y entrega de prestaciones a los afiliados. El aseguramiento y la compra de servicios estarán a cargo de la Administradora del Seguro General de Riesgos del Trabajo. La entrega de las prestaciones médico-asistenciales estará a cargo de las unidades médicas del IESS y los demás prestadores de salud, públicos y privados, debidamente acreditados por el IESS y contratados para tal objeto por la Administradora del Seguro General de Riesgos del Trabajo. \textbf{La entrega de las prestaciones monetarias será responsabilidad de las compañías aseguradoras contratadas por la Administradora, con cargo al Fondo Presupuestario del Seguro General de Riesgos del Trabajo}}”.
+
+El artículo 162 de la Ley de Seguridad Social, “ADMINISTRACIÓN DEL SEGURO GENERAL DE RIESGOS DEL TRABAJO”, establece que la compra de servicios de salud, serán responsabilidad de la Administradora del Seguro General de Riesgos del Trabajo. Y sus gastos administrativos se financiarán según lo señala el artículo 52, literal b de la Ley de Seguridad Social, y no podrá exceder del cuatro por ciento (4\%) de los ingresos del Fondo Presupuestario de este seguro.
+
+La Resolución C.D. 081, de fecha 13 de octubre del 2005, determinar la distribución de los aportes personales y patronales del Seguro General de Riesgos del Trabajo, de la siguiente forma:
+
+\begin{table}[H]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|l|l|l|l|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Afiliados}}                                                                                & \multicolumn{1}{c|}{\textbf{Conceptos}}  & \multicolumn{1}{c|}{\textbf{Personal}} & \multicolumn{1}{c|}{\textbf{Patronal}} & \multicolumn{1}{c|}{\textbf{Total}} \\ \hline
+\multirow{4}{*}{\begin{tabular}[c]{@{}c@{}}De los trabajadores\\  temporales de la\\  indsutria azucarera\end{tabular}} & \textbf{SECTORES DE RIESGOS DEL TRABAJO} & 0\%                                    & 1,01\%                                 & 1,01\%                              \\
+                                                                                                                        & Pensiones                                & 0\%                                    & 0,75\%                                 & 0,75\%                              \\
+                                                                                                                        & XIII y XVI Pensiones                     & 0\%                                    & 0,07\%                                 & 0,07\%                              \\
+                                                                                                                        & Prevención                               & 0\%                                    & 0,19\%                                 & 0,19\%                              \\ \hline
+\multicolumn{1}{|l|}{\multirow{4}{*}{\begin{tabular}[c]{@{}l@{}}El resto de\\ sectores\end{tabular}}}                    & \textbf{SECTORES DE RIESGOS DEL TRABAJO} & 0\%                                    & 0,55\%                                 & 0,55\%                              \\
+\multicolumn{1}{|l|}{}                                                                                                   & Pensiones                                & 0\%                                    & 0,40\%                                 & 0,40\%                              \\
+\multicolumn{1}{|l|}{}                                                                                                   & XIII y XVI Pensiones                     & 0\%                                    & 0,05\%                                 & 0,05\%                              \\
+\multicolumn{1}{|l|}{}                                                                                                   & Prevención                               & 0\%                                    & 0,10\%                                 & 0,10\%                              \\ \hline
+\end{tabular}}
+\end{table}
+
+
+
+Pero el Seguro de Salud se encargará de financiar las atenciones del Seguro de Riesgos del Trabajo
+
+\begin{table}[H] \centering
+\begin{tabular}{|c|l|l|l|l|}
+\hline
+\textbf{Afiliados}                                                                                                      & \multicolumn{1}{c|}{\textbf{Conceptos}}                                    & \multicolumn{1}{c|}{\textbf{Personal}} & \multicolumn{1}{c|}{\textbf{Patronal}} & \multicolumn{1}{c|}{\textbf{Total}} \\ \hline
+\multirow{4}{*}{\begin{tabular}[c]{@{}c@{}}De los trabajadores\\  temporales de la\\  indsutria azucarera\end{tabular}} & \textbf{SECTORES DE SALUD}                                                 & 0\%                                    & 10,42\%                                & 10,42\%                             \\
+                                                                                                                        & \begin{tabular}[c]{@{}l@{}}Enfermedad y \\ maternidad general\end{tabular} & 0\%                                    & 6,38\%                                 & 6,38\%                              \\
+                                                                                                                        & Subsidio Enfermedad                                                        & 0\%                                    & 1,38\%                                 & 1,38\%                              \\
+                                                                                                                        & Enfermedad, riesgos                                                        & 0\%                                    & 2,17\%                                 & 2,17\%                              \\ \hline
+\multicolumn{1}{|l|}{\multirow{4}{*}{\begin{tabular}[c]{@{}l@{}}El resto de\\ sectores\end{tabular}}}                   & \textbf{SECTORES DE SALUD}                                                 & 0\%                                    & 5,71\%                                 & 5,71\%                              \\
+\multicolumn{1}{|l|}{}                                                                                                  & \begin{tabular}[c]{@{}l@{}}Enfermedad y \\ maternidad general\end{tabular} & 0\%                                    & 3,41\%                                 & 3,41\%                              \\
+\multicolumn{1}{|l|}{}                                                                                                  & Subsidio Enfermedad                                                        & 0\%                                    & 1,30\%                                 & 1,30\%                              \\
+\multicolumn{1}{|l|}{}                                                                                                  & Enfermedad, riesgos                                                        & 0\%                                    & 1,00\%                                 & 1,00\%                              \\ \hline
+\end{tabular}
+\end{table}
+
+La Resolución C.D. 261, de fecha 26 de mayo de 2009, determinar la distribución de los aportes personales y patronales del Seguro General de Riesgos del Trabajo, de la siguiente forma:
+\begin{table}[H] \centering
+\begin{tabular}{|llll|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Afiliados}}                                                                                & \multicolumn{1}{c|}{\textbf{Personal}} & \multicolumn{1}{c|}{\textbf{Patronal}} & \multicolumn{1}{c|}{\textbf{Total}} \\ \hline
+\multicolumn{4}{|c|}{\textbf{SECTORES DE RIESGOS DEL TRABAJO}}                                                                                                                                                                                  \\ \hline
+\multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}}De los trabajdores temporales\\ de la industria azucarera\end{tabular}} & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{0,55\%}            & 0,55\%                              \\ \hline
+\multicolumn{1}{|l|}{El resto de sectores}                                                                              & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{10,42\%}           & 10,42\%                             \\ \hline
+\end{tabular}
+\end{table}
+
+Y también establece que el Seguro de Salud cubrirá: enfermedad y maternidad del Seguro General, subsidio económico del seguro general, atenciones de salud por accidentes del trabajo y enfermedades profesionales, órtesis y prótesis con el aporte patronal de los afiliados del 5,71\% y el aporte de los funcionarios del servicio exterior residentes en el extranjero al Seguro de Salud a 3,71\%.
+
+\begin{table}[H] \centering
+\begin{tabular}{|llll|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Afiliados}}                                                                                                & \multicolumn{1}{c|}{\textbf{Personal}} & \multicolumn{1}{c|}{\textbf{Patronal}} & \multicolumn{1}{c|}{\textbf{Total}} \\ \hline
+\multicolumn{4}{|c|}{\textbf{SECTORES DE SALUD}}                                                                                                                                                                                                                \\ \hline
+\multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}}De los trabajdores temporales\\ de la industria azucarera\end{tabular}}                 & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{10,42\%}           & 10,42\%                             \\ \hline
+\multicolumn{1}{|l|}{\begin{tabular}[c]{@{}l@{}}De los funcionarios del\\ servicio exterior residentes\\ en el extranjero\end{tabular}} & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{3,71\%}            & 3,71\%                              \\ \hline
+\multicolumn{1}{|l|}{El resto de sectores}                                                                                              & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{5,71\%}            & 5,71\%                              \\ \hline
+\end{tabular}
+\end{table}
+
+La Resolución C.D. 357, de fecha 09 de febrero de 2011, determinar la distribución de los aportes personales y patronales del Seguro General de Riesgos del Trabajo de los trabajadores autónomos y sin relación de dependencia y de los afiliados voluntarios, en concordancia a lo dictaminado en el artículo 159 de la Ley de Seguridad Social, de la siguiente forma:
+\begin{table}[H] \centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Afiliados}}                                                                                               & \multicolumn{1}{c|}{\textbf{Personal}} & \multicolumn{1}{c|}{\textbf{Patronal}} & \multicolumn{1}{c|}{\textbf{Total}} \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los trabajadores autónomos y\\ sin relación de dependencia y de\\ los afiliados voluntarios\end{tabular} & 0,55\%                                 & 0,00\%                                 & 0,55\%                              \\ \hline
+\end{tabular}
+\end{table}
+
+Mediante Resolución No. C.D. 347, de fecha 12 de enero de 2011, se reduce la prima de salud de la Resolución No. C.D. 261, de 10,42\% a 9,12\% para los trabajadores temporales de la industria azucarera.
+\begin{table}[H]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|clll|}
+\hline
+\textbf{Afiliados}                                                                                                   & \multicolumn{1}{c|}{\textbf{Conceptos}}                                                                                                                                                                                                                  & \multicolumn{1}{c|}{\textbf{Personal}} & \multicolumn{1}{c|}{\textbf{Patronal}} & \multicolumn{1}{c|}{\textbf{Total}} \\ \hline
+\multirow{4}{*}{\begin{tabular}[c]{@{}c@{}}De los trabajdores\\ temporales de la\\ industria azucarera\end{tabular}} & \multicolumn{4}{c|}{\textbf{SEGURO DE SALUD}}                                                                                                                                                                                                                                                                                                                                    \\ \cline{2-5}
+                                                                                                                     & \multicolumn{1}{l|}{\begin{tabular}[c]{@{}l@{}}(Enfermedad y maternidad del Seguro\\ General, subsidio económico del seguro\\ genral, atenciones de salud por accidentes\\ del trabajo y enfermedades profesionales,\\ órtesis y prótesis)\end{tabular}} & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{9,12\%}            & 9,12\%                              \\ \cline{2-5}
+                                                                                                                     & \multicolumn{4}{c|}{\textbf{SEGURO DE RIESGOS DEL TRABAJO}}                                                                                                                                                                                                                                                                                                                      \\ \cline{2-5}
+                                                                                                                     & \multicolumn{1}{l|}{\begin{tabular}[c]{@{}l@{}}(Subsidios, indemnizaciones, 12 pensiones\\ mensules, decimotercera, decimocuarta,\\ promoción y prevención)\end{tabular}}                                                                                & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{0,55\%}            & 0,55\%                              \\ \hline
+\end{tabular}}
+\end{table}
+
+Mediante Resolución No. C.D. 357, de fecha 09 de febrero de 2011, se establece la prima de 6,06\%, para los trabajadores autónomos y sin relación de dependencia y de los afiliados voluntarios.
+\begin{table}[H] \centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|clll|}
+\hline
+\textbf{Afiliados}                                                                                                                                           & \multicolumn{1}{c|}{\textbf{Conceptos}}                                                                                                                                                                                                                  & \multicolumn{1}{c|}{\textbf{Personal}} & \multicolumn{1}{c|}{\textbf{Patronal}} & \multicolumn{1}{c|}{\textbf{Total}} \\ \hline
+\multirow{4}{*}{\begin{tabular}[c]{@{}c@{}}De los trabajadores \\ autónomos y sin relación de\\  dependencia y de los \\ afiliados voluntarios\end{tabular}} & \multicolumn{1}{c|}{\textbf{SEGURO DE SALUD}}                                                                                                                                                                                                            & \multicolumn{1}{c|}{\textbf{}}         & \multicolumn{1}{c|}{\textbf{}}         &                                     \\ \cline{2-5}
+                                                                                                                                                             & \multicolumn{1}{l|}{\begin{tabular}[c]{@{}l@{}}(Enfermedad y maternidad del Seguro\\ General, subsidio económico del seguro\\ genral, atenciones de salud por accidentes\\ del trabajo y enfermedades profesionales,\\ órtesis y prótesis)\end{tabular}} & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{9,12\%}            & 9,12\%                              \\ \cline{2-5}
+                                                                                                                                                             & \multicolumn{4}{c|}{\textbf{SEGURO DE RIESGOS DEL TRABAJO}}                                                                                                                                                                                                                                                                                                                      \\ \cline{2-5}
+                                                                                                                                                             & \multicolumn{1}{l|}{\begin{tabular}[c]{@{}l@{}}(Subsidios, indemnizaciones, 12 pensiones\\ mensules, decimotercera, decimocuarta,\\ promoción y prevención)\end{tabular}}                                                                                & \multicolumn{1}{l|}{0\%}               & \multicolumn{1}{l|}{0,55\%}            & 0,55\%                              \\ \hline
+\end{tabular}}
+\end{table}
+
+\begin{table}[H] \centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|c|clll|}
+\hline
+\textbf{Afiliados}                                                                                                                                           & \multicolumn{1}{c|}{\textbf{Conceptos}}                                                                                                                                                                                                                  & \multicolumn{1}{c|}{\textbf{Personal}} & \multicolumn{1}{c|}{\textbf{Patronal}} & \multicolumn{1}{c|}{\textbf{Total}} \\ \hline
+\multirow{4}{*}{\begin{tabular}[c]{@{}c@{}}De los trabajadores \\ autónomos y sin relación de\\  dependencia y de los \\ afiliados voluntarios\end{tabular}} & \multicolumn{1}{c|}{\textbf{SEGURO DE SALUD}}                                                                                                                                                                                                            & \multicolumn{1}{c|}{\textbf{}}         & \multicolumn{1}{c|}{\textbf{}}         &                                     \\ \cline{2-5}
+                                                                                                                                                             & \multicolumn{1}{l|}{\begin{tabular}[c]{@{}l@{}}(Enfermedad y maternidad del Seguro\\ General, subsidio económico del seguro\\ genral, atenciones de salud por accidentes\\ del trabajo y enfermedades profesionales,\\ órtesis y prótesis)\end{tabular}} & \multicolumn{1}{l|}{6,06\%}            & \multicolumn{1}{l|}{0,00\%}            & 6,06\%                              \\ \cline{2-5}
+                                                                                                                                                             & \multicolumn{4}{c|}{\textbf{SEGURO DE RIESGOS DEL TRABAJO}}                                                                                                                                                                                                                                                                                                                      \\ \cline{2-5}
+                                                                                                                                                             & \multicolumn{1}{l|}{\begin{tabular}[c]{@{}l@{}}(Subsidios, indemnizaciones, 12 pensiones\\ mensules, decimotercera, decimocuarta,\\ promoción y prevención)\end{tabular}}                                                                                & \multicolumn{1}{l|}{0,55\%}            & \multicolumn{1}{l|}{0,00\%}            & 0,55\%                              \\ \hline
+\end{tabular}}
+\end{table}
+
+Mediante la Resolución No. CD.501, de fecha 13 de noviembre de 2015, se modifican las tasas de aportación del Seguro General de Riesgos del Trabajo de 0,55\% a 0,20\% entre el período 2015 a 2020, y, a partir del año 2021, se establezca a 0,38\%. En cambio, la tasa de aportación entre el período octubre de 2015 a diciembre de 2016 al Seguro de Salud creció de 5,71\% a 9,94\%, de los cuales 0,88\% es aporte personal y 9,06\% patronal. Es decir, se transfirió 3,88\% de IVM y 0,35\% de Riesgos de Trabajo hacia la financiación del Seguro de Salud. Pero esta transferencia de recursos al Seguro de Salud va disminuyendo en el tiempo entre 2017 hasta 2021, año en el que según la Resolución No. C.D. 501, se estabilizan las primas, como se muestran en las siguientes tablas:
+
+
+\begin{table}[H] \centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{\begin{tabular}[c]{@{}l@{}}Prima del Seguro de Salud \\ por sectores:\end{tabular}}                                               & \multicolumn{1}{l|}{\textbf{2015-2016}} & \multicolumn{1}{l|}{\textbf{2017}} & \multicolumn{1}{l|}{\textbf{2018}} & \multicolumn{1}{l|}{\textbf{2019}} & \multicolumn{1}{l|}{\textbf{2020}} & \multicolumn{1}{l|}{\textbf{A partir de 2020}} \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los trabajdores del\\ sector privado\end{tabular}                                                      & \multirow{2}{*}{9,94\%}                 & \multirow{2}{*}{9,00\%}            & \multirow{2}{*}{8,14\%}            & \multirow{2}{*}{6,94\%}            & \multirow{2}{*}{5,94\%}            & \multirow{2}{*}{5,16\%}                        \\ \cline{1-1}
+De los empleadores bancarios, etc                                                                                                    &                                         &                                    &                                    &                                    &                                    &                                                \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los servidores públicos,\\ incluido magisterio\end{tabular}                                            & 9,94\%                                  & 9,00\%                             & 8,14\%                             & 6,94\%                             & 5,94\%                             & 5,16\%                                         \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los funcionarios del servicio \\ exterior\end{tabular}                                                 & 7,00\%                                  & 6,14\%                             & 4,94\%                             & 3,94\%                             & 3,16\%                             & 7,94\%                                         \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los trabajadores temporales\\ de la industria azucarera\end{tabular}                                   & 18,00\%                                 & 16,28\%                            & 13,88\%                            & 11,88\%                            & 10,32\%                            & 19,88\%                                        \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los trabajdores autónomos,\\ sin relación de dependencia y de\\ los afiliados voluntarios\end{tabular} & 9,94\%                                  & 9,00\%                             & 8,14\%                             & 6,94\%                             & 5,94\%                             & 5,16\%                                         \\ \hline
+\end{tabular}}
+\end{table}
+Y la tasa de aportación al Seguro General de Riesgos del Trabajo varía, según la Resolución No. C.D. 501, de la siguiente manera:
+
+\begin{table}[H]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|c|c|c|c|c|c|}
+\hline
+\textbf{\begin{tabular}[c]{@{}l@{}}Prima del Seguro de Riesgos \\ del Trabajo por sectores:\end{tabular}}                            & \multicolumn{1}{l|}{\textbf{2015-2016}} & \multicolumn{1}{l|}{\textbf{2017}} & \multicolumn{1}{l|}{\textbf{2018}} & \multicolumn{1}{l|}{\textbf{2019}} & \multicolumn{1}{l|}{\textbf{2020}} & \multicolumn{1}{l|}{\textbf{A partir de 2020}} \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los trabajdores del\\ sector privado\end{tabular}                                                      & 0,20\%                                  & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,20\%                                         \\ \hline
+De los empleadores bancarios, etc                                                                                                    & 0,20\%                                  & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,38\%                                         \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los servidores públicos,\\ incluido magisterio\end{tabular}                                            & 0,20\%                                  & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,38\%                                         \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los funcionarios del servicio \\ exterior\end{tabular}                                                 & 0,20\%                                  & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,38\%                                         \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los trabajadores temporales\\ de la industria azucarera\end{tabular}                                   & 0,20\%                                  & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,38\%                                         \\ \hline
+\begin{tabular}[c]{@{}l@{}}De los trabajdores autónomos,\\ sin relación de dependencia y de\\ los afiliados voluntarios\end{tabular} & 0,20\%                                  & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,20\%                             & 0,76\%                                         \\ \hline
+\end{tabular}}
+\end{table}
+
+Mediante la Resolución No. C.D. 515 se expide el Reglamento para la aplicación de la Cesantía y Seguro de Desempleo, en la cual se modifica la Resolución No. C.D. 501, añadiendo la prima del Seguro de Desempleo, al reducir la prima del Seguro de Cesantía General y Adicional del 3\% al 2\%, desde el año 2016. Además, se modifica la prima de los trabajadores del sector privado de Riegos del Trabajo de 0,20\% a 0,38\%, a partir de 2021.
+A partir de 2021 en adelante, la prima del Seguro de Salud es 5,16\%, en vez de 5,71\% que se establecía anteriormente en la Resolución No. C.D. 261. La diferencia de 0,55\% (5,71\%-5,16\%=0,55\%) se suma a IVM. Por otro lado, la prima del Seguro General de Riesgos del Trabajo se fija en 0,38\% (a partir de 2021), y no en 0,55\% que se establecida en 0,55\%; la diferencia 0,17\% (0,17\%=0,55\% - 0,38\%) se traslada al Fondo del Seguro de IVM.
+
+Mediante la Resolución. C.D. No. 390, de fecha 10 de noviembre del 2011, se emite el Reglamento del Seguro General de Riesgos del Trabajo. Los artículos que se refieren a las prestaciones medico asistenciales son los siguientes:
+
+“\textit{Artículo 5.- Clasificación de Prestaciones- Las prestaciones económicas y asistenciales por accidentes de trabajo y enfermedades profesionales u ocupacionales, así como los servicios de prevención de riesgos, serán otorgados por el Instituto Ecuatoriano de Seguridad Social en la siguiente forma:
+\begin{enumerate}[label=\alph*), itemsep=0mm, topsep=0pt]
+\item Las prestaciones económicas: Consisten en pensiones, subsidios e indemnizaciones pagaderas en forma de renta o de capital, según corresponda; serán otorgadas por la Dirección del Seguro General de Riesgos del Trabajo y sus Unidades a nivel nacional, con cargo a los fondos de dicho seguro;
+\item Las prestaciones asistenciales: Esto es, asistencia médico-quirúrgica. farmacéutica, hospitalaria o de rehabilitación, así como la provisión o renovación de los aparatos de prótesis y órtesis; \textbf{serán otorgadas por la Dirección del Seguro General de Salud Individual y Familiar y sus Unidades a nivel nacional, con cargo a los fondos de dicho seguro};
+\item Los servicios de prevención: Se refieren al estudio, análisis, evaluación y control de los riesgos del trabajo, así como a la asesoría y divulgación de los métodos y normas técnico-científicas de Seguridad y Salud en el Trabajo: se otorgarán por intermedio de la Dirección del Seguro General de Riesgos del Trabajo y sus Unidades a nivel nacional”.
+\end{enumerate}}
+
+% 
+\textit{“Artículo 20.- Calificación del Siniestro y Entrega de Prestaciones Asistenciales y Económicas del Seguro General de Riegos del Trabajo- Para la entrega de prestaciones a los afiliados sujetos al Seguro General de Riesgos del Trabajo, se dará el siguiente procedimiento:
+\begin{enumerate}[itemsep=0mm, topsep=0pt]
+\item Calificación del Siniestro Laboral. - Una vez receptado el Aviso de Accidente de Trabajo o de Enfermedad Profesional y los documentos habilitantes, definidos en los procesos del Seguro General de Riesgos del Trabajo, la unidad provincial determinará si el siniestro ocurrió o no a causa o como consecuencia del trabajo, entrevistando para tal efecto al trabajador afectado y procederá a generar los informes, que establezcan el derecho para el otorgamiento o negación de las prestaciones.
+\item Entrega de Prestaciones Asistenciales y Económicas. - Una vez calificado el siniestro laboral y verificado el derecho se concederán las siguientes prestaciones:
+\begin{enumerate} [label=\alph*)] %[itemsep=1mm, topsep=5pt]
+\item Prestaciones médico-asistenciales: Los servicios médico-asistenciales serán otorgados de acuerdo a la ley y la reglamentación interna, a través de las unidades médicas de la Red de prestadores de servicios de salud del Seguro General de Salud Individual y Familiar, información que remitirá trimestralmente dicho Seguro al Seguro General de Riesgos del Trabajo.
+\item Prestaciones económicas: El Seguro General de Riesgos del Trabajo concederá a nivel nacional las prestaciones económicas en función de la incapacidad, en aplicación a lo señalado en la Ley de Seguridad Social, el presente Reglamento y demás normativa interna”.
+\end{enumerate}
+\end{enumerate}}
+
+
+Mediante la Resolución. C.D. No. 513, de fecha 04 de marzo 2016, se emite el Reglamento del Seguro General de Riesgos del Trabajo, el cual se encuentra vigente a la fecha. Los artículos que se refieren a las prestaciones medico asistenciales son los siguientes:
+“\textit{Artículo 5.- Clasificación de Prestaciones. - Las prestaciones económicas y asistenciales por accidentes de trabajo y enfermedades profesionales u ocupacionales, así como los servicios de prevención de riesgos, serán otorgados en la siguiente forma:
+\begin{enumerate} [label=\alph*), itemsep=1mm, topsep=5pt]
+\item Las prestaciones económicas: Consisten en pensiones, subsidios e indemnizaciones pagaderas en forma de pensión o de capital, según corresponda; serán otorgadas por la Dirección del Seguro General de Riesgos del Trabajo y sus Unidades a nivel nacional, con cargo a los fondos de dicho seguro;
+\item Las prestaciones asistenciales: esto es, asistencia médico-quirúrgica, farmacéutica, hospitalaria o de rehabilitación, así como la provisión o renovación de 105 aparatos de prótesis y órtesis; serán otorgadas de conformidad a la ley.
+\item Los servicios de prevención: se refieren a la asesoría técnica legal, divulgación de los métodos y normas legales técnico científicas de Seguridad y Salud en el Trabajo, para el estudio, análisis y evaluación de 105 factores de riesgos; que se concederán por intermedio de la Dirección del Seguro General de Riesgos del Trabajo y sus Unidades a nivel nacional.
+\end{enumerate}}
+
+
+\textit{Artículo 18.- Prestaciones Asistenciales y Económicas del Seguro General de Riegos del Trabajo. - Una vez calificado el siniestro laboral y verificado el derecho se concederán las siguientes prestaciones:
+\begin{enumerate}[label=\alph*), itemsep=0mm, topsep=0pt]
+\item Prestaciones médico-asistenciales: Los servicios médico-asistenciales serán otorgados de acuerdo a la ley y la reglamentación interna, a través de las unidades médicas de la Red de prestadores de servicios de salud del Seguro General de Salud Individual y Familiar, información que remitirá trimestralmente dicho Seguro al Seguro General de Riesgos del Trabajo.
+\item Prestaciones económicas: El Seguro General de Riesgos del Trabajo concederá a nivel nacional las prestaciones económicas en función de la incapacidad, en aplicación a lo señalado en la Ley de Seguridad Social, el presente Reglamento y demás normativa interna.
+\end{enumerate}}
+
+
+\textit{Artículo 19.- Efectos de los Siniestros- Los accidentes de trabajo o enfermedades profesionales u ocupacionales pueden producir los siguientes efectos en los asegurados:
+\begin{enumerate}[label=\alph*), itemsep=0mm, topsep=0pt]
+\item Incapacidad Temporal;
+\item Incapacidad Permanente Parcial;
+\item Incapacidad Permanente Total;
+\item Incapacidad Permanente Absoluta; y,
+\item Muerte”.
+\end{enumerate}}
+
+
+
+\section{Breve descripción de los reglamentos y leyes aplicables}
+\label{chp_reglamentacion:descrip}
+A continuación, en la tabla \ref{tab:iess_reg_leyes_reglam_rtr} se describe las leyes aplicables para el estudio del \Sexpr{REP_seg}.
+
+{\fontsize{11}{12}\selectfont
+\begin{longtable}[H]{L{7.5cm}L{7.5cm}}
+\caption{Leyes y reglamentos}%título tabla
+\label{tab:iess_reg_leyes_reglam_rtr}\\
+\toprule
+\multicolumn{1}{c}{\textbf{Normativa}} & \multicolumn{1}{c}{\textbf{Artículos}}
+%\midrule
+\endfirsthead
+
+\toprule
+\multicolumn{1}{c}{\textbf{Normativa}} & \multicolumn{1}{c}{\textbf{Artículos}}
+%\midrule
+\endhead
+
+\multicolumn{2}{r}{continúa...} \\
+\endfoot
+\bottomrule
+\caption*{\scriptsize Elaborado: DAIE.}
+\endlastfoot
+ %\toprule
+%\multicolumn{1}{c}{\textbf{Normativa}} & \multicolumn{1}{c}{\textbf{Artículos}}\\
+\midrule
+\textbf{Constitución de la República del Ecuador} (Publicada en el Registro Oficial No. 449 de 20 de
+octubre de 2008). & Art. 3 numeral 1, Art. 33, Art. 34, Art. 66 numeral 2, Art. 325,Art. 326
+numerales 5 y 6, Art. 367, Art. 368, Art. 369, Art. 370, Art. 371, Art. 372.\\
+\hline
+\textbf{Código del Trabajo} (Publicada en el Suplemento del Registro Oficial No. 167 de 16 de
+diciembre de 2005).  & Entre los más importantes citamos los artículos: 42, 347, 348, 349, 350, 351,
+352, 354, 359, 360, 361, 362, 363, 364, 370, 371, 373, 376, 377, 410, 430.\\
+\hline
+\textbf{Ley Orgánica de Salud} (Publicada en el Suplemento del Registro Oficial No. 423 de 22 de
+diciembre de 2006).  & Art. 118.\\
+\midrule
+\textbf{Ley Orgánica del Servicio Público} (Publicada en el Suplemento del Registro Oficial No. 294
+de 6 de octubre de 2010).  & Art. 23 numerales l) y m, Art. 33.\\
+\hline
+\textbf{Ley Orgánica para la Justicia Laboral y Reconocimiento del Trabajo no Remunerado del Hogar}
+(Publicada en el Tercer Suplemento del Registro Oficial No. 483 de 20 de abril de 2015). & Art. 22,
+Art. 52, Art. 69.\\
+\hline
+\textbf{Ley Orgánica para la Promoción del Trabajo Juvenil, Regulación Excepcional de la Jornada de
+Trabajo, Cesantía y Seguro de Desempleo} (Publicada en el Suplemento del Registro Oficial No. 720 de
+28 de marzo de 2016).& Art. 9, Art. 10.\\
+\hline
+\textbf{Ley de Seguridad Social con sus reformas} (Publicada en el Suplemento del Registro Oficial
+No. 465 de 30 de noviembre de 2001). & Entre los más importantes podemos citar los artículos: 1, 2,
+3, 4, 9, 10, 11, 16, 17, 18, 21, 49, 154, 155, Art. 236, Art. 237,  y el Libro Primero Del Seguro
+General Obligatorio, Título VII Del Seguro General de Riesgos del Trabajo.\\
+\hline
+\textbf{Ley del Banco del Instituto Ecuatoriano de Seguridad Social} (Publicada en el Suplemento del
+Registro Oficial No. 587 de 11 de mayo de 2009).  & Art. 1, Art. 2, Art. 4, Art, 7.\\
+\hline
+\textbf{Reglamento de la Ley Orgánica del Servicio Público} (Publicada en el Suplemento del Registro
+Oficial No. 418 de 1 de abril de 2011). & Art. 228, Art. 229, Art. 230, Art. 231, Art. 232, Art.
+233, Art. 234.\\
+\hline
+\textbf{Decreto Ejecutivo No. 2393 de 13 de noviembre de 1986} (Publicado en el Registro Oficial No.
+565 de 17 de noviembre de 1986). & Reglamento de Seguridad y Salud de los Trabajadores y
+mejoramiento del medio ambiente de trabajo. Art. 1, Art. 5, Art. 11, Art. 13.\\
+%\bottomrule
+\end{longtable}
+}
+
+En adición a la tabla anterior, a la fecha de expedición de este estudio, el Ecuador  ha ratificado
+los convenios de la OIT, referentes a riesgo del trabajo, presentados en la
+tabla~\ref{tab:iess_conv_inter_rtr}.
+
+\begin{table}[H]
+\centering
+\caption{Convenios internacionales}
+\label{tab:iess_conv_inter_rtr}
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{L{3cm}L{5cm}L{5cm}}
+\toprule
+\multicolumn{1}{c}{\multirow{1}[1]{*}{\textbf{No.}}} &
+\multicolumn{1}{c}{\multirow{1}[1]{*}{\textbf{Nombre del convenio}}} &
+\multicolumn{1}{c}{\textbf{Fecha de ratificación}}\\
+ \midrule
+C.102 & Convenio relativo a la norma mínima de seguridad social & Registro Oficial No. 29 de 12 de
+diciembre de 1961.\\
+ \midrule
+C.121 & Convenio relativo a las prestaciones en caso de accidentes del trabajo y enfermedades
+profesionales & Registro Oficial No. 592 de 23 de mayo de 1978.\\
+\midrule
+C.118 & Convenio relativo a la igualdad de trato de nacionales y extranjeros en materia de seguridad
+social & Registro Oficial No. 63 de 17 de mayo de 1972.\\
+\midrule
+C.139 & Convenio sobre la prevención y el control de los riesgos profesionales causados por las
+sustancias o agentes cancerígenos & Registro Oficial No. 633 de 20 de julio de 1978.\\
+\midrule
+C.148 & Convenio sobre la protección de los trabajadores contra los riesgos profesionales debidos a
+la contaminación del aire, el ruido y las vibraciones en el lugar de trabajo & Registro Oficial No.
+654 de 22 de agosto de 1978.\\
+\midrule
+C.152 & Convenio sobre seguridad e higiene en los trabajos portuarios & Registro Oficial No. 980 de
+18 de julio de 1988. \\
+\midrule
+Decisión del Acuerdo de Cartagena No. 584.  & Instrumento Andino de Seguridad y Salud en el Trabajo
+& Suplemento del Registro Oficial No. 461 de 15 de noviembre de 2004.\\
+\midrule
+Resolución de la Secretaría Andina No. 957 & Reglamento del Instructivo Andino de Seguridad y Salud
+en el Trabajo & Edición Especial del Registro Oficial No. 28 de 12 de marzo de 2008.\\
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Elaborado: DAIE.}
+\end{table}
+Por otra parte, el Consejo Directivo del Instituto Ecuatoriano de Seguridad Social, en uso de sus
+atribuciones determinadas en los literales a), b) y c) del artículo 27 de la Ley de Seguridad
+Social, para el \Sexpr{REP_seg} ha emitido algunas resoluciones, las cuales se presentan en la tabla
+\ref{tab:resolcd_rtr}
+
+{\fontsize{10}{12}\selectfont
+\begin{longtable}[H]{p{7cm}p{8cm}}
+  \caption{Resoluciones del Consejo Directivo}\\
+  \label{tab:resolcd_rtr}\\
+  
+  \toprule
+  \multicolumn{1}{c}{\textbf{Resolución}} & \multicolumn{1}{c}{\textbf{Contenido}} \\ 
+  \midrule
+  \endfirsthead
+
+  \toprule
+  \multicolumn{1}{c}{\textbf{Resolución}} & \multicolumn{1}{c}{\textbf{Contenido}} \\ 
+  \midrule
+  \endhead
+
+  \hline \multicolumn{2}{r}{continúa en la página siguiente...} \\ 
+  % \midrule
+  \endfoot
+
+  \bottomrule
+  \caption*{Elaborado: DAIE}
+  \endlastfoot
+
+  %\midrule
+  %\textbf{C.D. 100 de 21 de febrero de 2006} 
+\textbf{C.D. 100 de 21 de febrero de 2006} (Publicada en el Registro Oficial No. 225 de 9 de marzo
+de 2006).&	Reglamento Interno del Régimen de Transición del Seguro de Invalidez, Vejez y
+Muerte. \\
+  \midrule
+\textbf{C.D. 101 de 1 de marzo de 2006} (Publicada en el Registro Oficial No. 231 de 17 de marzo de
+2006).&  Aprobación de los fondos para gastos de administración del IESS.\\
+\midrule
+\textbf{C.D. 216 de 26 de agosto de 2008} (Publicado en el Registro Oficial No. 423 de 11 de
+septiembre de 2008). & Reforma al Reglamento Interno del Régimen de Transición del Seguro de
+Invalidez, Vejez y Muerte, contenido en la Resolución No. C.D. 100 de 21 de febrero de 2006.
+(Verificación del derecho de los pensionistas de jubilación por vejez, invalidez, riesgos del
+trabajo, seguro campesino y todos los beneficiarios de montepío de los diferentes seguros, mediante
+el cruce de información con la base de datos del Registro Civil, Identificación y Cedulación).\\
+\midrule
+\textbf{C.D. 261 de 27 de mayo de 2009} (Publicada en el Registro Oficial No. 615 de 18 de junio de
+2009). & Consolidar las tablas de distribución de las tasas de aportación al IESS.\\
+\midrule
+\textbf{C.D. 300 de 11 de enero de 2010} (Publicado en el Suplemento del Registro Oficial No. 116 de
+26 de enero de 2010).& Reformas al Reglamento Interno del Régimen de Transición del Seguro de
+Invalidez, Vejez y Muerte, contenido en la Resolución No. C.D. 100 de 21 de febrero de 2006, en
+razón que la Comisión Legislativa y de Fiscalización de la Asamblea Nacional, expidió la Ley
+Reformatoria a la Ley de Seguridad Social, publicada en el Registro Oficial No. 559 de 30 de marzo
+de 2009.\\
+\midrule
+\textbf{C.D. 338 de 18 de noviembre de 2010} (Publicado en el Registro Oficial No. 332 de 1 de
+diciembre de 2010).& Expide las regulaciones para la aplicación de la Ley Reformatoria a la Ley de
+Seguridad Social, expedida por la Asamblea Nacional el 21 de octubre de 2010.\\
+\midrule
+\textbf{C.D. 406 de 27 de enero de 2012} (Publicado en el Registro Oficial No. 649 de 28 de febrero
+de 2012).& Reformas al Reglamento Interno del Régimen de Transición del Seguro de Invalidez, Vejez y
+Muerte.\\
+\midrule
+\textbf{C.D. 419 de 30 de mayo 2012} (Publicado en el Registro Oficial 732 de 26 de junio de 2012).&
+Reforma al Reglamento Interno del Régimen de Transición del Seguro de Invalidez, Vejez y Muerte.
+(Pensiones máximas mensuales diferenciadas en Galápagos).\\
+\midrule
+\textbf{C.D. 459 de 01 de octubre 2013} (Publicado en el Registro Oficial No. 113 de 31 de octubre
+de 2013).& Se determina la responsabilidad de la actualización de las tablas biométricas; y, fija la
+tasa actuarial.\\
+\midrule
+\textbf{C.D. 489 de 11 de mayo de 2015} (Publicado en el Registro Oficial No. 511 de 29 de mayo de
+2015).& Normas para el pago de la decimotercera y decimocuarta pensiones.\\
+\midrule
+\textbf{C.D. 501 de 13 de noviembre de 2015} (Publicado en el Registro Oficial No. 703 de 2 de marzo
+de 2016).& Consolidación de las tablas de distribución de las tasas de aportación al IESS.\\
+\midrule
+\textbf{C.D. 504 de 4 de diciembre de 2015} (Publicado en el Registro Oficial No. 707 de 8 de marzo
+de 2016).& Reforma a la Resolución No. C.D. 489 de 11 de mayo de 2015.\\
+\midrule
+\textbf{C.D. 513 de 04 de marzo de 2016} (Publicado en la Edición Especial del Registro Oficial No.
+632 de 12 de julio de 2016).& Reglamento del Seguro General de Riesgos del Trabajo.\\
+\midrule
+\textbf{C.D. 515 de 30 de marzo de 2016} (Publicado en el Registro Oficial No. 794 de 11 de julio de
+2016).& Reglamento para la aplicación de la Cesantía y Seguro de Desempleo.\\
+\midrule
+\textbf{C.D. 516 de 30 de marzo de 2016} (Publicado en la Edición Especial del Registro Oficial No.
+687 de 15 de agosto de 2016). & Reglamento de Aseguramiento, Recaudación y Gestión de Cartera del
+Instituto Ecuatoriano de Seguridad Social.\\
+\midrule
+\textbf{C.D. 535 de 8 de septiembre de 2016} (Publicado en la Edición Especial del Registro Oficial
+No. 5 de 1 de junio de 2017). & Reforma Integral al Reglamento Orgánico Funcional del Instituto
+Ecuatoriano de Seguridad Social.\\
+\midrule
+\textbf{C.D. 553 de 8 de junio de 2017} (Publicado en la Edición Especial del Registro Oficial No.
+59 de 16 de agosto de 2017). & Reglamento para la calificación, determinación y revisión de la
+jubilación por invalidez y del subsidio transitorio por incapacidad; y las reformas al Reglamento
+Orgánico Funcional del Instituto Ecuatoriano de Seguridad Social.\\
+\midrule
+\textbf{C.D. 554 de 4 de agosto de 2017} (Publicado en el Registro Oficial 78 de 13 de septiembre
+del 2017).& Reformas al Reglamento de Aseguramiento, Recaudación y Gestión de Cartera, contenido en
+la Resolución No. C.D. 516 de 30 marzo de 2016; al Reglamento Interno del Régimen de Transición del
+Seguro de Invalidez, Vejez y Muerte, contenido en la Resolución No. C.D. 100 de 21 de febrero de
+2006; y a la Resolución No. C.D. 501 de 13 de noviembre de 2015.\\
+\end{longtable}
+}
+
+%---------------------------------------------------------------------------------------------------
+\section{Normativa sobre la población asegurada}
+\label{chp_reglamentacion:normativa}
+
+El numeral  1 del artículo 3 de la Constitución de la República del Ecuador determina que es deber
+primordial del Estado, garantizar sin discriminación alguna el efectivo goce de los derechos
+establecidos en la norma suprema y en los instrumentos internacionales, en particular la seguridad
+social. 
+
+La Declaración Universal de los Derechos Humanos, adoptada y proclamada por la Asamblea General en
+la Resolución 217A (III) de 10 de diciembre de 1948 , consagra: 
+
+\textit{``Art. 25.-Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a
+su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la
+asistencia médica y los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso
+de desempleo, enfermedad, invalidez, viudez, vejez y otros casos de pérdida de sus medios de
+subsistencia por circunstancias independientes de su voluntad […]''}.
+
+El artículo 9 del Pacto de Derechos Económicos, Sociales y Culturales, Pacto de Derechos Civiles y
+Políticos  establece: 
+
+\textit{``Art. 9.- Los Estados Partes en el presente Pacto reconocen el derecho de toda persona a la
+seguridad social, incluso al seguro social.}
+
+El artículo 6 del Convenio relativo a las prestaciones en casos de accidentes del trabajo y
+enfermedades profesionales (CNV 121) determina: 
+
+\textit{``Art. 6.- Las contingencias cubiertas cuando se deban por accidente de trabajo o una
+enfermedad profesional, comprenderá las siguientes:}
+
+\begin{enumerate}[label=\alph*,  itemsep=0mm, topsep=0pt]
+    \item \textit{Estado mórbido;}
+    \item \textit{Incapacidad para trabajar que resulte de un estado mórbido y que entrañe la
+	    suspensión de ganancias, tal como este definida en la legislación nacional;} 
+    \item \textit{La pérdida total de la capacidad para ganar o la pérdida parcial que excede de un
+	    grado prescrito, cuando es probable que dicha pérdida total o parcial sea permanente, o
+    disminución correspondiente de las actividades físicas; y} 
+    \item \textit{La pérdida de los medios de existencia, sufridos a consecuencia del fallecimiento
+	    del sostén de la familia, por categorías prescritas de beneficiarios.''}
+  \end{enumerate}
+
+Dentro del marco constitucional, el derecho a la seguridad social es un derecho irrenunciable de
+todas las personas; y, el Estado debe garantizar y hacer efectivo el ejercicio pleno de este
+derecho, que incluye a las personas que realizan trabajo no remunerado en los hogares, actividades
+para el auto sustento en el campo, toda forma de trabajo autónomo y a quienes se encuentran en
+situación de desempleo. (Art. 34 de la Constitución de la República del Ecuador). 
+
+Concomitantemente, el artículo 326 de la Constitución de la República del Ecuador establece: 
+
+\textit{``Art. 326.- El derecho al trabajo se sustenta en los siguientes principios:} 
+	
+\textit{[…] 5.Toda persona tendrá derecho a desarrollar sus labores en un ambiente adecuado y
+	propicio, que garantice su salud, integridad, seguridad, higiene y bienestar. 
+6. Toda persona rehabilitada después de un accidente de trabajo o enfermedad, tendrá derecho a ser
+reintegrada al trabajo y a mantener la relación laboral, de acuerdo con la ley […].''}
+
+A su vez, el artículo 369 de la norma anteriormente referida, en concordancia con el artículo 3 de
+la Ley de Seguridad Social, determina que el seguro universal obligatorio cubrirá las contingencias
+de enfermedad, maternidad, paternidad, riesgos de trabajo, cesantía, desempleo, vejez, invalidez,
+discapacidad, muerte y aquellas que defina la ley; y, se extenderá a toda la población urbana y
+rural, con independencia de su situación laboral. 
+
+Respecto a los sujetos de protección, el artículo 2 de la Ley de Seguridad Social indica:
+
+\textit{``Art. 2.- SUJETOS DE PROTECCIÓN.- Son sujetos “obligados a solicitar la protección” del
+Seguro General Obligatorio, en calidad de afiliados, todas las personas que perciben ingresos por la
+ejecución de una obra o la prestación de un servicio físico o intelectual, con relación laboral o
+sin ella; en particular:} 
+
+\begin{enumerate}[label=\alph*), itemsep=0mm, topsep=0pt]
+    \item \textit{El trabajador en relación de dependencia;}
+    \item \textit{El trabajador autónomo;} 
+    \item \textit{El profesional en libre ejercicio;} 
+    \item \textit{El administrador o patrono de un negocio;}
+    \item \textit{El dueño de una empresa unipersonal;}
+    \item \textit{El menor trabajador independiente;}
+    \item \textit{Las personas que realicen trabajo del hogar no remunerado; y,}
+    \item \textit{Las demás personas obligadas a la afiliación al régimen del Seguro General Obligatorio en virtud de leyes o decretos especiales […]''}
+  \end{enumerate}
+\textbf{Nota:} Las frases entre comillas Declaradas Inconstitucionales de Fondo por Resolución del
+Tribunal Constitucional No. 052-2001-RA, publicada en el Suplemento del Registro Oficial No. 525 de
+16 de febrero de 2005. 
+
+Las reglas de protección y exclusión se encuentran determinadas en el artículo 10 de la Ley Ibídem. 
+
+\textit{``Art. 10.- REGLAS DE PROTECCIÓN Y EXCLUSIÓN.- En la aplicación de los programas de
+aseguramiento obligatorio, se observarán las siguientes reglas de protección y exclusión:}
+
+\begin{enumerate}[label=\alph*), itemsep=0mm, topsep=0pt]
+    \item \textit{El trabajador en relación de dependencia estará protegido contra todas las
+	    contingencias enunciadas en el artículo 3 de esta Ley;}
+    \item \textit{El trabajador autónomo, el profesional en libre ejercicio, el administrador o
+	    patrono de un negocio, el dueño de una empresa unipersonal, el menor independiente, que
+    voluntariamente se afiliaren al IESS, estarán protegidos contra todas las contingencias
+    enunciadas en el artículo 3 de esta Ley, excepto la de cesantía Seguro de Desempleo; […]} 
+    \item \textit{El jubilado recibirá prestaciones de salud en las unidades médicas del IESS, en
+	    las mismas condiciones que los afiliados activos, con cargo a la contribución financiera
+    obligatoria del Estado. } 
+    \item \textit{El beneficiario de montepío por orfandad estará protegido contra el riesgo de
+	    enfermedad hasta los dieciocho (18) años de edad, con cargo a los derechos del causante;
+    }
+    \item \textit{El beneficiario de montepío por viudez será amparado en un seguro colectivo contra
+	    las contingencias de enfermedad y maternidad, con cargo a su pensión, en las condiciones
+    que determinará el Reglamento General de esta Ley […].''}
+  \end{enumerate}
+	
+El artículo 154 de la Ley de Seguridad Social, manifiesta que los afiliados voluntarios gozarán de
+los mismos beneficios y prestaciones que se otorgan a los afiliados obligados, en lo referente a los
+Seguros de Invalidez, Vejez, Muerte, Riesgos del Trabajo y asistencia por enfermedad y maternidad. 
+
+% %---------------------------------------------------------------------------------------------------
+\section{Disposiciones pertinentes para las proyecciones}
+\label{chp_reglamentacion:disposiciones}
+
+En la normativa de la seguridad social no existen disposiciones expresas para las proyecciones de
+las diferentes variables que se incorporan al modelo actuarial, únicamente se determina en la
+Resolución No. C.D. 459 de 1 de octubre de 2013, lo referente a la tasa actuarial la cual es del
+cuatro por ciento (4\%) anual.
+
+Sin embargo, el artículo 6 de la \textit{``Norma para la Calificación de los profesionales que
+realizan estudios actuariales y requisitos técnicos que deben constar en sus informes''} de la
+Resolución No. SB-2017-810 de la Superintendencia de Bancos, indica que un estudio actuarial
+constituye una herramienta que permita conocer la situación económica y financiera actual; y, su
+proyección hacia el futuro, de un fondo o seguro de prestaciones sociales. 
+
+Por lo tanto, el estudio actuarial deberá proveer toda la información necesaria que permita alcanzar
+este objetivo. Para esto, todo estudio actuarial deberá considerar variables económicas,
+financieras, legales, demográficas y de cualquier otro tipo, que puedan afectar de alguna manera la
+situación financiera del fondo o seguro.
+
+Para la realización del presente estudio actuarial, se observaron los principios de rigor
+científico, objetividad, transparencia y la buena fe, normalmente utilizados en las valuaciones
+actuariales de los seguros.
+
+%---------------------------------------------------------------------------------------------------
+\section{Análisis de las fuentes de ingresos financieros y causas de los egresos financieros}
+\label{chp_reglamentacion:analisisfuentes}
+
+La Constitución de la República del Ecuador en su artículo 371 determina que: 
+
+\textit{``Las prestaciones de la seguridad social se financiarán con el aporte de las personas
+aseguradas en relación de dependencia y de sus empleadoras o empleadores; con los aportes de las
+personas independientes aseguradas; con los aportes voluntarios de las ecuatorianas y ecuatorianos
+domiciliados en el exterior; y con los aportes y contribuciones del Estado[...]''}. 
+
+Siguiendo esta misma disposición, el artículo 4 de la Ley de Seguridad Social determina que los
+recursos que financian las prestaciones del Seguro General Obligatorio entre otros son: 
+
+\begin{itemize}[itemsep=0mm, topsep=0pt]
+    \item La aportación individual obligatoria de los afiliados, para cada seguro;
+    \item La aportación patronal obligatoria de los empleadores, privados y públicos, para cada
+	    seguro, cuando los afiliados sean trabajadores sujetos al Código del Trabajo;
+    \item La aportación patronal obligatoria de los empleadores públicos, para cada seguro, cuando
+	    los afiliados sean servidores;
+    \item La contribución financiera obligatoria del Estado, para cada seguro, en los casos que
+	    señala esta Ley;
+    \item Las reservas técnicas del régimen de jubilación;
+    \item Los ingresos provenientes del pago de los dividendos de la deuda pública y privada con el
+	    IESS, por concepto de obligaciones patronales;
+    \item Los ingresos provenientes del pago de los dividendos de la deuda del Gobierno Nacional con
+	    el Instituto Ecuatoriano de Seguridad Social;
+    \item Las rentas de cualquier clase que produzcan las propiedades, los activos fijos, y las
+	    acciones y participaciones en empresas, administrados por el IESS;
+    \item Los ingresos por enajenación de los activos de cada Seguro, administrados por el IESS;
+    \item Los recursos de cualquier clase que fueren asignados a cada seguro en virtud de leyes
+	    especiales para el cumplimiento de sus fines; y,
+    \item Las herencias, legados y donaciones.
+  \end{itemize}
+  
+Para el presente estudio se consideró que los ingresos de este fondo se componen de la siguiente forma:
+
+\begin{itemize}[itemsep=0mm, topsep=0pt]
+    \item Ingresos por aportes (personal y patronal) para el primer segmento de la población,
+	    establecidos en la Resolución No. C.D. 501 de 13 de noviembre de 2015, reformada con la
+	    Resolución No. C.D. 515 de 30 de marzo de 2016, los cuales se encuentran descritos en el
+	    numeral 3.5 de este estudio.
+    \item Ingresos por aportes de los pensionistas para financiar la decimotercera y decimocuarta
+	    pensión y el auxilio de funerales (2,76\%).
+    \item Contribución del 40\% por parte del Estado para el pago de las pensiones.
+    \item Rendimiento de las inversiones.
+    \item El excedente de los gastos de administración de la aseguradora.
+  \end{itemize}
+  
+En cuanto a los egresos, la Disposición General Octava de la Resolución No. C.D. 513 de 4 de marzo
+de 2016, que contiene el Reglamento del Seguro General de Riegos del Trabajo indica: 
+
+\textit{``Para efecto de la concesión de prestaciones, incrementos periódicos, fijación de pensiones
+mínimas y máximas, responsabilidad patronal y otras disposiciones que no constaren de forma expresa
+en el presente Reglamento, se aplicarán las disposiciones internas vigentes correspondientes.''}
+
+Por lo indicado, se puede citar como egresos lo contemplado en el artículo 236 de la Ley de
+Seguridad Social que expresa:
+
+\textit{``Art. 236.- DECIMOTERCERA Y DECIMOCUARTA PENSIONES.- Además de la pensión mensual regular,
+calculada sobre el sueldo o salario de aportación de cada asegurado, el IESS pagará a sus jubilados
+y pensionistas de viudez y orfandad la decimotercera pensión, en el mes de diciembre y la
+decimocuarta pensión, en el mes de abril o septiembre, según la Región, en las cuantías legales.''}
+
+Así también, el artículo 28 del Reglamento Interno del Régimen de Transición del Seguro de
+Invalidez, Vejez y Muerte, contenido en la Resolución No. C.D. 100 de  21 de febrero de 2006
+manifiesta: 
+
+\textit{``Art. 28.- Las pensiones de los seguros de invalidez, vejez y muerte se pagarán por
+mensualidades vencidas; además, el IESS pagará a sus jubilados y pensionistas de montepío la
+decimotercera pensión conjuntamente con la pensión del mes de diciembre, en una cuantía equivalente
+a la doceava parte de las pensiones pagadas correspondientes al año calendario; y, la decimocuarta
+conjuntamente con la pensión de marzo a los jubilados con lugar de pago en las regiones de la costa
+e insular y con la pensión de agosto a los jubilados con lugar de pago en las regiones de la sierra
+y oriente, y a los grupos de montepío a nivel nacional, en una cuantía equivalente a una
+remuneración básica mínima unificada de los trabajadores en general, de los trabajadores del
+servicio doméstico o mínima proporcional, según corresponda; para el caso de pensiones de montepío
+dicha cuantía se aplicará el grupo familiar.''}
+
+En resumen, para el análisis financiero, se considera los siguientes componentes para los egresos
+del \Sexpr{REP_seg}:
+\begin{itemize}[itemsep=0mm, topsep=0pt]
+    \item Egresos por pago de prestaciones,
+    \item Egresos por otras prestaciones y beneficios,
+    \item Otros egresos.
+  \end{itemize}
+
+%---------------------------------------------------------------------------------------------------
+\section{Fórmula de cálculo de aportaciones}
+\label{chp_reglamentacion:formaport}
+
+De conformidad con el artículo 11 de la Ley de Seguridad Social, el cálculo de las aportaciones se
+realiza sobre la materia gravada, es decir, sobre todo el ingreso susceptible de apreciación
+pecuniaria percibido por la persona afiliada. 
+
+El Consejo Directivo del Instituto Ecuatoriano de Seguridad Social a través de la Resolución No.
+C.D. 501 de 13 de noviembre de 2015, consolidó las tablas de aportación, la misma que fue reformada
+por la Resolución No. C.D. 515 de 30 de marzo de 2016. En las referidas resoluciones se modifica los
+porcentajes de cotización de los aportes para el \Sexpr{REP_seg}, según la tabla
+\ref{tab:apo_2015_2020} y tabla \ref{tab:apo_2021_adelante}:
+ 
+\begin{table}[H]
+\caption{Resoluciones No. C.D. 501 octubre 2015 -  diciembre 2020}
+\label{tab:apo_2015_2020}
+{\fontsize{10}{12}\selectfont
+\centering
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & \textbf{\% Total}\\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del
+  clero secular &  & 0,20 & 0,20\\ 
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles &  & 0,20 & 0,20\\ 
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares &  & 0,20 & 0,20\\ 
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero &  & 0,20 & 0,20\\ 
+  \midrule
+  De los trabajadores de la industria azucarera &  & 0,40 & 0,40\\ 
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios
+  ecuatorianos residentes en el exterior & 0,20 &  & 0,20 \\ 
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales por
+  parte de los pensionistas & 2,76 &  & 2,76\\
+\bottomrule
+\end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución C.D. 501\\
+Elaborado: DAIE}
+\end{table}
+
+
+\begin{table}[H]
+\caption{Resoluciones No. C.D. 501; Año 2021 en adelante}
+\label{tab:apo_2021_adelante}
+\centering
+{\fontsize{10}{12}\selectfont
+\begin{tabular}{p{8cm}>{\arraybackslash}c>{\arraybackslash}c>{\arraybackslash}c}
+  \toprule
+  \centering \textbf{Sector afiliado} & \textbf{\% Personal} & \textbf{\% Patronal} & \textbf{\% Total}\\ 
+  \midrule
+  De los trabajadores del sector privado bajo relación de dependencia, así como los miembros del 
+  clero secular &  & 0,38 & 0,38\\ 
+  \midrule
+  De los empleados bancarios, de los gobiernos autónomos descentralizados, entidades públicas
+  descentralizadas, registradores de la propiedad y registradores mercantiles &  & 0,38 & 0,38 \\ 
+  \midrule
+  De los servidores públicos definidos en la Ley Orgánica del Servicio Publico incluido el
+  magisterio y los servidores, funcionarios y empleados de la función judicial otras dependencias
+  que presten servicios públicos incluidos notarios públicos, mediante remuneración variable, en
+  forma de aranceles o similares &  & 0,38 & 0,38\\ 
+  \midrule
+  De los funcionarios del servicio exterior residentes en el extranjero &  & 0,38 & 0,38\\ 
+  \midrule
+  De los trabajadores de la industria azucarera &  & 0,76 & 0,76 \\ 
+  \midrule
+  De los trabajadores autónomos, sin relación de dependencia y de los afiliados voluntarios
+  residentes en el Ecuador, pasantes, becarios, internos rotativos y afiliados voluntarios
+  ecuatorianos residentes en el exterior & 0,38 &  & 0,38 \\ 
+  \midrule
+  Financiamiento parcial de la decimotercera y decimocuarta pensiones y del auxilio de funerales por
+  parte de los pensionistas & 2,76 &  & 2,76 \\
+  \bottomrule
+  \end{tabular}
+  }
+  \caption*{\scriptsize Fuente: Resolución C.D. 501\\
+Elaborado: DAIE}
+\end{table}
+
+%---------------------------------------------------------------------------------------------------
+\section{Fórmula de cálculo de beneficios}
+La forma de cálculo de las prestaciones económicas que entrega el \Sexpr{REP_seg} se encuentra
+detallado en la tabla \ref{tab:detalee_beneficios_calculo_pensiones} del presente estudio.
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Mínimo y máximo de pensiones, y su revalorización} Es importante señalar que la Ley
+Orgánica para la Justicia Laboral y Reconocimiento del Trabajo en el Hogar reformó el artículo 234
+de la Ley de Seguridad Social, en los siguientes términos: ``Las pensiones del Sistema de Seguridad
+Social se incrementarán al inicio de cada año en la misma proporción que la inflación promedio anual
+del año anterior, establecida por la entidad encargada de las estadísticas nacionales, incluidas las
+pensiones mínimas y máximas.
+
+Las pensiones mínimas de invalidez, de vejez, de incapacidad permanente total o absoluta de riesgos
+del trabajo, se establecerán de acuerdo con el tiempo aportado, en proporción del salario básico
+unificado, de acuerdo a la tabla \ref{tab:iess_pensiones_min_max_rtr}:
+
+\begin{table}[H]
+\centering
+\caption{Pensiones mínimas y máximas}
+\label{tab:iess_pensiones_min_max_rtr}
+{\fontsize{10}{12}\selectfont
+%\scalebox{0.8}{
+%\resizebox{\columnwidth}{!}{%
+\begin{tabular}{C{4.5cm}C{5.5cm}}
+\toprule
+\multicolumn{1}{c}{\multirow{3}[1]{*}{Tiempo aportado en años:}} & Pensión mínima mensual en
+porcentaje del salario básico unificado mínimo del trabajador (\%)\\
+\midrule
+Hasta 10 & 50\% \\
+11 - 20 & 60\% \\
+21 - 30 & 70\% \\
+31 - 35& 80\% \\
+36 - 39& 90\% \\
+40 y más & 100\% \\
+\bottomrule
+\end{tabular}
+}
+\caption*{\scriptsize Fuente: L.S.S y Resolución No. C.D. 300.\\
+Elaborado: DAIE.}
+\end{table}
+
+La pensión mínima del grupo familiar de montepío será equivalente al 50\% del salario básico
+unificado.
+
+La pensión mínima de las rentas permanentes parciales de riesgos del trabajo y de las rentas
+parciales del seguro general, será proporcional al 50\% del salario básico unificado, manteniendo la
+proporcionalidad de la renta inicial.
+
+La falta de transferencia de los recursos para el pago de estas pensiones será sancionada con la
+destitución de la autoridad y de las servidoras y servidores públicos remisos de su obligación''.
+
+El artículo 6 de la Resolución No. C.D. 338 establece: ``La pensión máxima de las rentas permanentes
+parciales de riesgos del trabajo y  de las rentas parciales del seguro general originadas en los
+convenios internacionales de seguridad social, será proporcional a los doscientos cincuenta por
+ciento (250\%) del salario básico unificado mínimo, manteniendo la proporcionalidad de la renta
+inicial''.
+
+El artículo 5 de la Resolución No. C.D. 300 de 11 de enero de 2010 establece: ``Las pensiones
+máximas de invalidez, de incapacidad permanente total o absoluta de Riesgos del Trabajo y del grupo
+familiar de montepío que se otorgan a partir del año 2010, son equivalentes a cuatrocientos
+cincuenta por ciento (450\%) del salario básico unificado mínimo del trabajador en general''.
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Derecho a montepío} Sobre el derecho al otorgamiento de pensiones vitalicias por
+montepío, se indican los siguientes artículos.
+
+El artículo 40 de la Resolución No. C.D. 513, Muerte del Asegurado, establece: ``El asegurado que
+falleciere a consecuencia de un accidente de trabajo o  de una enfermedad profesional u ocupa ion
+al, generará derecho a la prestación de montepío cualquiera sea el número de aportaciones, con
+sujeción a lo establecido en la Ley de Seguridad Social y en la reglamentación interna. Igualmente,
+al fallecimiento del pensionista por incapacidad permanente total o incapacidad permanente
+absoluta''.
+
+El artículo 41 de la Resolución No. C.D. 513, Derecho a  Pensión de Montepío, establece: ``Por la
+muerte del asegurado las pensiones de viudedad y  orfandad se concederán con sujeción a los
+porcentajes fijados en la Ley de Seguridad Social y en la normativa interna del IESS se calcularán
+sobre la pensión de incapacidad permanente total que le habría correspondido al causante al momento
+de su muerte, aun cuando no hubiera recibido dicha pensión''. 
+
+En cambio, para el antiguo régimen de pensional de incapacidad permanente parcial, se establece en
+el artículo 28 la derogada Resolución No. C.D. 390: ``Incapacidad Permanente Parcial.- Es aquella
+que produce en el trabajador una lesión corporal o perturbación funcional definitiva que signifique
+una merma de la integridad física del afiliado y su aptitud para el trabajo. Las prestaciones por
+incapacidad permanente parcial no generan derecho a montepío''.
+
+%---------------------------------------------------------------------------------------------------
+\subsection{Decimotercera y decimocuarta pensión}
+El artículo 236 de la Ley de Seguridad Social establece: ``Además de la pensión mensual regular,
+calculada sobre el sueldo o salario de aportación, el IESS pagará a sus jubilados y pensionistas de
+viudez y orfandad la decimotercera pensión conjuntamente con la pensión del mes de diciembre, en una
+cuantía equivalente a la doceava parte de las pensiones pagadas correspondientes al año calendario;
+y, la decimocuarta pensión conjuntamente con las pensiones de marzo cuya Región es Costa e Insular y
+con la pensión de agosto cuando la región es Sierra y Oriente; y a los grupos de montepío a nivel
+nacional en una cuantía equivalente a una remuneración básica mínima unificada de los trabajadores
+en general''.
+
+%---------------------------------------------------------------------------------------------------
+\section{Gastos administrativos adicionales}
+\label{chp_reglamentacion:egresos:gadmin}
+
+El artículo 6 de la Resolución No. C.D. 101 de fecha , establece: “Los fondos para gastos de
+administración del Seguro General de Riesgos del Trabajo estarán constituidos por:
+\begin{enumerate}[itemsep=0mm, topsep=0pt]
+ \item El cero coma cero tres por ciento (0,03\%) de la materia gravada de los afiliados al Seguro
+	 General, obligatorio y voluntario, es decir, el tres coma setenta y cinco por ciento
+	 (3,75\%) de la recaudación del aporte del cero coma ochenta por ciento (0,80\%) de dicha
+	 materia gravada.
+\item  La participación del cien por ciento (100\%) en los recargos y multas a patronos, por
+	inobservancia de las normas sobre seguridad industrial e higiene del trabajo.”
+\end{enumerate}
