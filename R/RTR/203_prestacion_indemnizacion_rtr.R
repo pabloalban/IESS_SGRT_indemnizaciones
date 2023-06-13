@@ -4,6 +4,7 @@ message("\tCargando prestaciones")
 load(paste0(parametros$RData, "IESS_contexto_economico.RData"))
 load(paste0(parametros$RData, "IESS_prestaciones.RData"))
 load(paste0(parametros$RData, "IESS_Reg_Civil.RData"))
+load(paste0(parametros$RData_seg, "IESS_RTR_tablas_demografia.RData"))
 
 #Cálculo de indemnizaciones-------------------------------------------------------------------------
 
@@ -13,9 +14,8 @@ indemnizaciones <- prestaciones %>%
   mutate( fecha_derecho = as.Date( fecha_derecho, "%d/%m/%Y")) %>%
   mutate( fecha_acuerdo = as.Date( fecha_acuerdo, "%d/%m/%Y") ) %>%
   dplyr::select( -novedad ) %>%
-  filter( estado_prestacion =='A') %>%
+  filter( estado_prestacion%in%c('A', 'H', 'I', 'P') ) %>%
   mutate( anio = year( fecha_acuerdo ) )
-
 
 sbu <- sbu %>%
   dplyr::select( anio,
@@ -305,7 +305,86 @@ tab_ind_ben <- aux_100 %>%
   left_join( ., aux_50, by = 'anio' ) %>%
   left_join( ., aux_40, by = 'anio' ) 
 
-# #Guardando en un Rdata----------------------------------------------------------------------------
+#Tabla impacto monetario----------------------------------------------------------------------------
+
+tab_ben <- tab_ind_ben %>% dplyr::select( anio,
+                                          T_100,
+                                          T_50,
+                                          T_40 )
+
+
+a_100 <- aux_100 %>% 
+  dplyr::select( anio, T_100 ) %>%
+  mutate( anio = as.numeric( anio ) ) %>%
+  left_join( ., tab_evo_monto_indemnizaciones %>% dplyr::select( anio, subsidios ), by ='anio') %>%
+  filter( anio <= 2021, anio >= 2012 )
+
+
+a_50 <- calculo_ind_pp %>%
+  filter( anio < 2023 ) %>%
+  mutate( filtro = if_else( max_50 < valor_pension_teorica,
+                            1,
+                            0 ) ) %>%
+  group_by( anio ) %>%
+  mutate( valor_pension_concedida = if_else( filtro == 1,
+                                             max_50,
+                                             valor_pension_teorica ) ) %>%
+  mutate( monto_50 = sum(valor_pension_concedida, na.rm = TRUE ) ) %>%
+  ungroup( ) %>%
+  distinct( anio, .keep_all = TRUE ) %>%
+  dplyr::select( anio, monto_50 ) %>%
+  rbind( ., c("Total", as.character(colSums(.[,2:ncol(.)],  na.rm =TRUE )))) %>%
+  mutate_at( c(2:ncol(.)), as.numeric ) %>%
+  mutate( anio = as.numeric( anio ) ) %>%
+  filter( anio <= 2021, anio >= 2012 )
+
+a_50 <-  aux_50 %>%
+  dplyr::select( anio, T_50 ) %>%
+  mutate( anio = as.numeric( anio ) ) %>%
+  left_join( ., a_50, by = 'anio') %>%
+  filter( anio <= 2021, anio >= 2012 )
+
+
+
+a_40 <- calculo_ind_pp %>%
+  filter( anio < 2023 ) %>%
+  mutate( filtro = if_else( max_40 < valor_pension_teorica,
+                            1,
+                            0 ) ) %>%
+  group_by( anio ) %>%
+  mutate( valor_pension_concedida = if_else( filtro == 1,
+                                             max_40,
+                                             valor_pension_teorica ) ) %>%
+  mutate( monto_40 = sum(valor_pension_concedida, na.rm = TRUE ) ) %>%
+  ungroup( ) %>%
+  distinct( anio, .keep_all = TRUE ) %>%
+  dplyr::select( anio, monto_40 ) %>%
+  rbind( ., c("Total", as.character(colSums(.[,2:ncol(.)],  na.rm =TRUE )))) %>%
+  mutate_at( c(2:ncol(.)), as.numeric ) %>%
+  mutate( anio = as.numeric( anio ) ) %>%
+  filter( anio <= 2021, anio >= 2012 )
+
+a_40 <-  aux_40 %>%
+  dplyr::select( anio, T_40 ) %>%
+  mutate( anio = as.numeric( anio ) ) %>%
+  left_join( ., a_40, by = 'anio') %>%
+  filter( anio <= 2021, anio >= 2012 )
+
+tab_impacto <- a_100 %>%
+  left_join(., a_50, by = 'anio' ) %>%
+  left_join(., a_40, by = 'anio' ) %>%
+  mutate_at( c(2:ncol(.)), as.numeric) %>%
+  rbind( ., c("Total", as.character(colSums(.[,2:ncol(.)],  na.rm =TRUE ))))  %>%
+  mutate_at( c(2:ncol(.)), as.numeric) 
+
+#Cálculo de coeficientes----------------------------------------------------------------------------
+
+coef_50 <- tab_impacto[nrow(tab_impacto),5] / tab_impacto[nrow(tab_impacto),3]
+
+coef_40 <- tab_impacto[nrow(tab_impacto),7] / tab_impacto[nrow(tab_impacto),3]
+
+
+#Guardando en un Rdata------------------------------------------------------------------------------
 message( '\tGuardando en un solo data.frame' )
 
 save( calculo_ind_pp,
@@ -314,6 +393,9 @@ save( calculo_ind_pp,
       tab_ind_max_50,
       tab_ind_max_40,
       tab_ind_ben,
+      tab_impacto,
+      coef_50,
+      coef_40,
       file = paste0( parametros$RData, 'IESS_tab_indemnizaciones.RData' ) )
 
 #Borrando data.frames-------------------------------------------------------------------------------

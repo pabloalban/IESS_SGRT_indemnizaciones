@@ -110,13 +110,8 @@ balance[ t == 0 , A2_sal := 0 ]
 balance[ t == 0 , A2_cot := 0 ]
 balance[ t == 0 , A2 := 0 ]
 
-
-# 1.7.1.1  Valor generado por RP--------------------------------------------------------------------
-message( '\tProyectando valores generados por RP' )
-balance[ , B_16 := rp * A2 ]
-
 # Beneficios totales
-balance[ , B := B_pen + B10 + B11 + B_sal + B_16]
+balance[ , B := B_pen + B10 + B11 + B_sal ]
 
 # 1.7.2. Aportes de pensionistas de PA y PT sin décimos --------------------------------------------
 balance[ , A9 := apo_jub * B9_nodec ] 
@@ -208,8 +203,6 @@ balance_anual <- balance[ , list( M = sum( M , na.rm = TRUE ),
                                   
                                   B_sal = sum( B_sal , na.rm = TRUE ),
                                   
-                                  B_16 = sum( B_16, na.rm = TRUE ),
-                                  
                                   G = sum( G, na.rm = TRUE ) ), 
                           by = list( t ) ]
 
@@ -232,7 +225,6 @@ balance_anual[ t == 0, `:=`( M = 0,
                              B14 = 0, B14_sbu = 0, B14_dec = 0, B14_nodec = 0,
                              B15 = 0, B15_sbu = 0, B15_dec = 0, B15_nodec = 0,
                              B_sal = 0,
-                             B_16 = 0,
                              G = 0, 
                              V_cor = 0 , 
                              Act = 0, Pas = 0 ) ]
@@ -292,8 +284,6 @@ balance_anual[ , B15_vap := cumsum( v * B15 ) ]
 balance_anual[ , B15_sbu_vap := cumsum( v * B15_sbu ) ]
 balance_anual[ , B15_dec_vap := cumsum( v * B15_dec ) ]
 balance_anual[ , B15_nodec_vap := cumsum( v * B15_nodec ) ]
-
-balance_anual[ , B16_vap := cumsum( v * B_16 ) ]
 
 balance_anual[ , G_vap := cumsum( v * G ) ]
 balance_anual[ , V := v * V_cap ]

@@ -23,7 +23,9 @@ message( '\tCalculando escenarios del balance para RTR' )
 # 0. 1.  Carga de hipótesis macro 
 load( paste0( parametros$RData, 'IESS_macro_estudio.RData' ) )
 load( paste0( parametros$RData_seg, 'IESS_RTR_modelo_rp.RData' ) )
-rm( list = ls()[ !( ls() %in% c( 'parametros', 'Hipotesis', 'coeficiente' ) ) ] )
+load( paste0( parametros$RData, 'IESS_tab_indemnizaciones.RData' ) )
+
+rm( list = ls()[ !( ls() %in% c( 'parametros', 'Hipotesis', 'coeficiente', 'coef_40', 'coef_50' ) ) ] )
 
 # 1. Escenario 1 -----------------------------------------------------------------------------------
 esc <- new.env()
@@ -47,7 +49,7 @@ esc$hip_esc <- data.table( t = 0:parametros$horizonte,
                            apo_cot = c( 0.002, rep( 0.0038 , 40 ) ),
                            apo_sal = c( rep( 0, 41 ) ),
                            apo_jub = 0,  # Aporte del 2.76% de los jubilados
-                           rp = coeficiente, # Valor de la rp generada, respecto al aporte del SGRT
+                           coef_ind = 1,
                            # Factores de calibración
                            cal_mas = 1.06083,
                            cal_pen_pa_pt = 1.886482,
