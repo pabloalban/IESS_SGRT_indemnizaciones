@@ -66,7 +66,7 @@ balance[ , B15_nodec := 12 * ( B15 - B15_sbu ) / 13 ]
 
 # 1.2.  Beneficios por indemnizaciones--------------------------------------------------------------
 message( '\tProyectando beneficios por indemnizaciones' )
-balance[ , B10 := cal_indm * pen_indemn * l10  ]
+balance[ , B10 := coef_ind * cal_indm * pen_indemn * l10  ]
 
 # 1.3.  Beneficios por subsidios--------------------------------------------------------------------
 message( '\tProyectando beneficios por subsidios' )

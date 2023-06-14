@@ -1,8 +1,8 @@
 message( paste( rep('-', 100 ), collapse = '' ) )
 message( '\tGenerando tablas de primas por escenario' )
 
-escenario <- paste0( 'escenario_', 1:1 )
-nom_esc <- c( 'Base')
+escenario <- paste0( 'escenario_', 1:3 )
+nom_esc <- c( 'Escenario 100 SBU', 'Escenario 50 SBU', 'Escenario 40 SBU' )
 
 pri <- NULL
 for( i in 1:length( escenario ) ){
@@ -23,7 +23,7 @@ for( i in 1:length( escenario ) ){
 }
 pri <- cbind( nom_esc, pri )
 
-xtb_pri <- xtable( pri, digits = c( 0, 0, 2, 2, 2, 2, 2, 2 ) )
+xtb_pri <- xtable( pri, digits = c( 0, 0, 2, 2, 2, 2, 2, 3 ) )
 print( xtb_pri,
        file = paste0( parametros$resultado_tablas, 'iess_tab_primas.tex' ),
        type = 'latex', 

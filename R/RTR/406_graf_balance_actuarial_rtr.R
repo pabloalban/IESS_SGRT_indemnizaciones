@@ -3,7 +3,7 @@ message( '\tGraficando resultados del balance' )
 
 source( 'R/401_graf_plantilla.R', encoding = 'UTF-8', echo = FALSE )
 
-escenarios_lista <- paste0( 'escenario_', 1:1 ) # 4 escenarios 
+escenarios_lista <- paste0( 'escenario_', 1:3 ) # 3 escenarios 
 # Escenarios corrientes ----------------------------------------------------------------------------
 for ( i in 1:length( escenarios_lista ) ) {
   escenario <- escenarios_lista[i]

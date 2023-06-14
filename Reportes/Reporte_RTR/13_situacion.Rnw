@@ -57,12 +57,18 @@ balance actuarial dinámico para horizontes $T \in \{0,\ldots,40\}$. En la tabla
 cambio, en la tabla \ref{tab:iess_bal_act_vap_escenario_1}, se presenta la reserva, $V_t$, del
 \Sexpr{REP_seg} para cada año hasta el 2058. El gráfico \ref{graf:apo_ben_bal_din_esc_1} presenta la
 comparación entre los aportes (línea azul) y los beneficios (línea verde).
+
+\newpage
+\vspace*{\fill}
+
 \begin{figure}[H]
 \caption{Escenario base: evolución del balance actuarial $V_T$}
 \label{graf:bal_vap_esc_1}
 \centering
 \includegraphics[scale=1]{graficos/iess_balance_vap_rv_escenario_1.png}
 \end{figure}
+
+\vspace*{\fill}
 
 \begin{figure}[H]
 \caption{Escenario base: aportes y beneficios del balance actuarial $V_T$}
@@ -71,9 +77,12 @@ comparación entre los aportes (línea azul) y los beneficios (línea verde).
 \includegraphics[scale=1]{graficos/iess_apo_ben_bal_dinamico_escenario_1.png}
 \end{figure}
 
-\begin{landscape}
-{\fontsize{10}{12}\selectfont
-\begin{longtable}[H]{L{1cm}R{1cm}*{6}{R{2.5cm}}}
+\vspace*{\fill}
+\newpage
+
+{\setlength{\tabcolsep}{3pt}
+{\fontsize{10}{14}\selectfont
+\begin{longtable}[H]{crrrrrr}
 \caption{Escenario base: balance actuarial dinámico}\\
 \caption*{Configuración del escenario con aporte estatal $\alpha_{est}=\Sexpr{REP$apo_est_esc_1}\%$, 
 aporte de salud $\pi^{sal} = \Sexpr{REP$tasa_aporte_salud_esc_1}\%$ y horizontes de proyección 
@@ -81,14 +90,12 @@ $T \in \{0,\ldots,40\}$}
 \label{tab:bal_act_tot_esc_1} \\
 \toprule
 Año 
-& Horizonte 
 & Aportes
 & Aporte estatal
 & Beneficios
 & Gasto administrativo
 & Reserva inicial
 & Balance actuarial\\
-& $T$
 & $\sum\limits_{t=0}^T v^t A_t$ 
 & $\sum\limits_{t=0}^T v^t A^{est}_t$
 & $\sum\limits_{t=0}^T v^t B_t$ 
@@ -100,14 +107,12 @@ Año
 
 \toprule
 Año 
-& Horizonte
 & Aportes
 & Aporte estatal
 & Beneficios
 & Gasto administrativo
 & Reserva inicial 
 & Balance actuarial\\
-& $T$
 & $\sum\limits_{t=0}^T v^t A_t$ 
 & $\sum\limits_{t=0}^T v^t A^{est}_t$
 & $\sum\limits_{t=0}^T v^t B_t$
@@ -118,7 +123,7 @@ Año
 \endhead
 
 \bottomrule
-\multicolumn{8}{r}{continúa...} \\
+\multicolumn{7}{r}{continúa...} \\
 \endfoot
 
 %\bottomrule
@@ -126,11 +131,11 @@ Año
 \input{tablas/iess_balance_actuarial_escenario_1.tex}
 \end{longtable}
 }
-\end{landscape}
+}
 
 % Escenario 1 tabla aportes dinámico ---------------------------------------------------------------
 \begin{landscape}
-{\fontsize{10}{12}\selectfont
+{\fontsize{10}{15}\selectfont
 \begin{longtable}[H]{R{0.5cm}R{0.7cm}*{8}{R{2.5cm}}}
 \caption{Escenario base: aportes balance dinámico}\\
 \caption*{Configuración del escenario con aporte estatal $\alpha_{est}=\Sexpr{REP$apo_est_esc_1}\%$, 
@@ -198,8 +203,8 @@ Año
 
 % Escenario 1 tabla beneficios dinámico ------------------------------------------------------------
 \begin{landscape}
-{\fontsize{10}{12}\selectfont
-\begin{longtable}[H]{R{0.5cm}R{0.7cm}*{8}{R{2.5cm}}}
+{\fontsize{10}{15}\selectfont
+\begin{longtable}[H]{R{0.5cm}R{0.7cm}*{7}{R{2.5cm}}}
 \caption{Escenario base: beneficios balance dinámico}\\
 \caption*{Configuración del escenario con aporte estatal $\alpha_{est}=\Sexpr{REP$apo_est_esc_1}\%$, 
 aporte de salud $\pi^{sal} = \Sexpr{REP$tasa_aporte_salud_esc_1}\%$ y horizontes de proyección 
@@ -215,7 +220,6 @@ Año
 & Beneficios de orfandad 
 & Beneficios de viudedad  
 & Beneficios por subsidios
-& Valores generados por responsabilidad patronal
 & Beneficios totales \\
 &
 & $\sum\limits_{t=0}^T v^t B^9_t$
@@ -224,7 +228,6 @@ Año
 & $\sum\limits_{t=0}^T v^t B^{13}_t$
 & $\sum\limits_{t=0}^T v^t B^{14}_t$
 & $\sum\limits_{t=0}^T v^t B^{11}_t$
-& $\sum\limits_{t=0}^T v^t B^{16}_t$
 & $\sum\limits_{t=0}^T v^t B_t$ \\
 \midrule
 \endfirsthead
@@ -238,7 +241,6 @@ Año
 & Beneficios de orfandad 
 & Beneficios de viudedad  
 & Beneficios por subsidios
-& Valores generados por responsabilidad patronal
 & Beneficios totales \\
 &
 & $\sum\limits_{t=0}^T v^t B^9_t$
@@ -247,13 +249,12 @@ Año
 & $\sum\limits_{t=0}^T v^t B^{13}_t$
 & $\sum\limits_{t=0}^T v^t B^{14}_t$
 & $\sum\limits_{t=0}^T v^t B^{11}_t$
-& $\sum\limits_{t=0}^T v^t B^{16}_t$
 & $\sum\limits_{t=0}^T v^t B_t$ \\
 \midrule
 \endhead
 
 \bottomrule
-\multicolumn{10}{r}{continúa...} \\
+\multicolumn{9}{r}{continúa...} \\
 \endfoot
 
 %\bottomrule
@@ -276,22 +277,29 @@ tabla \ref{tab:bal_corr_ben_esc_1}, se observa el detalle de los beneficios. El 
 de los beneficios (línea verde).
 
 % Escenario 1 balance corriente  -------------------------------------------------------------------
+\vspace*{\fill}
+
 \begin{figure}[H]
 \caption{Escenario base: la reserva $V^{cap}_t$}
 \label{graf:bal_cap_esc_1}
 \centering
-\includegraphics[scale=0.95]{graficos/iess_balance_capitalizado_rv_escenario_1.png}
+\includegraphics[scale=1]{graficos/iess_balance_capitalizado_rv_escenario_1.png}
 \end{figure}
+
+\vspace*{\fill}
 
 \begin{figure}[H]
 \caption{Escenario base: aportes y beneficios del balance capitalizado}
 \label{graf:apo_ben_bal_cap_esc_1}
 \centering
-\includegraphics[scale=0.95]{graficos/iess_apo_ben_bal_capitalizado_escenario_1.png}
+\includegraphics[scale=1]{graficos/iess_apo_ben_bal_capitalizado_escenario_1.png}
 \end{figure}
 
-\begin{landscape}
-{\fontsize{10}{12}\selectfont
+\vspace*{\fill}
+
+\newpage 
+
+{\fontsize{11}{14}\selectfont
 \begin{longtable}[H]{R{0.5cm}*{5}{R{2.5cm}}}
 \caption{Escenario base: balance corriente}\\
 \caption*{Configuración del escenario con aporte estatal $\alpha_{est}=\Sexpr{REP$apo_est_esc_1}\%$ 
@@ -340,11 +348,11 @@ $t$
 
 \end{longtable}
 }
-\end{landscape}
+
 
 % Escenario 1 aportes balance corriente ------------------------------------------------------------
 \begin{landscape}
-{\fontsize{10}{12}\selectfont
+{\fontsize{10}{14}\selectfont
 \begin{longtable}[H]{R{0.5cm}*{8}{R{2.5cm}}}
 \caption{Escenario base: aportes balance corriente}\\
 \caption*{Configuración del escenario con aporte estatal $\alpha_{est}=\Sexpr{REP$apo_est_esc_1}\%$ 
@@ -410,8 +418,8 @@ Año
 
 % Escenario 1 tabla beneficios balance corriente ---------------------------------------------------
 \begin{landscape}
-{\fontsize{10}{12}\selectfont
-\begin{longtable}[H]{R{0.5cm}*{8}{R{2.5cm}}}
+{\fontsize{10}{14}\selectfont
+\begin{longtable}[H]{R{0.5cm}*{7}{R{2.5cm}}}
 \caption{Escenario base: beneficios balance corriente}\\
 \caption*{Configuración del escenario con aporte estatal $\alpha_{est}=\Sexpr{REP$apo_est_esc_1}\%$ 
 y aporte de salud $\pi^{sal} = \Sexpr{REP$tasa_aporte_salud_esc_1}\%$}
@@ -425,7 +433,6 @@ Año
 & Beneficios de orfandad 
 & Beneficios de viudedad  
 & Beneficios por subsidios
-& Valores generados por responsabilidad patronal
 & Beneficios totales \\
      
 & $B^9_t$ 
@@ -434,7 +441,6 @@ Año
 & $B^{13}_t$ 
 & $B^{14}_t$ 
 & $B^{11}_t$ 
-& $B^{16}_t$ 
 & $B_t$ \\
 \midrule
 \endfirsthead
@@ -447,7 +453,6 @@ Año
 & Beneficios de orfandad 
 & Beneficios de viudedad  
 & Beneficios por subsidios
-& Valores generados por responsabilidad patronal
 & Beneficios totales \\
      
 & $B^9_t$ 
@@ -456,13 +461,12 @@ Año
 & $B^{13}_t$ 
 & $B^{14}_t$ 
 & $B^{11}_t$ 
-& $B^{16}_t$ 
 & $B_t$ \\
 \midrule
 \endhead
 
 \bottomrule
-\multicolumn{9}{r}{continúa...} \\
+\multicolumn{8}{r}{continúa...} \\
 \endfoot
 
 %\bottomrule

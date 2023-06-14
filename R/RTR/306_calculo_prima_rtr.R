@@ -2,7 +2,7 @@ message( paste( rep('-', 100 ), collapse = '' ) )
 
 message( '\tCálculo de la prima' )
 
-escenarios <- paste0( 'escenario_', 1:1 )
+escenarios <- paste0( 'escenario_', 1:3 )
 
 gamma <- 0# porcentaje de V_0 que se incluye en el calculo de la prima media nivelada 
 

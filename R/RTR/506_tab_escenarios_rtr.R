@@ -1,7 +1,7 @@
 message( paste( rep( '-', 100 ), collapse = '' ) )
 message( '\tGenerando tablas de parámetros escenarios' )
 
-escenario <- paste0( 'escenario_', 1:1 )
+escenario <- paste0( 'escenario_', 1:3 )
 nombres <- c( 'Base' )
 var_nom <- c( 'Tasa actuarial ($i_a$)',
               'Tasa crecimiento salarios ($i_r$)',

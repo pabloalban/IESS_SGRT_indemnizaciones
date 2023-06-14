@@ -33,16 +33,15 @@ esc <- new.env()
 esc$nombre <- 'escenario_1'
 message( '\t\t\t', esc$nombre )
 
-# 1.1. Hipótesis -----------------------------------------------------------------------------------
+## 1.1. Hipótesis -----------------------------------------------------------------------------------
 esc$V0 <- 1202240160.65
 
 esc$hip_esc <- data.table( t = 0:parametros$horizonte,
-                           
+                           #Hipótesis
                            i_a = 0.0625,
                            i_r = Hipotesis[ 4, 2 ]/100,
                            i_sbu = Hipotesis[ 5, 2 ]/100,
                            i_p = Hipotesis[ 6, 2 ]/100,
-                           
                            # Tasas de aportación y gasto
                            por_gas = 0.0003, # 0,03% de la masa salarial
                            apo_est = c( rep( 0.28, 41 ) ),
@@ -59,7 +58,7 @@ esc$hip_esc <- data.table( t = 0:parametros$horizonte,
                            cal_orf = 2.409926,
                            cal_viu = 0.9694932 )
 
-# 1.2. Factores de calculo de montepío -------------------------------------------------------------
+## 1.2. Factores de calculo de montepío -------------------------------------------------------------
 # No están siendo utilizadas en el cálculo del balance
 esc$porc_ben_orf <- 2.67756315 # Porcentaje de benefcios de orf respecto a los pensts de PA y PT
 esc$porc_ben_viud <- 3.108469539 # Porcentaje de beneficios de viudez respecto a los pensts de PA y PT
@@ -67,12 +66,11 @@ esc$porc_ben_viud <- 3.108469539 # Porcentaje de beneficios de viudez respecto a
 esc$mont_prop_afi_orf <- 0.118449037 # Porcentaje que representan de las prestaciones
 esc$mont_prop_afi_viud <- 0.254047820
 
-# 1.3. Calculos necesarios para el modelo actuarial ------------------------------------------------
-parametros_lista <- c( 'parametros_lista', 'esc', 'Hipotesis' )
+## 1.3. Calculos necesarios para el modelo actuarial ------------------------------------------------
+parametros_lista <- c( 'parametros_lista', 'esc', 'Hipotesis', 'coef_40', 'coef_50' )
 source( 'R/rtr/304_calculo_balance_rtr.R', encoding = 'UTF-8', echo = FALSE )
 save( esc, file = paste0( parametros$RData_seg, 'IESS_RTR_configuracion_', esc$nombre, '.RData' ) )
 rm( esc )
-
 
 
 # 2. Escenario 2 -----------------------------------------------------------------------------------
@@ -81,23 +79,22 @@ esc <- new.env()
 esc$nombre <- 'escenario_2'
 message( '\t\t\t', esc$nombre )
 
-# 2.1. Hipótesis -----------------------------------------------------------------------------------
+## 2.1. Hipótesis -----------------------------------------------------------------------------------
 esc$V0 <- 1202240160.65
 
 esc$hip_esc <- data.table( t = 0:parametros$horizonte,
-                           
+                           #Hipótesis
                            i_a = 0.0625,
                            i_r = Hipotesis[ 4, 2 ]/100,
                            i_sbu = Hipotesis[ 5, 2 ]/100,
                            i_p = Hipotesis[ 6, 2 ]/100,
-                           
                            # Tasas de aportación y gasto
                            por_gas = 0.0003, # 0,03% de la masa salarial
                            apo_est = c( rep( 0.28, 41 ) ),
                            apo_cot = c( 0.002, rep( 0.0038 , 40 ) ),
                            apo_sal = c( rep( 0, 41 ) ),
                            apo_jub = 0,  # Aporte del 2.76% de los jubilados
-                           rp = 0, # Valor de la rp generada, respecto al aporte del SGRT
+                           coef_ind = coef_50$monto_50,
                            # Factores de calibración
                            cal_mas = 1.06083,
                            cal_pen_pa_pt = 1.886482,
@@ -107,7 +104,7 @@ esc$hip_esc <- data.table( t = 0:parametros$horizonte,
                            cal_orf = 2.409926,
                            cal_viu = 0.9694932 )
 
-# 2.2. Factores de calculo de montepío -------------------------------------------------------------
+## 2.2. Factores de calculo de montepío -------------------------------------------------------------
 # No están siendo utilizadas en el cálculo del balance
 esc$porc_ben_orf <- 2.67756315 # Porcentaje de benefcios de orf respecto a los pensts de PA y PT
 esc$porc_ben_viud <- 3.108469539 # Porcentaje de beneficios de viudez respecto a los pensts de PA y PT
@@ -115,11 +112,58 @@ esc$porc_ben_viud <- 3.108469539 # Porcentaje de beneficios de viudez respecto a
 esc$mont_prop_afi_orf <- 0.118449037 # Porcentaje que representan de las prestaciones
 esc$mont_prop_afi_viud <- 0.254047820
 
-# 2.3. Calculos necesarios para el modelo actuarial ------------------------------------------------
-parametros_lista <- c( 'parametros_lista', 'esc', 'Hipotesis' )
+## 2.3. Calculos necesarios para el modelo actuarial ------------------------------------------------
+parametros_lista <- c( 'parametros_lista', 'esc', 'Hipotesis', 'coef_40', 'coef_50' )
 source( 'R/rtr/304_calculo_balance_rtr.R', encoding = 'UTF-8', echo = FALSE )
 save( esc, file = paste0( parametros$RData_seg, 'IESS_RTR_configuracion_', esc$nombre, '.RData' ) )
 rm( esc )
+
+
+#3. Escenario 3 -----------------------------------------------------------------------------------
+esc <- new.env()
+
+esc$nombre <- 'escenario_3'
+message( '\t\t\t', esc$nombre )
+
+## 3.1. Hipótesis -----------------------------------------------------------------------------------
+esc$V0 <- 1202240160.65
+
+esc$hip_esc <- data.table( t = 0:parametros$horizonte,
+                           #Hipótesis
+                           i_a = 0.0625,
+                           i_r = Hipotesis[ 4, 2 ]/100,
+                           i_sbu = Hipotesis[ 5, 2 ]/100,
+                           i_p = Hipotesis[ 6, 2 ]/100,
+                           # Tasas de aportación y gasto
+                           por_gas = 0.0003, # 0,03% de la masa salarial
+                           apo_est = c( rep( 0.28, 41 ) ),
+                           apo_cot = c( 0.002, rep( 0.0038 , 40 ) ),
+                           apo_sal = c( rep( 0, 41 ) ),
+                           apo_jub = 0,  # Aporte del 2.76% de los jubilados
+                           coef_ind = coef_40$monto_40,
+                           # Factores de calibración
+                           cal_mas = 1.06083,
+                           cal_pen_pa_pt = 1.886482,
+                           cal_pen_pp = 1.264204,
+                           cal_indm = 1.156043,
+                           cal_subs = 0.1493458,
+                           cal_orf = 2.409926,
+                           cal_viu = 0.9694932 )
+
+## 3.2. Factores de calculo de montepío -------------------------------------------------------------
+# No están siendo utilizadas en el cálculo del balance
+esc$porc_ben_orf <- 2.67756315 # Porcentaje de benefcios de orf respecto a los pensts de PA y PT
+esc$porc_ben_viud <- 3.108469539 # Porcentaje de beneficios de viudez respecto a los pensts de PA y PT
+
+esc$mont_prop_afi_orf <- 0.118449037 # Porcentaje que representan de las prestaciones
+esc$mont_prop_afi_viud <- 0.254047820
+
+## 3.3. Calculos necesarios para el modelo actuarial ------------------------------------------------
+parametros_lista <- c( 'parametros_lista', 'esc', 'Hipotesis', 'coef_40', 'coef_50' )
+source( 'R/rtr/304_calculo_balance_rtr.R', encoding = 'UTF-8', echo = FALSE )
+save( esc, file = paste0( parametros$RData_seg, 'IESS_RTR_configuracion_', esc$nombre, '.RData' ) )
+rm( esc )
+
 
 
 # 5. Cálculo de primas y análisis de ratios para todos los escenarios ------------------------------
