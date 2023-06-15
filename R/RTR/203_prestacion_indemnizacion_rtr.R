@@ -56,7 +56,8 @@ rc <- rc %>%
 
 calculo_ind_pp <- calculo_ind_pp %>%
   left_join(., rc, by = c('asegurado'='cedula')) %>%
-  filter( !is.na( fecha_nacimiento ) )
+  filter( !is.na( fecha_nacimiento ) ) %>%
+  filter( anio <= 2021 )
 
 
 

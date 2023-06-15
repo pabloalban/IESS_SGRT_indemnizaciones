@@ -63,7 +63,7 @@ coef_ind_pp_f <-  ggplot( data = aux ) +
   geom_point( aes( x = edad, y = coef_ind_pp, color = parametros$iess_green ), size = graf_point_size ) + 
   geom_line( aes( x = edad, y = coef_ind_pp_int, color = parametros$iess_blue ), size = graf_line_size ) + 
   xlab(TeX("edad $x$"))+
-  ylab(TeX("$mujeres \\, \\, c_{2,x}^{10}$")) +
+  ylab(TeX("$mujeres \\, \\, \\beta_{2,x}^{10}$")) +
   scale_color_manual( values =  c( parametros$iess_green, parametros$iess_blue ), 
                       labels = c( 'alisado', 'estimado' ) ) +
   scale_y_continuous(labels = scales::percent_format( accuracy = 1 ) ) +

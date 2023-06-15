@@ -482,223 +482,6 @@ Durante el año 2022, se entregaron USD 1.015.819,08 por subsidios, lo que repre
 Durante el año 2022, el 40\% de los beneficiarios por subsidios recibieron menos de USD 77; el otro 40\% recibió entre USD 77 y USD 680; el 10\% de beneficiarios recibió entre USD 680 y USD 1.213; y, solamente, el 10\% restante recibió más de USD 1.213 por beneficio de subsidio del \Sexpr{REP_seg}. Y, por último, durante el 2022, se registró subsidios de hasta por USD 22.861 (ver tabla \ref{tab:tab_rango_monto_subsidios_rtr} y la figura \ref{fig:iess_pir_montos_subsidios} para la distribución de los beneficios entregados).
 
 %---------------------------------------------------------------------------------------------------
-\subsection{Indemnización por incapacidad permanente parcial}
-A partir de la expedición de la \legalcite{ResIESS_CD390}, la misma que es ratificada en la \legalcite{ResIESS_CD513}, se suspende la entrega de pensiones vitalicias, por incapacidad
-permanente parcial, en su remplazo se entrega indemnizaciones. En concordancia al artículo 32 de la \legalcite{ResIESS_CD513}, los montos entregados por indemnizaciones es el promedio mensual de la remuneración de aportación del año anterior a la fecha del accidente o a la fecha de calificación de la enfermedad profesional u ocupacional por parte del Comité de Valuación de Incapacidades y de Responsabilidad Patronal “CVIRP”, multiplicado por sesenta mensualidades (60).
-
-El límite máximo es de cien (100) salarios básicos unificados del trabajador en general. Además, según lo establecido en el artículo 32 de la \legalcite{ResIESS_CD513}, la valoración total de la incapacidad, incluido los factores de ponderación, en ningún caso superará el ochenta por ciento (80\%) de disminución de la capacidad para el trabajo.
-
-
-Durante el año 2022, se entregó indemnizaciones por incapacidad permanente parcial a 857 beneficiarios, de los cuales la mayoría 747 (87,16\%) son hombres y solo 110 (12,84\%) mujeres, lo que representó un incremento del 150,58\%, respecto al año anterior. Solamente en el mes de diciembre de 2021, se entregó indemnizaciones a 30 beneficiarios. Además, el año 2020, fue el año con menos número de beneficiarios de indemnizaciones (342) se registró, un 7,57\% menos que el año 2019. Y, el máximo número de entrega de indemnizaciones se proporcionó en el año 2015 (1.175). En la tabla \ref{tab:tab_evo_ben_indemnizaciones_rtr} y figura \ref{fig:iess_evo_ben_indemnizaciones_rtr}, se presenta la evolución histórica de los beneficiarios de indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}.
-
-{\setlength{\tabcolsep}{5pt}
-{\fontsize{11}{15}\selectfont
-\begin{longtable}[H]{crrrrrrrr}
-  \caption{Evolución histórica de la población beneficiaria por indemnizaciones del \Sexpr{REP_seg}}
-\label{tab:tab_evo_ben_indemnizaciones_rtr} \\
-\toprule
- \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
-\multicolumn{3}{c}{Beneficiarios en diciembre} &
-\multicolumn{3}{c}{Beneficiarios en el año} &
-\multicolumn{1}{c}{Incremento} &
-\multicolumn{1}{c}{Tasa de} \\
-\cmidrule(lr){2-4} \cmidrule(lr){5-7}
-& 
-\multicolumn{1}{c}{Hombres} &
-\multicolumn{1}{c}{Mujeres} &
-\multicolumn{1}{c}{Total} &
-\multicolumn{1}{c}{Hombres} &
-\multicolumn{1}{c}{Mujeres} &
-\multicolumn{1}{c}{Total} &
-\multicolumn{1}{c}{de beneficiarios} &
-\multicolumn{1}{c}{Crecimiento (\%)} \\
-\midrule
-\endfirsthead
-
-\toprule
- \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
-\multicolumn{3}{c}{Beneficiarios en diciembre} &
-\multicolumn{3}{c}{Beneficiarios en el año} &
-\multicolumn{1}{c}{Incremento} &
-\multicolumn{1}{c}{Tasa de} \\
-\cmidrule(lr){2-4} \cmidrule(lr){5-7}
-& 
-\multicolumn{1}{c}{Hombres} &
-\multicolumn{1}{c}{Mujeres} &
-\multicolumn{1}{c}{Total} &
-\multicolumn{1}{c}{Hombres} &
-\multicolumn{1}{c}{Mujeres} &
-\multicolumn{1}{c}{Total} &
-\multicolumn{1}{c}{de beneficiarios} &
-\multicolumn{1}{c}{Crecimiento (\%)} \\
-	\midrule
-\endhead
-
-\bottomrule \multicolumn{9}{c}{continúa...} \\
-\endfoot
-%\hline
-\caption*{\scriptsize Fuente: DSGRT - IESS \\
-Elaborado: DAIE}
-\endlastfoot
-  \input{tablas/tab_evo_ben_indemnizaciones_rtr.tex}
-\end{longtable}
-}
-}
-
-\begin{figure}[H]
-\centering
-\caption{Evolución histórica de la población beneficiaria de indemnizaciones del \Sexpr{REP_seg}}
-\label{fig:iess_evo_ben_indemnizaciones_rtr}
-\includegraphics[scale=1]{graficos/iess_evo_ben_indemnizaciones_rtr.png}
-\caption*{\scriptsize Fuente: DSGRT - IESS
-\\Elaborado: DAIE}
-\end{figure}
-
-\begin{figure}[H]
-\centering
-\caption{Distribución de la población beneficiaria de indemnizaciones, por edad y sexo}
-\label{fig:iess_pir_ben_indemnizaciones}
-\includegraphics[scale=1]{graficos/iess_pir_ben_indemnizaciones.png}
-\caption*{\scriptsize Fuente: DSGRT - IESS
-\\Elaborado: DAIE}
-\end{figure}
-
-La edad promedio de los beneficiarios es 39,85 años en los hombres y 42,47 en las mujeres. En la figura \ref{fig:iess_pir_ben_indemnizaciones}, se muestra la pirámide poblacional de los beneficiaros de indemnizaciones en el año 2022, la cual posee una forma regresiva, que muestra que la mayoría de los beneficiarios son entre 25 y 45 años y en su mayoría son varones.
-
-Durante el año 2022, se entregaron USD 6.431.096,25 por indemnizaciones, lo que representó un incremento igual a 147,53\%, respeto al 2020, de los cuales USD 5.740.257,37 fueron entregados a hombres y solo USD 690.838,88 a mujeres. En cambio, en el mes de diciembre de 2021, se entregó USD 186.759,64 por indemnizaciones. Las indemnizaciones promedio entregado a los hombres fue USD 7.647,66 y a las mujeres fue USD 6.280,35. En la figura \ref{tab:tab_evo_monto_indemnizaciones_rtr}, se presenta la evolución histórica de los beneficios entregados por indemnizaciones del \Sexpr{REP_seg}.
-
-{\setlength{\tabcolsep}{5pt}
-{\fontsize{10}{14}\selectfont
-\begin{longtable}[H]{crrrrrrrr}
-  \caption{Evolución histórica de los montos entregados por indemnizaciones del \Sexpr{REP_seg}}
-\label{tab:tab_evo_monto_indemnizaciones_rtr} \\
-\toprule
- \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
-\multicolumn{3}{c}{Beneficios en diciembre} &
-\multicolumn{3}{c}{Beneficios en el año} &
-\multicolumn{1}{c}{Incremento} &
-\multicolumn{1}{c}{Tasa de} \\
-\cmidrule(lr){2-4} \cmidrule(lr){5-7}
-& 
-\multicolumn{1}{c}{Hombres} &
-\multicolumn{1}{c}{Mujeres} &
-\multicolumn{1}{c}{Total} &
-\multicolumn{1}{c}{Hombres} &
-\multicolumn{1}{c}{Mujeres} &
-\multicolumn{1}{c}{Total} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{Crecimiento} \\
-& 
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
- &
-\multicolumn{1}{c}{(\%)} \\
-\midrule
-\endfirsthead
-
-\toprule
- \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
-\multicolumn{3}{c}{Beneficios en diciembre} &
-\multicolumn{3}{c}{Beneficios en el año} &
-\multicolumn{1}{c}{Incremento} &
-\multicolumn{1}{c}{Tasa de} \\
-\cmidrule(lr){2-4} \cmidrule(lr){5-7}
-& 
-\multicolumn{1}{c}{Hombres} &
-\multicolumn{1}{c}{Mujeres} &
-\multicolumn{1}{c}{Total} &
-\multicolumn{1}{c}{Hombres} &
-\multicolumn{1}{c}{Mujeres} &
-\multicolumn{1}{c}{Total} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{Crecimiento} \\
-& 
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
-\multicolumn{1}{c}{(USD)} &
- &
-\multicolumn{1}{c}{(\%)} \\
-	\midrule
-\endhead
-
-\bottomrule \multicolumn{9}{c}{continúa...} \\
-\endfoot
-%\hline
-\caption*{\scriptsize Fuente: DSGRT - IESS \\
-Elaborado: DAIE}
-\endlastfoot
-  \input{tablas/tab_evo_monto_indemnizaciones_rtr.tex}
-\end{longtable}
-}
-}
-
-
-{\fontsize{9}{11}\selectfont
-\begin{longtable}[H]{lrrrrrr}
-\caption{Distribución de los montos pagados por indemnizaciones, para cada sexo}
-\label{tab:tab_rango_monto_indemnizaciones_rtr}\\
-\toprule
-\multirow{2}[2]{*}{Rango:} &
-\multicolumn{2}{c}{Femenino} & 
-\multicolumn{2}{c}{Masculino} &
-\multicolumn{2}{c}{Total}\\
-\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
-&
-\multicolumn{1}{c}{Beneficiarios}   &
-\multicolumn{1}{c}{Porcentaje (\%)}   & 
-\multicolumn{1}{c}{Beneficiarias}   &
-\multicolumn{1}{c}{Porcentaje (\%)} & 
-\multicolumn{1}{c}{Beneficiarios} & 
-\multicolumn{1}{c}{Porcentaje (\%)} \\
-\midrule
-\endfirsthead
-
-\toprule
-\multirow{2}[2]{*}{Rango:} &
-\multicolumn{2}{c}{Femenino} & 
-\multicolumn{2}{c}{Masculino} &
-\multicolumn{2}{c}{Total}\\
-\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
-&
-\multicolumn{1}{c}{Beneficiarios}   &
-\multicolumn{1}{c}{Porcentaje (\%)}   & 
-\multicolumn{1}{c}{Beneficiarias}   &
-\multicolumn{1}{c}{Porcentaje (\%)} & 
-\multicolumn{1}{c}{Beneficiarios} & 
-\multicolumn{1}{c}{Porcentaje (\%)} \\
-\midrule
-\endhead
-
-\bottomrule \multicolumn{7}{r}{continúa...} \\
-\endfoot
-%\bottomrule
-\caption*{\scriptsize Fuente: DSGRT - IESS
-\\Elaborado: DAIE}
-\endlastfoot
-  \input{tablas/tab_rango_monto_indemnizaciones_rtr.tex}
-\end{longtable}
-}
-
-Durante el año 2022, el 40\% de los beneficiarios por indemnizaciones recibieron entre USD 779 y USD 4.136; el otro 40\% recibió entre USD 4.136 y USD 11.440; el 10\% de beneficiarios recibió entre USD 11.440 y USD 16.297; y, solamente, el 10\% restante recibió más de USD 16.297 por beneficio de indemnizaciones del \Sexpr{REP_seg}. Y, por último, durante el 2022, se registró indemnizaciones de hasta por USD 40.000 (ver tabla \ref{tab:tab_rango_monto_indemnizaciones_rtr} y la figura \ref{fig:iess_pir_montos_indemnizaciones} para la distribución de los beneficios entregados).
-
-\begin{figure}[H]
-\centering
-\caption{Distribución de los montos promedios entregados por indemnizaciones, por edad y sexo}
-\label{fig:iess_pir_montos_indemnizaciones}
-\includegraphics[scale=1]{graficos/iess_pir_montos_indemnizaciones.png}
-\caption*{\scriptsize Fuente: DSGRT - IESS
-\\Elaborado: DAIE}
-\end{figure}
-
-
-%---------------------------------------------------------------------------------------------------
 \subsection{Pensionistas por incapacidad permanente parcial}
 
 Hasta la fecha el Seguro General de Riesgos del Trabajo aún mantiene pensionistas por incapacidad permanente parcial conforme lo dispuesto en el artículo 23 de la \legalcite{ResIESS_CS741}, de 18 de septiembre de 1990. A partir de la expedición de la \legalcite{ResIESS_CD390}, la misma que es ratificada en la \legalcite{ResIESS_CD513}, se suspende la entrega de pensiones vitalicias, por incapacidad
@@ -1830,17 +1613,253 @@ Durante el año 2021, el 50\% de los beneficiarios por pensiones de viudedad rec
 \chapter[Análisis de límites máximos de las indemnizaciones] {Análisis de límites máximos de las indemnizaciones por incapacidad permanente parcial}
 \label{chp_ind}
 
-En los casos
+%---------------------------------------------------------------------------------------------------
+\section{Indemnización por incapacidad permanente parcial}
+A partir de la expedición de la \legalcite{ResIESS_CD390}, la misma que es ratificada en la \legalcite{ResIESS_CD513}, se suspende la entrega de pensiones vitalicias, por incapacidad
+permanente parcial, en su remplazo se entrega indemnizaciones. En concordancia al artículo 32 de la \legalcite{ResIESS_CD513}, los montos entregados por indemnizaciones es el promedio mensual de la remuneración de aportación del año anterior a la fecha del accidente o a la fecha de calificación de la enfermedad profesional u ocupacional por parte del Comité de Valuación de Incapacidades y de Responsabilidad Patronal “CVIRP”, multiplicado por sesenta mensualidades (60).
 
-\begin{enumerate}[nosep, label=\alph*)]
-\item El empleador no inscribió al trabajador ni pagó aportes al IESS antes de la ocurrencia del siniestro;
+El límite máximo es de cien (100) salarios básicos unificados del trabajador en general. Además, según lo establecido en el artículo 32 de la \legalcite{ResIESS_CD513}, la valoración total de la incapacidad, incluido los factores de ponderación, en ningún caso superará el ochenta por ciento (80\%) de disminución de la capacidad para el trabajo.
+
+
+Durante el año 2022, se entregó indemnizaciones por incapacidad permanente parcial a 857 beneficiarios, de los cuales la mayoría 747 (87,16\%) son hombres y solo 110 (12,84\%) mujeres, lo que representó un incremento del 150,58\%, respecto al año anterior. Solamente en el mes de diciembre de 2021, se entregó indemnizaciones a 30 beneficiarios. Además, el año 2020, fue el año con menos número de beneficiarios de indemnizaciones (342) se registró, un 7,57\% menos que el año 2019. Y, el máximo número de entrega de indemnizaciones se proporcionó en el año 2015 (1.175). En la tabla \ref{tab:tab_evo_ben_indemnizaciones_rtr} y figura \ref{fig:iess_evo_ben_indemnizaciones_rtr}, se presenta la evolución histórica de los beneficiarios de indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}.
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{11}{15}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de la población beneficiaria por indemnizaciones del \Sexpr{REP_seg}}
+\label{tab:tab_evo_ben_indemnizaciones_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficiarios en diciembre} &
+\multicolumn{3}{c}{Beneficiarios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{de beneficiarios} &
+\multicolumn{1}{c}{Crecimiento (\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_ben_indemnizaciones_rtr.tex}
+\end{longtable}
+}
+}
+
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de la población beneficiaria de indemnizaciones del \Sexpr{REP_seg}}
+\label{fig:iess_evo_ben_indemnizaciones_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_indemnizaciones_rtr.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+La edad promedio de los beneficiarios es 39,85 años en los hombres y 42,47 en las mujeres. En la figura \ref{fig:iess_pir_ben_indemnizaciones}, se muestra la pirámide poblacional de los beneficiaros de indemnizaciones en el año 2022, la cual posee una forma regresiva, que muestra que la mayoría de los beneficiarios son entre 25 y 45 años y en su mayoría son varones.
+
+Durante el año 2022, se entregaron USD 6.431.096,25 por indemnizaciones, lo que representó un incremento igual a 147,53\%, respeto al 2020, de los cuales USD 5.740.257,37 fueron entregados a hombres y solo USD 690.838,88 a mujeres. En cambio, en el mes de diciembre de 2021, se entregó USD 186.759,64 por indemnizaciones. Las indemnizaciones promedio entregado a los hombres fue USD 7.647,66 y a las mujeres fue USD 6.280,35. En la figura \ref{tab:tab_evo_monto_indemnizaciones_rtr}, se presenta la evolución histórica de los beneficios entregados por indemnizaciones del \Sexpr{REP_seg}.
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población beneficiaria de indemnizaciones, por edad y sexo}
+\label{fig:iess_pir_ben_indemnizaciones}
+\includegraphics[scale=1]{graficos/iess_pir_ben_indemnizaciones.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+
+{\setlength{\tabcolsep}{5pt}
+{\fontsize{10}{14}\selectfont
+\begin{longtable}[H]{crrrrrrrr}
+  \caption{Evolución histórica de los montos entregados por indemnizaciones del \Sexpr{REP_seg}}
+\label{tab:tab_evo_monto_indemnizaciones_rtr} \\
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficios en diciembre} &
+\multicolumn{3}{c}{Beneficios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Crecimiento} \\
+& 
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+ &
+\multicolumn{1}{c}{(\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+ \multicolumn{1}{l}{\multirow{2}{*}{Año:}} & 
+\multicolumn{3}{c}{Beneficios en diciembre} &
+\multicolumn{3}{c}{Beneficios en el año} &
+\multicolumn{1}{c}{Incremento} &
+\multicolumn{1}{c}{Tasa de} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+& 
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{Hombres} &
+\multicolumn{1}{c}{Mujeres} &
+\multicolumn{1}{c}{Total} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{Crecimiento} \\
+& 
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{(USD)} &
+ &
+\multicolumn{1}{c}{(\%)} \\
+	\midrule
+\endhead
+
+\bottomrule \multicolumn{9}{c}{continúa...} \\
+\endfoot
+%\hline
+\caption*{\scriptsize Fuente: DSGRT - IESS \\
+Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_evo_monto_indemnizaciones_rtr.tex}
+\end{longtable}
+}
+}
+
+Durante el año 2022, el 40\% de los beneficiarios por indemnizaciones recibieron entre USD 779 y USD 4.136; el otro 40\% recibió entre USD 4.136 y USD 11.440; el 10\% de beneficiarios recibió entre USD 11.440 y USD 16.297; y, solamente, el 10\% restante recibió más de USD 16.297 por beneficio de indemnizaciones del \Sexpr{REP_seg}. Y, por último, durante el 2022, se registró indemnizaciones de hasta por USD 40.000 (ver tabla \ref{tab:tab_rango_monto_indemnizaciones_rtr} y la figura \ref{fig:iess_pir_montos_indemnizaciones} para la distribución de los beneficios entregados).
+
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de los montos promedios entregados por indemnizaciones, por edad y sexo}
+\label{fig:iess_pir_montos_indemnizaciones}
+\includegraphics[scale=1]{graficos/iess_pir_montos_indemnizaciones.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+
+
+\begin{figure}[H]
+\centering
+\caption{Porcentaje promedio de incapacidad permanente parcial por edad y sexo}
+\label{fig:coef_ind_pp_f}
+\includegraphics[scale=1]{graficos/coef_ind_pp_f.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+
+{\fontsize{9}{11}\selectfont
+\begin{longtable}[H]{lrrrrrr}
+\caption{Distribución de los montos pagados por indemnizaciones, para cada sexo}
+\label{tab:tab_rango_monto_indemnizaciones_rtr}\\
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multirow{2}[2]{*}{Rango:} &
+\multicolumn{2}{c}{Femenino} & 
+\multicolumn{2}{c}{Masculino} &
+\multicolumn{2}{c}{Total}\\
+\cmidrule(r){2-3} \cmidrule(r){4-5}\cmidrule(r){6-7}
+&
+\multicolumn{1}{c}{Beneficiarios}   &
+\multicolumn{1}{c}{Porcentaje (\%)}   & 
+\multicolumn{1}{c}{Beneficiarias}   &
+\multicolumn{1}{c}{Porcentaje (\%)} & 
+\multicolumn{1}{c}{Beneficiarios} & 
+\multicolumn{1}{c}{Porcentaje (\%)} \\
+\midrule
+\endhead
+
+\bottomrule \multicolumn{7}{r}{continúa...} \\
+\endfoot
+%\bottomrule
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\endlastfoot
+  \input{tablas/tab_rango_monto_indemnizaciones_rtr.tex}
+\end{longtable}
+}
+
+
+\section{Impacto de los límites en la entrega de Indemnizaciones por incapacidad permanente parcial}
+
+
+En el presente capítulo, se aborda el impacto del límite máximo en el beneficio de indemnización por incapacidad permanente parcial, en el número de afectados y montos entregados. Se contempla tres (3) posibles límites.
+
+\begin{enumerate}[itemsep=0mm, topsep=0pt]
+
+\item El primero, lo estipulado en el artículo 32 de la \legalcite{ResIESS_CD513} que señala que las indemnizaciones no superaran cien (100) salarios básicos unificados; 
+
+\item En segundo lugar, lo señalado en la disposición final segunda de la \legalcite{ResIESS_CD513} que determina un máximo de cincuenta (50) salarios básicos unificados del trabajador en general para la entrega de la prestación por indemnización. 
+
+\item Y, finalmente, se estima el impacto de fijar un máximo de cuarenta (40) salarios básicos, según la Valuación Actuarial del Seguro General de Riesgos del Trabajo, con fecha de corte 31 de diciembre de 2013.
 
 \end{enumerate}
 
 
-
-
-
+A la fecha de corte de este estudio, la Dirección del Seguro General de Riesgos del Trabajo se encuentra entregando indemnizaciones por incapacidad permanente parcial, según lo establecido en el artículo 32 de la \legalcite{ResIESS_CD513}; es decir, las indemnizaciones no superaran cien (100) salarios básicos unificados. A partir desde la expedición de la \legalcite{ResIESS_CD390} hasta el 31 de diciembre de 2021, se han entregado 6.925 indemnizaciones por incapacidad permanente parciales, de las cuales cincuenta y uno (51) alcanzaron la indemnización máxima de cien (100) salarios básicos unificados en el cálculo de su beneficio; es decir, el 0,66\% de los beneficiarios. Por sexo, treinta y siete (37) son hombres y nueve (9) mujeres. Durante el 2021, 6 beneficiarios de indemnizaciones recibieron el monto máximo de indemnización (USD 40.000); pero en promedio su beneficio calculado era USD 65.224,15; por lo tanto, la aplicación del tope máximo de las indemnizaciones redujo el beneficio por USD 25.224,15 en 6 beneficiarios en el año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max}.
 
 
 {\fontsize{9}{11}\selectfont
@@ -1892,7 +1911,7 @@ En los casos
 }
 
 
-
+En el caso de haber aplicado la disposición final segunda de la \legalcite{ResIESS_CD513} que determina un máximo de cincuenta (50) salarios básicos unificados del trabajador en general para la entrega de la prestación por indemnización, se habría 664 beneficiarios que hubiesen alanzado la indemnización máxima; es decir, el 9,59\% de los beneficiarios. Por sexo, ciento veinte y nueve (129) son mujeres y quinientos treinta y cinco (535) son hombres. Durante el año 2021, aplicando la disposición final segunda, la indemnización máxima sería USD 20.000; pero la renta calculada promedio, de los 45 beneficiarios que alcanzaron el máximo, es USD 30.281,37; por lo tanto, la aplicación de un máximo de cincuenta (50) salarios básicos sería USD 10.281,37 para el año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max_50}.
 
 
 
@@ -1944,6 +1963,7 @@ En los casos
 \end{longtable}
 }
 
+En el caso de haber establecido un máximo de cuarenta (40) salarios básicos unificados del trabajador en general para la entrega de la prestación por indemnización, se habría 1.081 beneficiarios que hubiesen alanzado la indemnización máxima desde 2011 a 2021; es decir, el 15,61\% de los beneficiarios. Por sexo, ciento noventa y tres (193) son mujeres y ochocientos ochenta y ocho 888 son hombres. Durante el año 2021, la indemnización máxima sería USD 16.000; pero la renta calculada promedio, de los 92 beneficiarios que alcanzaron el máximo en ese año, es USD 23.803.23; por lo tanto, la aplicación de un máximo de cuarenta (40) salarios básicos sería USD 13.803,23 para el año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max_40}.
 
 {\fontsize{9}{11}\selectfont
 \begin{longtable}[H]{lrrrrrrr}
@@ -1993,7 +2013,7 @@ En los casos
 \end{longtable}
 }
 
-
+Durante el período 2011 a 2021, aplicando el artículo 32 de la \legalcite{ResIESS_CD513}, se entregaron USD 32.447.741,88 por indemnizaciones; pero al aplicar la disposición final segunda de la \legalcite{ResIESS_CD513} que determina un máximo de cincuenta (50) salarios básicos unificados, se habría entregado USD 29.702.803,24, lo que representa solo el 91,54\% del gasto actual; es decir, un ahorro de USD 2.744.938,64, en diez (10) años. En cambio, estableciendo el máximo de cuarenta (40) salarios básicos unificados, se habría entregado USD 28.156.328,29, lo que representa el 86,77\% del gasto actual; es decir, un ahorro igual a USD 4.291.413,59. En la tabla \ref{tab:tab_impacto}, se detalla el impacto de la aplicación de los tres (3) límites antes expuestos.
 
 {\fontsize{9}{11}\selectfont
 \begin{longtable}[H]{lrrrrrr}
