@@ -53,8 +53,8 @@
 <<cap04, child='04_introduccion.Rnw'>>=
 @
 
-<<cap05, child='05_reglamentacion.Rnw'>>=
-@
+%<<cap05, child='05_reglamentacion.Rnw'>>=
+%@
  
 <<cap06, child='06_analisis_contexto.Rnw'>>=
 @

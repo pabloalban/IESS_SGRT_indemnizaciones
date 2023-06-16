@@ -29,13 +29,13 @@ REP_bib_lib <- 'bibliografia_libros.bib'
 REP_bib_art <- 'bibliografia_articulos.bib'
 REP_bib_ley <- 'bibliografia_leyes.bib'
 
-REP_tit <- 'Estudio Actuarial del impacto de la aplicación de la Sentencia del Caso No. 1024-19-JP/21 y 66-20-JP, de la Corte Constitucional, al Fondo del Seguro General de Riesgos del Trabajo'
+REP_tit <- 'Estudio Actuarial para la determinación de la cuantía máxima de la indemnización global única por incapacidad permanente parcial entregada por el Seguro General de Riesgos del Trabajo'
 REP_nom_seg <- 'Seguro de Riesgos del Trabajo'
 REP_seg <- c('RTR' = 'Seguro General de Riesgos del Trabajo')
 
 paste( 'Seguro', parametros$seguro )
 REP_fec_fin <- format( parametros$fec_fin, '%Y-%m-%d' )
-REP_fec_val <- "mayo 2023"
+REP_fec_val <- "junio 2023"
 REP_watermark <- paste0( 'Borrador ', parametros$fec_eje, ' ', format( Sys.time(), '%H:%M:%S' ) )
 REP_version <- digest( paste0( 'IESSDAIE', format( Sys.time(), '%Y%m%d%H' ) ), algo = 'sha256', file = FALSE )
 

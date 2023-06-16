@@ -1082,9 +1082,18 @@ $P_{max}^{abs,tot}$ y $P_{max}^{parcial}$, y mínimas, $P_{min}^{abs,tot}$.
 
 En cambio, para la indemnización por incapacidad permanente parcial (nuevo régimen), se calcula su
 prestación promedio, $B^{10}_{t,g,x}$, como una anualidad vencida, siguiendo la siguiente ecuación:
+
 \begin{equation}
-  B^{10}_{t,g,x}= \min{\left\{60\,\beta^{Indem}_{g,x}\, S_{t,g,x},100\, SBU_{t}\right\}},
+  B^{10}_{t,g,x}= 
+  \left \{
+    \begin{aligned}
+      \min{\left\{60\,\beta^{Indem}_{g,x}\, S_{t,g,x},100\, SBU_{t}\right\}} &,\ \text{para el Escenario 1}\\
+      \min{\left\{60\,\beta^{Indem}_{g,x}\, S_{t,g,x},50\, SBU_{t}\right\}} &,\ \text{para el Escenario 2}\\
+      \min{\left\{60\,\beta^{Indem}_{g,x}\, S_{t,g,x},40\, SBU_{t}\right\}} &,\ \text{para el Escenario 3}
+    \end{aligned}
+  \right .
 \end{equation}
+   
 donde: $\beta^{Indem}_{g,x}$ es el porcentaje promedio de incapacidad permanente parcial en la edad
 $x$ y sexo $g$.
 
@@ -1117,25 +1126,6 @@ Por su parte, la concesión de auxilio de funerales de acuerdo con la ley y las 
 correspondientes se otorga a través de la Dirección del Sistema de Pensiones.
 
 El total de gasto prestacional viene dado por la suma de cada uno de los beneficios antes descritos.
-
-
-%---------------------------------------------------------------------------------------------------
-\subsection{Flujo de valores generados por responsabilidad patronal}
-\label{chp_modelo:rp}
-
-A partir de la información histórica de los valores pendientes de cobrar por responsabilidad patronal, se establece una relación lineal con los aportes patronales por 0,38\% de la masa salarial establecidos en la \legalcite{ResIESS_CD515}. En la tabla \ref{tab:coeficiente}, se presenta los resultados de la regresión lineal entre los valores pendientes o proceso de cobro de las responsabilidades patronales, como variable dependiente y los valores por aportes al \Sexpr{REP_seg} , como variable independiente.
-
-{\fontsize{11}{13}\selectfont
-\begin{table}[H] \centering
-\input{tablas/iess_mod_rp.tex}
-\end{tabular}
-\caption*{\scriptsize Fuente: DAIE. \\
-\scriptsize Elaborado: DAIE. \\
-Nota: $^{*}$p$<$0,1; $^{**}$p$<$0,05; $^{***}$p$<$0,01}
-\label{tab:coeficiente}
-\end{table}
-}
-
 
 %---------------------------------------------------------------------------------------------------
 \subsection{Flujo de gastos administrativos}
