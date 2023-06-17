@@ -93,3 +93,143 @@ REP$ing_apo_est_1 <- format( balance_anual[ t == parametros$horizonte ]$A_est_va
 REP$egre_rp_1 <- format( balance_anual[ t == parametros$horizonte ]$B16_vap,
                              digits = 2, nsmall = 2, big.mark = '.',
                              decimal.mark = ',', format = 'f' )
+
+
+# Escenario 2 --------------------------------------------------------------------------------------
+escenario <- 'escenario_2'
+load( paste0( parametros$RData_seg, 'IESS_RTR_configuracion_', escenario, '.RData' ) )
+load( paste0( parametros$RData_seg, 'IESS_RTR_primas_', esc$nombre, '.RData' ) )
+load( paste0( parametros$RData_seg, 'IESS_RTR_balances_', esc$nombre, '.RData' ) )
+
+REP$bal_act_esc_2 <- format( balance_anual[ t == parametros$horizonte ]$V,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$bal_cap_esc_2 <- format( balance_anual[ t == parametros$horizonte ]$V_cap,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+
+REP$cap_ini <- format( esc$V0,
+                       digits = 2, nsmall = 2, big.mark = '.',
+                       decimal.mark = ',', format = 'f' )
+
+REP$pri_med_niv_esc_2 <- format( 100 * prima[ t == parametros$horizonte ]$pri_med_niv_apo_est_pen,
+                                 digits = 4, nsmall = 2, big.mark = '.',
+                                 decimal.mark = ',', format = 'f' )
+
+REP$apo_est_esc_2 <- format( 100 * esc$hip_esc$apo_est[2],
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$tasa_act_esc_2 <- format( 100 * esc$hip_esc$i_a[2],
+                              digits = 2, nsmall = 2, big.mark = '.',
+                              decimal.mark = ',', format = 'f' )
+
+REP$tasa_apo_jub_esc_2 <- format( 100 * esc$hip_esc$apo_jub[2],
+                                  digits = 2, nsmall = 2, big.mark = '.',
+                                  decimal.mark = ',', format = 'f' )
+
+REP$tasa_por_gas_esc_2 <- format( 100 * esc$hip_esc$por_gas[2],
+                                  digits = 2, nsmall = 2, big.mark = '.',
+                                  decimal.mark = ',', format = 'f' )
+
+REP$tasa_aporte_salud_esc_2 <- format( 100 * esc$hip_esc$apo_sal[2],
+                                       digits = 2, nsmall = 2, big.mark = '.',
+                                       decimal.mark = ',', format = 'f' )
+
+
+REP$tasa_aporte_esc_2_2021 <- format( 100 * ( esc$hip_esc$apo_cot[4] + esc$hip_esc$apo_sal[4] ),
+                                      digits = 2, nsmall = 2, big.mark = '.',
+                                      decimal.mark = ',', format = 'f' )
+
+REP$bal_sum_act_2 <- format( balance_anual[ t == parametros$horizonte ]$Act_vap,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$bal_sum_pas_2 <- format( balance_anual[ t == parametros$horizonte ]$Pas_vap,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$ing_jubilados_2 <- format( balance_anual[ t == parametros$horizonte ]$A_pen_vap,
+                               digits = 2, nsmall = 2, big.mark = '.',
+                               decimal.mark = ',', format = 'f' )
+
+REP$ing_apo_est_2 <- format( balance_anual[ t == parametros$horizonte ]$A_est_vap,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$egre_rp_2 <- format( balance_anual[ t == parametros$horizonte ]$B16_vap,
+                         digits = 2, nsmall = 2, big.mark = '.',
+                         decimal.mark = ',', format = 'f' )
+
+
+
+
+# Escenario 3 --------------------------------------------------------------------------------------
+escenario <- 'escenario_3'
+load( paste0( parametros$RData_seg, 'IESS_RTR_configuracion_', escenario, '.RData' ) )
+load( paste0( parametros$RData_seg, 'IESS_RTR_primas_', esc$nombre, '.RData' ) )
+load( paste0( parametros$RData_seg, 'IESS_RTR_balances_', esc$nombre, '.RData' ) )
+
+REP$bal_act_esc_3 <- format( balance_anual[ t == parametros$horizonte ]$V,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$bal_cap_esc_3 <- format( balance_anual[ t == parametros$horizonte ]$V_cap,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+
+REP$cap_ini <- format( esc$V0,
+                       digits = 2, nsmall = 2, big.mark = '.',
+                       decimal.mark = ',', format = 'f' )
+
+REP$pri_med_niv_esc_3 <- format( 100 * prima[ t == parametros$horizonte ]$pri_med_niv_apo_est_pen,
+                                 digits = 4, nsmall = 2, big.mark = '.',
+                                 decimal.mark = ',', format = 'f' )
+
+REP$apo_est_esc_3 <- format( 100 * esc$hip_esc$apo_est[2],
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$tasa_act_esc_3 <- format( 100 * esc$hip_esc$i_a[2],
+                              digits = 2, nsmall = 2, big.mark = '.',
+                              decimal.mark = ',', format = 'f' )
+
+REP$tasa_apo_jub_esc_3 <- format( 100 * esc$hip_esc$apo_jub[2],
+                                  digits = 2, nsmall = 2, big.mark = '.',
+                                  decimal.mark = ',', format = 'f' )
+
+REP$tasa_por_gas_esc_3 <- format( 100 * esc$hip_esc$por_gas[2],
+                                  digits = 2, nsmall = 2, big.mark = '.',
+                                  decimal.mark = ',', format = 'f' )
+
+REP$tasa_aporte_salud_esc_3 <- format( 100 * esc$hip_esc$apo_sal[2],
+                                       digits = 2, nsmall = 2, big.mark = '.',
+                                       decimal.mark = ',', format = 'f' )
+
+
+REP$tasa_aporte_esc_3_2021 <- format( 100 * ( esc$hip_esc$apo_cot[4] + esc$hip_esc$apo_sal[4] ),
+                                      digits = 2, nsmall = 2, big.mark = '.',
+                                      decimal.mark = ',', format = 'f' )
+
+REP$bal_sum_act_3 <- format( balance_anual[ t == parametros$horizonte ]$Act_vap,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$bal_sum_pas_3 <- format( balance_anual[ t == parametros$horizonte ]$Pas_vap,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$ing_jubilados_3 <- format( balance_anual[ t == parametros$horizonte ]$A_pen_vap,
+                               digits = 2, nsmall = 2, big.mark = '.',
+                               decimal.mark = ',', format = 'f' )
+
+REP$ing_apo_est_3 <- format( balance_anual[ t == parametros$horizonte ]$A_est_vap,
+                             digits = 2, nsmall = 2, big.mark = '.',
+                             decimal.mark = ',', format = 'f' )
+
+REP$egre_rp_3 <- format( balance_anual[ t == parametros$horizonte ]$B16_vap,
+                         digits = 2, nsmall = 2, big.mark = '.',
+                         decimal.mark = ',', format = 'f' )

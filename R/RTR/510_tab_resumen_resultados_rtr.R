@@ -2,7 +2,7 @@ message( paste( rep('-', 100 ), collapse = '' ) )
 message( '\tGenerando la tabla de resumen de resultados de la valuación' )
 
 #parametrización de los escenarios -----------------------------------------------------------------
-nom_esc <- c( 'Escenario 1' )
+nom_esc <- c( 'Escenario 100 SBU', 'Escenario 50 SBU', 'Escenario 40 SBU' )
 escenario <- paste0( 'escenario_', 1:length( nom_esc ) )
 
 #Creación data.frame -------------------------------------------------------------------------------
@@ -63,7 +63,7 @@ setorder(result, orden)
 result[, orden := NULL]
 
 #Guardar en latex-----------------------------------------------------------------------------------
-xtb_result <- xtable( result, digits = c( 0, 0, rep( 2, 1 ) ) )
+xtb_result <- xtable( result, digits = c( 0, 0, rep( 2, 3 ) ) )
 print( xtb_result,
        file = paste0( parametros$resultado_tablas, 'iess_resultados.tex' ),
        type = 'latex', 

@@ -1854,7 +1854,7 @@ En el presente capítulo, se aborda el impacto del límite máximo en el benefic
 
 \item En segundo lugar, lo señalado en la disposición final segunda de la \legalcite{ResIESS_CD513} que determina un máximo de cincuenta (50) salarios básicos unificados del trabajador en general para la entrega de la prestación por indemnización. 
 
-\item Y, finalmente, se estima el impacto de fijar un máximo de cuarenta (40) salarios básicos, según la Valuación Actuarial del Seguro General de Riesgos del Trabajo, con fecha de corte 31 de diciembre de 2013.
+\item Y, finalmente, se estima el impacto de fijar un máximo de cuarenta (40) salarios básicos.
 
 \end{enumerate}
 

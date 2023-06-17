@@ -1,6 +1,9 @@
 # Preparación --------------------------------------------------------------------------------------
 source( 'R/400_preparar_reporte.R', encoding = 'UTF-8', echo = FALSE )
 
+#Cálculo de los balances actuariales----------------------------------------------------------------
+source( 'R/rtr/305_calculo_escenarios_balance_rtr.R', encoding = 'UTF-8', echo = FALSE )
+
 #Gráficos genéricos---------------------------------------------------------------------------------
 source( 'R/402_graf_contexto_economico.R', encoding = 'UTF-8', echo = FALSE )
 source( 'R/403_graf_demografia_sgo.R', encoding = 'UTF-8', echo = FALSE )
@@ -29,6 +32,7 @@ source( 'R/rtr/504_tab_inversiones_rtr.R', encoding = 'UTF-8', echo = FALSE )
 source( 'R/rtr/505_tab_balance_rtr.R', encoding = 'UTF-8', echo = FALSE )
 source( 'R/rtr/507_tab_primas_rtr.R', encoding = 'UTF-8', echo = FALSE )
 source( 'R/rtr/508_tab_reg_rtr_.R', encoding = 'UTF-8', echo = FALSE )
+source( 'R/rtr/510_tab_resumen_resultados_rtr.R', encoding = 'UTF-8', echo = FALSE )
 source( 'R/rtr/513_tab_indemnizaciones.R', encoding = 'UTF-8', echo = FALSE )
 
 # Reporte LaTeX ------------------------------------------------------------------------------------

@@ -4,22 +4,23 @@
 %---------------------------------------------------------------------------------------------------
 \section{Resultados de la valuación actuarial}
 \label{chp_valuacionactu:est_apo}
-La Dirección Actuarial, de Investigación y Estadística efectuó 4 escenarios para realizar las 
-proyecciones actuariales para el período de evaluación.
+La Dirección Actuarial, de Investigación y Estadística analizó 3 escenarios para medir el impacto de la cuantía máxima en la entrega de la indemnización global única por incapacidad permanente parcial y realizar las proyecciones actuariales para el período de evaluación.
 
-Los resultados del balance actuarial de estos 4 escenarios se encuentran descritos en la tabla 
-\ref{tab:iess_bal_act_vap_escenario_1}.
+Los resultados del balance actuarial de estos tres (3) escenarios se encuentran descritos en las tablas: 
+\ref{tab:iess_bal_act_vap_escenario_1}, \ref{tab:iess_bal_act_vap_escenario_2} y \ref{tab:iess_bal_act_vap_escenario_3}.
 
 Del estudio actuarial, se concluyen los siguientes resultados:
 \begin{table}[H]
 \centering
-\caption{Resultado de los escenarios de la valuación actuarial (2020 a 2060)}
+\caption{Resultado de los escenarios de la valuación actuarial (2022 a 2061)}
 \label{tab:iess_resultados_resumen_ejec}
 {\fontsize{9}{11}\selectfont
-\begin{tabular}{lr}
+\begin{tabular}{lrrr}
 \toprule
 \multirow{1}{*}{Parámetro o componente:} &  
-\multicolumn{1}{c}{\textbf{Escenario 1}}  
+\multicolumn{1}{c}{\textbf{Escenario 100 SBU}} &
+\multicolumn{1}{c}{\textbf{Escenario 50 SBU}} &
+\multicolumn{1}{c}{\textbf{Escenario 40 SBU}} 
 \\
 \midrule
 \input{tablas/iess_resultados.tex}
@@ -80,22 +81,22 @@ actuarial, se obtuvieron las siguientes primas medias niveladas.
 \end{tabular}
 }
 \end{table}
-
-%---------------------------------------------------------------------------------------------------
-\section{Causas de posibles desfinanciamientos}
-\label{chp_resultados:caus_desf}
-
-Como se puede observar en la mayoría de los escenarios presentados en este capítulo, la 
-contribución estatal para financiar las pensiones es cada vez es más grande, llegando incluso a 
-superar los aportes totales; esta dependencia es cada vez más representativa conforme avanza el 
-horizonte de proyección; por tanto, la ausencia de esta contribución, bajo este contexto llevará al 
-desfinanciamiento del \Sexpr{REP_seg}.
-
-El IESS debe encontrar mecanismos de financiamiento y ajustes necesarios para asegurar la 
-sostenibilidad del \Sexpr{REP_seg} y mantener una moderada relación de dependencia entre los 
-beneficios y el aporte estatal.
-
-Otra posible causa de desfinanciamiento es no mantener niveles adecuados de rendimiento en 
-inversiones del portafolio, el mismo que depende del comportamiento de la economía, la colocación y 
-diversificación de las inversiones del portafolio. Los excedentes sobre el rendimiento esperado 
-deben ser canalizados para mejorar y obtener beneficios solventes y capitalizar aún más la reserva.
+% 
+% %---------------------------------------------------------------------------------------------------
+% \section{Causas de posibles desfinanciamientos}
+% \label{chp_resultados:caus_desf}
+% 
+% Como se puede observar en la mayoría de los escenarios presentados en este capítulo, la 
+% contribución estatal para financiar las pensiones es cada vez es más grande, llegando incluso a 
+% superar los aportes totales; esta dependencia es cada vez más representativa conforme avanza el 
+% horizonte de proyección; por tanto, la ausencia de esta contribución, bajo este contexto llevará al 
+% desfinanciamiento del \Sexpr{REP_seg}.
+% 
+% El IESS debe encontrar mecanismos de financiamiento y ajustes necesarios para asegurar la 
+% sostenibilidad del \Sexpr{REP_seg} y mantener una moderada relación de dependencia entre los 
+% beneficios y el aporte estatal.
+% 
+% Otra posible causa de desfinanciamiento es no mantener niveles adecuados de rendimiento en 
+% inversiones del portafolio, el mismo que depende del comportamiento de la economía, la colocación y 
+% diversificación de las inversiones del portafolio. Los excedentes sobre el rendimiento esperado 
+% deben ser canalizados para mejorar y obtener beneficios solventes y capitalizar aún más la reserva.

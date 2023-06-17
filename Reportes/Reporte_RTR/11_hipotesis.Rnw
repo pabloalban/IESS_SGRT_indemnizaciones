@@ -142,7 +142,7 @@ variación, período 2022 a 2061, el detalle de los cálculos se encuentra en el
  Ítem & Tasa (\%)\\
  \midrule
  \input{tablas/iess_hip_macro.tex}
- \bottomrule
+ %\bottomrule
  \end{tabular}
  \caption*{\scriptsize {\bf Elaborado:} DAIE}
  \end{table}

@@ -80,8 +80,8 @@
 <<cap12, child='13_situacion.Rnw'>>=
 @
 % 
-% <<cap13, child='14_sensibilidad.Rnw'>>=
-% @
+<<cap13, child='14_sensibilidad.Rnw'>>=
+@
 % 
 <<cap14, child='15_conclusion.Rnw'>>=
 @
