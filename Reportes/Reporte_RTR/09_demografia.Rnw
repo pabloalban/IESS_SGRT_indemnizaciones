@@ -1845,12 +1845,11 @@ Durante el año 2022, el 40\% de los beneficiarios por indemnizaciones recibiero
 
 \section{Impacto de los límites en la entrega de Indemnizaciones por incapacidad permanente parcial}
 
-
 En el presente capítulo, se aborda el impacto del límite máximo en el beneficio de indemnización por incapacidad permanente parcial, en el número de afectados y montos entregados. Se contempla tres (3) posibles límites.
 
 \begin{enumerate}[itemsep=0mm, topsep=0pt]
 
-\item El primero, lo estipulado en el artículo 32 de la \legalcite{ResIESS_CD513} que señala que las indemnizaciones no superaran cien (100) salarios básicos unificados; 
+\item El primero, lo estipulado en el artículo 32 de la \legalcite{ResIESS_CD513} que señala que las indemnizaciones no superaran cien (100) salarios básicos unificados;
 
 \item En segundo lugar, lo señalado en la disposición final segunda de la \legalcite{ResIESS_CD513} que determina un máximo de cincuenta (50) salarios básicos unificados del trabajador en general para la entrega de la prestación por indemnización. 
 
@@ -1859,12 +1858,12 @@ En el presente capítulo, se aborda el impacto del límite máximo en el benefic
 \end{enumerate}
 
 
-A la fecha de corte de este estudio, la Dirección del Seguro General de Riesgos del Trabajo se encuentra entregando indemnizaciones por incapacidad permanente parcial, según lo establecido en el artículo 32 de la \legalcite{ResIESS_CD513}; es decir, las indemnizaciones no superaran cien (100) salarios básicos unificados. A partir desde la expedición de la \legalcite{ResIESS_CD390} hasta el 31 de diciembre de 2021, se han entregado 6.925 indemnizaciones por incapacidad permanente parciales, de las cuales cincuenta y uno (51) alcanzaron la indemnización máxima de cien (100) salarios básicos unificados en el cálculo de su beneficio; es decir, el 0,66\% de los beneficiarios. Por sexo, treinta y siete (37) son hombres y nueve (9) mujeres. Durante el 2021, 6 beneficiarios de indemnizaciones recibieron el monto máximo de indemnización (USD 40.000); pero en promedio su beneficio calculado era USD 65.224,15; por lo tanto, la aplicación del tope máximo de las indemnizaciones redujo el beneficio por USD 25.224,15 en 6 beneficiarios en el año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max}.
+A la fecha de corte de este estudio, la Dirección del Seguro General de Riesgos del Trabajo se encuentra entregando indemnizaciones por incapacidad permanente parcial, según lo establecido en el artículo 32 de la \legalcite{ResIESS_CD513}; es decir, las indemnizaciones no superaran cien (100) salarios básicos unificados. A partir desde la expedición de la \legalcite{ResIESS_CD390} hasta el 31 de diciembre de 2021, se han entregado 6.925 indemnizaciones por incapacidad permanente parciales, de las cuales cuarenta y seis (46) alcanzaron la indemnización máxima igual a cien (100) salarios básicos unificados en el cálculo de su beneficio; es decir, el 0,66\% de los beneficiarios. Por sexo, treinta y siete (37) son hombres y nueve (9) mujeres. Durante el 2021, 6 beneficiarios de indemnizaciones recibieron el monto máximo de indemnización (USD 40.000); pero en promedio su beneficio calculado era USD 65.224,15; por lo tanto, la aplicación del tope máximo de las indemnizaciones redujo el beneficio por USD 25.224,15 en 6 beneficiarios en el año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max}.
 
 
 {\fontsize{9}{11}\selectfont
 \begin{longtable}[H]{lrrrrrrr}
-\caption{Número de beneficiarios de indemnizaciones que superaron el límite de cien (100) SBU y la beneficio promedio calculado}
+\caption{Número de beneficiarios de indemnizaciones que superaron el límite de cien (100) SBU y el beneficio promedio calculado}
 \label{tab:tab_ind_max}\\
 \toprule
 \multirow{2}[2]{*}{Año} &
@@ -1911,13 +1910,11 @@ A la fecha de corte de este estudio, la Dirección del Seguro General de Riesgos
 }
 
 
-En el caso de haber aplicado la disposición final segunda de la \legalcite{ResIESS_CD513} que determina un máximo de cincuenta (50) salarios básicos unificados del trabajador en general para la entrega de la prestación por indemnización, se habría 664 beneficiarios que hubiesen alanzado la indemnización máxima; es decir, el 9,59\% de los beneficiarios. Por sexo, ciento veinte y nueve (129) son mujeres y quinientos treinta y cinco (535) son hombres. Durante el año 2021, aplicando la disposición final segunda, la indemnización máxima sería USD 20.000; pero la renta calculada promedio, de los 45 beneficiarios que alcanzaron el máximo, es USD 30.281,37; por lo tanto, la aplicación de un máximo de cincuenta (50) salarios básicos sería USD 10.281,37 para el año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max_50}.
-
-
+En el caso de haber aplicado la disposición final segunda de la \legalcite{ResIESS_CD513} que determina un máximo de cincuenta (50) salarios básicos unificados del trabajador en general para la entrega de la prestación por indemnización, habría 664 beneficiarios que hubiesen alcanzado la indemnización máxima; es decir, el 9,59\% de los beneficiarios. Por sexo, ciento veinte y nueve (129) son mujeres y quinientos treinta y cinco (535) son hombres. Durante el año 2021 y aplicando la disposición final segunda, la indemnización máxima sería USD 20.000; pero la renta calculada promedio, de los 45 beneficiarios que alcanzaron el máximo, es USD 30.281,37; por lo tanto, la aplicación de un máximo de cincuenta (50) salarios básicos reduciría en USD 10.281,37 la indemnización promedio de los 45 afectados del año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max_50}.
 
 {\fontsize{9}{11}\selectfont
 \begin{longtable}[H]{lrrrrrrr}
-\caption{Número de beneficiarios de indemnizaciones que superaron el límite de  cincuenta (50) SBU y la beneficio promedio calculado}
+\caption{Número de beneficiarios de indemnizaciones que superaron el límite de cincuenta (50) SBU y su indemnización promedio calculada}
 \label{tab:tab_ind_max_50}\\
 \toprule
 \multirow{2}[2]{*}{Año} &
@@ -1963,11 +1960,11 @@ En el caso de haber aplicado la disposición final segunda de la \legalcite{ResI
 \end{longtable}
 }
 
-En el caso de haber establecido un máximo de cuarenta (40) salarios básicos unificados del trabajador en general para la entrega de la prestación por indemnización, se habría 1.081 beneficiarios que hubiesen alanzado la indemnización máxima desde 2011 a 2021; es decir, el 15,61\% de los beneficiarios. Por sexo, ciento noventa y tres (193) son mujeres y ochocientos ochenta y ocho 888 son hombres. Durante el año 2021, la indemnización máxima sería USD 16.000; pero la renta calculada promedio, de los 92 beneficiarios que alcanzaron el máximo en ese año, es USD 23.803.23; por lo tanto, la aplicación de un máximo de cuarenta (40) salarios básicos sería USD 13.803,23 para el año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max_40}.
+En el caso de haber establecido un máximo de cuarenta (40) salarios básicos unificados para la entrega de la prestación por indemnización, se habría afectado a 1.081 beneficiarios que hubiesen alanzado la indemnización máxima desde 2011 a 2021; es decir, el 15,61\% de los beneficiarios. Por sexo, ciento noventa y tres (193) son mujeres y ochocientos ochenta y ocho (888) son hombres. Durante el año 2021, la indemnización máxima sería USD 16.000; pero la renta calculada promedio, de los 92 beneficiarios que alcanzaron el máximo en ese año, es USD 23.803.23; por lo tanto, la afectación promedio a esta población sería igual a USD 13.803,23 en su indemnización para el año 2021. Para mayores detalles ver tabla \ref{tab:tab_ind_max_40}.
 
 {\fontsize{9}{11}\selectfont
 \begin{longtable}[H]{lrrrrrrr}
-\caption{Número de beneficiarios de indemnizaciones que superaron el límite de  cuarenta (40) SBU y la beneficio promedio calculado}
+\caption{Número de beneficiarios de indemnizaciones que superaron el límite de cuarenta (40) SBU y su indemnización promedio calculada}
 \label{tab:tab_ind_max_40}\\
 \toprule
 \multirow{2}[2]{*}{Año} &
@@ -2017,7 +2014,7 @@ Durante el período 2011 a 2021, aplicando el artículo 32 de la \legalcite{ResI
 
 {\fontsize{9}{11}\selectfont
 \begin{longtable}[H]{lrrrrrr}
-\caption{Número de beneficiarios de indemnizaciones que superaron el límite de  cuarenta (40) SBU y la beneficio promedio calculado}
+\caption{Número de beneficiarios de indemnizaciones que superaron el límite de cuarenta (40) SBU y su indemnización promedio calculada}
 \label{tab:tab_impacto}\\
 \toprule
 \multirow{2}[2]{*}{Año} &
@@ -2060,4 +2057,3 @@ Durante el período 2011 a 2021, aplicando el artículo 32 de la \legalcite{ResI
   \input{tablas/tab_impacto.tex}
 \end{longtable}
 }
-

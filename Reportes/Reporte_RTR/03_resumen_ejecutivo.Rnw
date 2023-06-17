@@ -5,6 +5,7 @@
 %---------------------------------------------------------------------------------------------------
 \section{Objetivo del estudio}
 \label{chp_res_ejec:objeto}
+
 El presente estudio actuarial abarca al Seguro General de Riesgos del Trabajo con fecha de corte 31 de diciembre de 2021, un horizonte de 40 años, cuyo objetivo es estimar el impacto de la Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP en la sostenibilidad y reservas del Fondo; y, de esta manera, garantizar en el tiempo el pago de las prestaciones a los asegurados.
 
 %---------------------------------------------------------------------------------------------------
@@ -30,36 +31,24 @@ Con fecha 30 de marzo de 2016, se expidió el Reglamento General de Responsabili
 %---------------------------------------------------------------------------------------------------
 \section{Hipótesis y supuestos claves del estudio}
 \label{chp_res_ejec:hipotesis}
-A manera de resumen, se describen las principales hipótesis de este estudio: 
 
-% \begin{center}
-% {\fontsize{11}{12}\selectfont
-% %\begin{longtable}[H]{r*{5}{R{2.5cm}}}
-% \begin{longtable}[H]{lc}
-% \caption{Tasas utilizadas en el estudio}
-% \label{tab:iess_hip_macro_re} \\
-% \toprule
-% Ítem: & \multicolumn{1}{c}{Tasa}\\
-% \midrule
-% \endfirsthead
-% 
-% \toprule
-% Ítem: & \multicolumn{1}{c}{Tasa}\\
-% \midrule
-% \endhead
-% 
-% \bottomrule
-% \multicolumn{2}{r}{continúa...} \\
-% \endfoot
-% 
-% \bottomrule
-% \endlastfoot
-% 
-% \input{tablas/iess_hipotesis_macro.tex}
-% 
-% \end{longtable}
-% }
-% \end{center}
+En la tabla \ref{tab:iess_hip_macro} se presentan los promedios de los valores estimados de tasas de
+variación, período 2022 a 2061, el detalle de los cálculos se encuentra en el capítulo \ref{chp_contexto}. 
+
+ \begin{table}[H]
+ \centering
+ \caption{Resumen de hipótesis macroeconómicas}
+ \label{tab:iess_hip_macro}
+ \begin{tabular}{lr}
+ \toprule
+ Ítem & Tasa (\%)\\
+ \midrule
+ \input{tablas/iess_hip_macro.tex}
+ %\bottomrule
+ \end{tabular}
+ \caption*{\scriptsize {\bf Elaborado:} DAIE}
+ \end{table}
+
 
 %---------------------------------------------------------------------------------------------------
 \section{Escenarios del estudio}
