@@ -6,38 +6,25 @@
 \section{Objetivo del estudio}
 \label{chp_res_ejec:objeto}
 
-El presente estudio actuarial abarca al Seguro General de Riesgos del Trabajo con fecha de corte 31 de diciembre de 2021, un horizonte de 40 años, cuyo objetivo es estimar el impacto de la Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP en la sostenibilidad y reservas del Fondo; y, de esta manera, garantizar en el tiempo el pago de las prestaciones a los asegurados.
+El presente estudio actuarial abarca al Seguro General de Riesgos del Trabajo con fecha de corte 31 de diciembre de 2021, un horizonte de 40 años, cuyo objetivo es determinar la cuantía máxima de la indemnización global única por incapacidad permanente parcial entregada por el Seguro General de Riesgos del Trabajo y estimar su impacto en tiempo.
 
 %---------------------------------------------------------------------------------------------------
-\section{Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP}
+\section{Sobre la entrega y cuantía de las indemnizaciones por incapacidad permanente parcial}
 \label{chp_res_ejec:descripcion}
-Con fecha 01 de septiembre de 2021, el Juez ponente, Ramiro Ávila Santamaría, de la Corte Constitucional emite la sentencia CASO No. 1024-19-JP/21 y 66-20-JP (Derecho a la seguridad social, pensión jubilar por incapacidad, montepío, pensión de viudez y orfandad y la responsabilidad del empleador). El Pleno de la Corte Constitucional del Ecuador, en ejercicio de sus atribuciones constitucionales y legales, emite la siguiente sentencia:
-\textit{4. Declarar la inconstitucionalidad, de oficio, de la frase del inciso segundo del artículo 94 de la Ley de Seguridad Social que dice “solamente cuando se haga efectiva la responsabilidad de éste, a menos que el patrono rinda garantía satisfactoria para el pago de lo que debiere por aquel concepto” y disponer que en el texto se lea “El IESS concederá inmediatamente tales prestaciones, cuando se cumplan los requisitos de ley.” En consecuencia, el artículo 94, inciso segundo, dirá:}
-
-\textit{``El IESS concederá inmediatamente tales prestaciones cuando se cumplan los requisitos de ley, aun cuando no se haga efectiva la responsabilidad del patrono''.}
-%---------------------------------------------------------------------------------------------------
-\section{Reglamento General de Responsabilidad Patronal}
-Con fecha 30 de marzo de 2016, se expidió el Reglamento General de Responsabilidad Patronal, mediante la emisión de la \textcite{ResIESS_CD517}, el cual señala en su Capítulo Sexto, establece:
-
-\textit{``Artículo 14.- En los casos de generarse derecho al otorgamiento de pensiones por accidente de trabajo o enfermedad profesional, hay responsabilidad patronal cuando:}
-\begin{enumerate}[nosep, label=\alph*), itemsep=0mm, topsep=0pt]
-\item \textit{El empleador no inscribió al trabajador ni pagó aportes al IESS antes de la ocurrencia del siniestro;}\\
-\item \textit{El empleador se encuentra en mora en el pago de aportes al momento del accidente de trabajo o al momento de la calificación de la enfermedad profesional o del cese provocado por ésta;}\\
-\item \textit{El empleador por sí o por interpuesta persona, no comunicó al IESS el siniestro, dentro de los 10 días laborables contados a partir de la fecha del accidente de trabajo o del diagnóstico de presunción inicial de la enfermedad profesional;}\\
-\item \textit{Si a consecuencia de las investigaciones realizadas por las unidades de Riesgos del Trabajo, se determina que el accidente de trabajo o enfermedad profesional ha sido causado por incumplimiento y/o inobservancia de las normas sobre prevención de riesgos de trabajo, aun cuando este al día en el pago de aportes; y,}\\
-\item \textit{Los aportes correspondientes a uno de los 12 meses de aportación, anteriores a la fecha del siniestro, fueron pagados con una extemporaneidad mayor de 3 meses''.}\\
+Respecto a la cuantía indemnización global única por incapacidad permanente parcial, en el ``REGLAMENTO DEL SEGURO GENERAL DE RIESGOS DEL TRABAJO'', emitido mediante \legalcite{ResIESS_CD513}, se establecen dos límites máximos a las cuantías por indemnización establecidos en los siguientes artículos:
+\begin{enumerate}[label=\arabic*.,topsep=0pt,itemsep=1ex,parsep=1ex,partopsep=1ex]
+\item \textit{``\textbf{Artículo 32}.- Cuantía de la Indemnización Global Única por Incapacidad Permanente Parcial.- Será equivalente al porcentaje de incapacidad establecido por el Comité de Valuación de Incapacidades y de Responsabilidad Patronal "CVIRP"; se considerará como base de cálculo el promedio mensual de la remuneración de aportación del año anterior a la fecha del accidente o a la fecha de calificación de la enfermedad profesional u ocupacional por parte del Comité de Valuación de Incapacidades y de Responsabilidad Patronal "CVIRP", multiplicado por sesenta mensualidades (60), correspondiente al periodo de protección de cinco (5)años, pagadero por una sola vez, con un límite máximo de cien (100) salarios básicos unificados del trabajador en general (...)''.}
+\item \textit{``\textbf{DISPOSICIÓN GENERAL SEPTIMA}.- Por única vez, en el caso de que el asegurado que recibió una indemnización por incapacidad permanente parcial, sufriere un agravamiento de su lesión y el Comité de Valuación de Incapacidades y de Responsabilidad Patronal "CVIRP" calificare un aumento en el grado de incapacidad permanente parcial, se re-liquidará la indemnización concedida y se pagará al asegurado la diferencia, siempre que no supere los cincuenta (50) salarios básicos unificados del trabajador en general, incluida la indemnización inicial''.}
 \end{enumerate}
 
 %---------------------------------------------------------------------------------------------------
 \section{Hipótesis y supuestos claves del estudio}
 \label{chp_res_ejec:hipotesis}
-
-En la tabla \ref{tab:iess_hip_macro} se presentan los promedios de los valores estimados de tasas de
-variación, período 2022 a 2061, el detalle de los cálculos se encuentra en el capítulo \ref{chp_contexto}. 
+A manera de resumen, se describen las principales hipótesis de este estudio: 
 
  \begin{table}[H]
  \centering
- \caption{Resumen de hipótesis macroeconómicas}
+ \caption{Promedio de los valores estimados de tasas de variación}
  \label{tab:iess_hip_macro}
  \begin{tabular}{lr}
  \toprule
@@ -53,50 +40,56 @@ variación, período 2022 a 2061, el detalle de los cálculos se encuentra en el
 %---------------------------------------------------------------------------------------------------
 \section{Escenarios del estudio}
 \label{chp_res_ejec:escenarios}
-Para el análisis se han definido un único escenario:  
-\begin{enumerate}[itemsep=1mm, topsep=5pt] 
-\item \textbf{Escenario Base:} Constituye el escenario más verosímil, aplicando parámetros financieros conservadores y realistas, en base a valores proyectados promedio. En este escenario se supone: tasa actuarial \Sexpr{REP$i_a}\%, tasa de crecimiento salarial de \Sexpr{REP$i_s}\% y tasa de crecimiento de pensiones igual a \Sexpr{REP$i_p}\%. Además, supone que el aporte estatal promedio para los próximos años es igual a 28\% y toma en cuenta el cese del aporte del 2,76\% de los pensionistas.
-Para estimar el impacto de los valores por cobrar pendientes por responsabilidad patronal del \Sexpr{REP_seg}, se estableció un porcentaje relacionado con el aporte patronal al Seguro por \Sexpr{REP$i_rp}\% en la sección \ref{chp_modelo:rp}. Y no se considera los egresos por atenciones-médicas por accidentes y enfermedades laborales que están a cargo del Seguro General de Salud Individual y Familiar.
+Para el análisis se han definido tres (3) escenarios:
+
+\begin{enumerate}[itemsep=0mm, topsep=0pt] 
+\item \textbf{Escenario 1:} constituye el escenario con cien (100) salarios básicos unificados como límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}, en concordancia al artículo 32 de la \legalcite{ResIESS_CD513}; 
+\item \textbf{Escenario 2:} sigue lo dictaminado en la disposición final séptima de la de la \legalcite{ResIESS_CD513}, con cincuenta (50) salarios básicos unificados como límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}; y,
+\item \textbf{Escenario 3:} considera límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg} a cuarenta (40) salarios básicos unificados. 
 \end{enumerate}
 
-Se consideró la misma estructura actuarial del \Sexpr{REP_seg}, definida por un sistema de financiamiento de reparto con prima media nivelada, un esquema de prestaciones de beneficio definido y un régimen demográfico en grupo abierto, acorde a lo expuesto en la sección \ref{chp_modelo:actu}.
+Para los tres (3) escenarios, se consideró la misma estructura actuarial del \Sexpr{REP_seg}, definida por un sistema de financiamiento de reparto con prima media nivelada, un esquema de prestaciones de beneficio definido y un régimen demográfico en grupo abierto, acorde a lo expuesto en la sección \ref{chp_modelo:actu}. Además, para los tres escenarios se aplican las mismas hipótesis macroeconómicas conservadores y realistas, como son: tasa actuarial \Sexpr{REP$i_a}\%, tasa de crecimiento salarial de \Sexpr{REP$i_s}\% y tasa de crecimiento de pensiones igual a \Sexpr{REP$i_p}\%. Y, supone que el aporte estatal promedio para los próximos años es igual a 28\% y toma en cuenta el cese del aporte del 2,76\% de los pensionistas.
 
-Solo se considera el 28\% (no el 40\%) del aporte del Estado a las pensiones, puesto que ese fue el porcentaje que el Estado aporta en el año 2019. Además, se aplica los porcentajes de aportación dispuestos por la \legalcite{ResIESS_CD515}.
+Solo se considera el 28\% (no el 40\%) del aporte del Estado a las pensiones, puesto que ese fue el porcentaje que el Estado aporta desde el año 2019. Además, se aplica los porcentajes de aportación dispuestos por la \legalcite{ResIESS_CD515}.
 %---------------------------------------------------------------------------------------------------
 \section{Principales resultados}
 \label{chp_res_ejec:resultados}
-Del estudio actuarial se concluyen los siguientes resultados:
+Del estudio actuarial, se concluyen los siguientes resultados:
 \begin{table}[H]
 \centering
-\caption{Balance actuarial en el escenario base}
-\label{tab:iess_bal_act_vap_escenario_1}
-\caption*{Fecha de valuación: al \Sexpr{REP_fec_fin}}
-{\fontsize{11}{14}\selectfont
-\begin{tabular}{lr}
+\caption{Resultado de los escenarios de la valuación actuarial (2022 a 2061)}
+\label{tab:iess_resultados_resumen_ejec}
+{\fontsize{9}{11}\selectfont
+\begin{tabular}{lrrr}
 \toprule
-Componente:	& Valor (USD) \\
+\multirow{1}{*}{Parámetro o componente:} &  
+\multicolumn{1}{c}{\textbf{Escenario 100 SBU}} &
+\multicolumn{1}{c}{\textbf{Escenario 50 SBU}} &
+\multicolumn{1}{c}{\textbf{Escenario 40 SBU}} 
+\\
 \midrule
-% el comando \csname es para evitar un error cuando el input comienza con \multicolumn
- \csname @@input\endcsname tablas/iess_bal_act_vap_escenario_1.tex
+\input{tablas/iess_resultados.tex}
 \bottomrule
 \end{tabular}
 }
 \end{table}
-% --------------------------------------------------------------------------------------------------
+
+%--------------------------------------------------------------------------------------------------
 \section{Principales conclusiones y recomendaciones.}
 \label{chp_res_ejec:conclusiones}
-Entre las principales conclusiones, se tiene:
 Del presente estudio se obtienen las siguientes conclusiones:
 \begin{enumerate}[itemsep=0mm, topsep=0pt]
-\item Se concluye que la Sentencia de la Corte Constitucional del CASO No. 1024-19-JP/21 y 66-20-JP, no afecta a la sostenibilidad del Fondo del \Sexpr{REP_seg}, mientras se realicen las respectivas gestiones de cobranza de las responsabilidades patronales pendientes. En caso de que no se cobre oportunamente los valores generados por responsabilidad patronal, el perjuicio al Fondo ascendería a sería USD \Sexpr{REP$egre_rp_1} en los próximos 40 años; y el no cobro de estos valores no afectaría en la sostenibilidad del Fondo a largo plazo, debido a las reservas que dispone este Seguro.
+\item Al momento de elaborar el presente estudio, la Dirección del \Sexpr{REP_seg} se encuentra entregando indemnizaciones por incapacidad permanente parcial con cuantía máxima igual a cien (100) salarios básicos unificados desde la emisión de la \legalcite{ResIESS_CD390}.
+\item Al aplicar el artículo 32 de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_1} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_1}\%, en el horizonte de proyección de cuarenta (40) años.
 
-\item El Fondo del \Sexpr{REP_seg}, presenta un superávit actuarial alcanza USD \Sexpr{REP$bal_act_esc_1}, su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_1}\%. 
+\item Al aplicar disposición general séptima de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_2} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_2}\%, en el horizonte de proyección de cuarenta (40) años.
 
-\item Entre el año 2010 a 2021, se generaron glosas por responsabilidad patronal por USD 37.954.946,82, de los cuales USD 9.114.106,07 (pendientes sin cancelar) se encuentran en estado de impugnación, notificada, publicada o transferida a convenio o títulos.
-
+\item En caso de establecer cuarenta (40) salarios básicos unificados, como cuantía máxima de las indemnizaciones por incapacidad permanente parcial, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_3} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_3}\%, en el horizonte de proyección de cuarenta (40) años.
+\item Se concluye que desde la emisión de la \legalcite{ResIESS_CD390} hasta el 31 de diciembre de 2021, se han entregado 6.925 indemnizaciones por incapacidad permanente parciales, de las cuales cuarenta y seis (46) alcanzaron la indemnización máxima de cien (100) salarios básicos unificados en el cálculo de su beneficio; es decir, el 0,66\% de los beneficiarios. En caso de que se hubiese aplicado la disposición general séptima de la \legalcite{ResIESS_CD513}, se hubiese afectado a 664 beneficiarios que hubiesen alcanzado la indemnización máxima; es decir, el 9,59\% de los beneficiarios y el gasto en la entrega de indemnizaciones hubiese reducido en USD 2.744.938,64, durante el mismo período.
 \end{enumerate}
-% --------------------------------------------------------------------------------------------------
+%--------------------------------------------------------------------------------------------------
 Las principales recomendaciones de esta Dirección son:
 \begin{enumerate}
-\item La Dirección del Seguro General de Riesgos del Trabajo deberá realizar las gestiones pertinentes dentro de sus atribuciones establecidas en la Ley, en coordinación con las otras direcciones del IESS para recaudar los valores pendientes por responsabilidad patronal.
+\item La Dirección Actuarial, de Investigación y Estadística recomienda que la cuantía de indemnización global única por incapacidad permanente parcial del \Sexpr{REP_seg} no supere los cien (100) salarios básicos unificados.
+\item La Dirección del Seguro General de Riesgos del Trabajo deberá presentar un proyecto de resolución al Consejo Directivo para normar la entrega de la cuantía máxima de indemnización global única por incapacidad permanente parcial del \Sexpr{REP_seg}.
 \end{enumerate}
