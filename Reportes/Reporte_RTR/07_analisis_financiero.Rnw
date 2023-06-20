@@ -219,7 +219,7 @@ En las tablas \ref{tab:iess_analisis_horizontal_activo_rtr} y \ref{tab:iess_anal
 \multicolumn{1}{c}{2019/2018} &
 \multicolumn{1}{c}{2020/2019} &
 \multicolumn{1}{c}{2021/2020} &
-\multicolumn{1}{c}{2013/2022} \\
+\multicolumn{1}{c}{2022/2021} \\
 & 
 \multicolumn{1}{c}{(\%)} &
 \multicolumn{1}{c}{(\%)} & 

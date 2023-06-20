@@ -1178,7 +1178,7 @@ Anteriormente, se entregó el derecho a una pensión vitalicia de montepío a hi
 \\Elaborado: DAIE}
 \end{figure}
 
-En el año 2021, se entregó pensiones de orfandad del \Sexpr{REP_seg} a 3.150 beneficiarios, de los cuales la mayoría 1.987 (63,08\%) son mujeres y solo 1.163 (36,92\%) son mujeres, lo que representó un decrecimiento igual a 3,43\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de orfandad del \Sexpr{REP_seg} se alcanzó en el año 2016 (4.056). En la tabla \ref{tab:tab_evo_ben_of_rtr} y figura \ref{fig:iess_evo_ben_of_rtr}, se presenta la evolución histórica de los beneficiarios de orfandad del \Sexpr{REP_seg}.
+En el año 2021, se entregó pensiones de orfandad del \Sexpr{REP_seg} a 3.150 beneficiarios, de los cuales la mayoría 1.987 (63,08\%) son mujeres y solo 1.163 (36,92\%) son hombres, lo que representó un decrecimiento igual a 3,43\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de orfandad del \Sexpr{REP_seg} se alcanzó en el año 2016 (4.056). En la tabla \ref{tab:tab_evo_ben_of_rtr} y figura \ref{fig:iess_evo_ben_of_rtr}, se presenta la evolución histórica de los beneficiarios de orfandad del \Sexpr{REP_seg}.
 
 {\setlength{\tabcolsep}{5pt}
 {\fontsize{11}{15}\selectfont
@@ -1444,7 +1444,7 @@ Elaborado: DAIE}
 }
 }
 
-En el año 2021, se entregó pensiones de viudedad del \Sexpr{REP_seg} a 4.426beneficiarios, de los cuales la mayoría 4.370 (\%) son mujeres y solo 56 (\%) son mujeres, lo que representó un decrecimiento igual a 0,61\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de viudedad del \Sexpr{REP_seg} se alcanzó en el año 2019 (4.500). En la tabla \ref{tab:tab_evo_ben_vo_rtr} y figura \ref{fig:iess_evo_ben_vo_rtr}, se presenta la evolución histórica de los beneficiarios de viudedad del \Sexpr{REP_seg}.
+En el año 2021, se entregó pensiones de viudedad del \Sexpr{REP_seg} a 4.426 beneficiarios, de los cuales la mayoría 4.370 (98,73\%) son mujeres y solo 56 (1,27\%) son hombres, lo que representó un decrecimiento igual a 0,61\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de viudedad del \Sexpr{REP_seg} se alcanzó en el año 2019 (4.500). En la tabla \ref{tab:tab_evo_ben_vo_rtr} y figura \ref{fig:iess_evo_ben_vo_rtr}, se presenta la evolución histórica de los beneficiarios de viudedad del \Sexpr{REP_seg}.
 
 
 \begin{figure}[H]
@@ -1546,9 +1546,6 @@ Elaborado: DAIE}
 \vspace*{\fill}
 \end{landscape}
 
-
-En el año 2021, se entregó pensiones de viudedad del \Sexpr{REP_seg} a 4.426beneficiarios, de los cuales la mayoría 4.370 (\%) son mujeres y solo 56 (\%) son mujeres, lo que representó un decrecimiento igual a 0,61\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de viudedad del \Sexpr{REP_seg} se alcanzó en el año 2019 (4.500). En la tabla \ref{tab:tab_evo_ben_vo_rtr} y figura \ref{fig:iess_evo_ben_vo_rtr}, se presenta la evolución histórica de los beneficiarios de viudedad del \Sexpr{REP_seg}.
-
 \begin{figure}[H]
 \centering
 \caption{Distribución de las pensiones promedio, incluido décimos, de viudedad, por edad y sexo}
@@ -1558,9 +1555,9 @@ En el año 2021, se entregó pensiones de viudedad del \Sexpr{REP_seg} a 4.426be
 \\Elaborado: DAIE}
 \end{figure}
 
-Durante el año 2021, se entregaron USD 18.322.646,49 por pensiones de viudedad del \Sexpr{REP_seg} y décimos, de los cuales USD 15.575.558,27 (\%) corresponden a las pensiones mensuales; USD 1.307.512,07 (\%) al pago de decimotercero y USD 1.439.576,15 (\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015, y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 3.537.664,02 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos representan el 19,31\% de los ingresos por pensiones y décimas.
+Durante el año 2021, se entregaron USD 18.322.646,49 por pensiones de viudedad del \Sexpr{REP_seg} y décimos, de los cuales USD 15.575.558,27 (85,01\%) corresponden a las pensiones mensuales; USD 1.307.512,07 (7,14\%) al pago de decimotercero y USD 1.439.576,15 (7,86\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015, y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 3.537.664,02 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos representan el 19,31\% de los ingresos por pensiones y décimas.
 
-Por consiguiente, el valor liquido a pagar a los pensionistas de viudedad del \Sexpr{REP_seg} fue igual a USD 14.784.982,47 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 18.416.390,20 en el 2020 a USD 18.322.646,49; es decir, un decrecimiento igual a 0,51\%; en cambio, los descuentos a los pensionistas crecieron en 9,37\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_vo_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de viudedad del \Sexpr{REP_seg}.
+Por consiguiente, el valor liquido a pagar a los pensionistas de viudedad del \Sexpr{REP_seg} fue igual a USD 14.784.982,47 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 18.416.390,20 a USD 18.322.646,49 en el 2021; es decir, un decrecimiento igual a 0,51\%; en cambio, los descuentos a los pensionistas crecieron en 9,37\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_vo_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de viudedad del \Sexpr{REP_seg}.
 
 Durante el año 2021, el 50\% de los beneficiarios por pensiones de viudedad recibieron menos de USD 312; el otro 40\% recibió entre USD 312 y USD 451; y, solamente, el 10\% restante recibió de USD 451 a USD 1.580 de renta mensual, incluido décimas. Y, por último, en el 2021, la pensión promedio de viudedad del \Sexpr{REP_seg} fue igual a USD 359,89 para los hombres y USD 423,19 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_vo_rtr} y la figura \ref{fig:iess_pir_ben_vo} para la distribución de las pensiones promedio de viudedad por edad y sexo).
 
