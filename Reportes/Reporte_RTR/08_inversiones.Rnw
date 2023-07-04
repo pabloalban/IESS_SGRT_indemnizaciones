@@ -1305,14 +1305,14 @@ Elaborado: DAIE}
 \section{Causas de desfinanciamiento}
 \label{chp_infofinan:causasdesf}
 
-En esta Sección se presentan las principales causas de desfinanciamiento que sufrió el fondo desde el año 2015 hasta la fecha de corte del estudio, las cuales se describen a continuación:
+En esta Sección se presentan las principales causas de desfinanciamiento que sufrió el Fondo hasta la fecha de corte del estudio, las cuales se describen a continuación:
 \begin{enumerate}[itemsep=0mm, topsep=0pt]
 \itemsep0em
-\item La ausencia de la contribución del Estado al IESS por el financiamiento del 40\% de las pensiones y otras obligaciones que tiene el Estado con IESS desde abril de 2015 es USD 109.765.237,51 (USD 91.340.621,83 capital y USD 18.424.615,68 lucro cesante).
+\item La ausencia de la contribución del Estado al Fondo del \Sexpr{REP_seg}  por el financiamiento del 40\% de las pensiones y otras obligaciones al 31 de diciembre de 2022 es USD 239.806.382,04 (USD 156.105.894,01 capital y USD 83.700.488,04 lucro cesante).
 
-\item El cambio de las tasas de aportación de la Resolución No. C.D. 261 a la Resolución No. C.D. 501 provocó la ausencia de ingresos por USD 343.852.476,12 (USD 294.352.148,00 capital y 49.500.328,12 lucro cesante).
+\item El cambio de las tasas de aportación de la \legalcite{ResIESS_CD261} a la \legalcite{ResIESS_CD501}, y posteriormente a la \legalcite{ResIESS_CD515} provocó que el Fondo dejará de percibir USD 797.186.709,55 (USD 581.378.558,32 aportes y 215.808.151,23 lucro cesante).
 
-\item Desinversiones realizadas desde junio de 2017 hasta la fecha corte del estudio (USD 25.000.000,00) a la fecha de corte no permitieron que el fondo reciba USD 1.035.057,65 (lucro cesante).
+\item Desinversiones realizadas desde junio de 2017 hasta la fecha corte del estudio (USD 35.500.000,00) a la fecha de corte no permitieron que el fondo reciba USD 12.739.179,87 por rendimientos financieros (lucro cesante).
 \end{enumerate}
 
 En consecuencia, el impacto de estas causas de desfinanciamiento sobre el patrimonio de este Fondo se resume en la tabla \ref{tab:impacto_patrimonio}:
@@ -1460,7 +1460,7 @@ Los valores de las pensiones son calculados sumando las cuentas: "Pensiones por 
 \subsection{Cambio de primas de aportes por aplicación de la Resolución No. C.D. 501}
 \label{chp_resultados:cd_501}
 
-La Resolución No. C.D. 501 de 13 de noviembre de 2015, cambió las tasas de aportación del \Sexpr{REP_seg}, trayendo como consecuencia la disminución de los ingresos por aportes desde noviembre de 2015 hasta la fecha corte del estudio. Las tasas de aportación de las Resoluciones No. C.D. 261 y 501 se pueden apreciar en la siguiente figura \ref{fig:comp_tas_apo}.
+La \legalcite{ResIESS_CD501} de 13 de noviembre de 2015, cambió las tasas de aportación del \Sexpr{REP_seg}, trayendo como consecuencia la disminución de los ingresos por aportes desde noviembre de 2015 hasta la fecha corte del estudio. Las tasas de aportación de la \legalcite{ResIESS_CD261} y \legalcite{ResIESS_CD501} se pueden apreciar en la siguiente figura \ref{fig:comp_tas_apo}.
 
 \begin{figure}[H]
 \captionsetup{justification=centering}
@@ -1579,7 +1579,7 @@ La Resolución No. C.D. 501 de 13 de noviembre de 2015, cambió las tasas de apo
 % }
 % \end{table}
 
-Los valores por aportes de la Resolución No. C.D. 501 se tomaron de la cuenta Aportes de afiliados y patronales del Balance Financiero del Fondo del \Sexpr{REP_seg} (se sumó los aportes de los afiliados y patronales, sin tomar en cuenta los aportes de los pensionistas (2,76\%), de la tabla \ref{tab:iess_componentes_ingresos_rtr}); en cambio, los aportes de la Resolución No. C.D. 261 se estimaron utilizando la antigua tasa de aportación al seguro, 0,55\%.
+Los valores por aportes de la \legalcite{ResIESS_CD501} se tomaron de la cuenta Aportes de afiliados y patronales del Balance Financiero del Fondo del \Sexpr{REP_seg} (se sumó los aportes de los afiliados y patronales, sin tomar en cuenta los aportes de los pensionistas (2,76\%), de la tabla \ref{tab:iess_componentes_ingresos_rtr}); en cambio, los aportes de la \legalcite{ResIESS_CD261} se estimaron utilizando la antigua tasa de aportación al seguro, 0,55\%.
 
 
 La diferencia de aporte entre las dos resoluciones considerando la masa salarial y los ingresos recibidos por aportaciones al \Sexpr{REP_seg} para los diferentes años en análisis se presenta en la tabla \ref{tab:iess_RTR_Desfi_CD501}. El fondo dejó de percibir por aportes USD 294.352.148,00, lo que produjo un lucro cesante de USD 49.500.328,12 a 31 de diciembre de 2018, obteniéndose un perjuicio total de USD 343.852.476,12.
@@ -1601,32 +1601,44 @@ L_t = \left( \prod\limits_{k = 1}^{12} \left( 1 + j_{t + \frac{k}{12}} \right) -
 Donde $L_t$ es el lucro cesante de la desinversión/inversión correspondiente tiempo $t$, medido en años, $C_t$ es el capital desinvertido/invertido en el tiempo $t$; y $j_t$ es la tasa de rendimiento correspondiente al momento $t$. Las desinversiones del Fondo del \Sexpr{REP_seg} y el cálculo de su lucro cesante, con la metodología expuesta anteriormente, se presentan en la tabla \ref{tab:iess_RTR_desinversiones}.
 
 {\fontsize{9}{10}\selectfont
-\begin{longtable}[H]{crccrrr}
+\begin{longtable}[H]{crccrr}
 \captionsetup{justification=centering}
 \caption{Monto desinvertido del Fondo del \Sexpr{REP_seg} y su lucro cesante} \\
 \label{tab:iess_RTR_desinversiones} \\
 \toprule
-\multicolumn{1}{c}{Fecha} & \multicolumn{1}{c}{Capital desinvertido} &
-\multicolumn{1}{c}{Rentabilidad} & \multicolumn{1}{c}{Rentabilidad neta} &
-\multicolumn{1}{c}{Factor} & \multicolumn{1}{c}{Lucro cesante} &  \multicolumn{1}{c}{Lucro Cesante +
-capital} \\
-& \multicolumn{1}{c}{(USD)} & \multicolumn{1}{c}{neta (\%)}          &
-\multicolumn{1}{c}{mensualizada (\%)} &       &    \multicolumn{1}{c}{(USD)}      &
+\multicolumn{1}{c}{Fecha} &
+\multicolumn{1}{c}{Capital desinvertido} &
+\multicolumn{1}{c}{Rentabilidad} & 
+\multicolumn{1}{c}{Rentabilidad neta} &
+\multicolumn{1}{c}{Lucro cesante} &  
+\multicolumn{1}{c}{Lucro Cesante + capital} \\
+
+&
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{neta (\%)} &
+\multicolumn{1}{c}{mensualizada (\%)} & 
+\multicolumn{1}{c}{(USD)} &
 \multicolumn{1}{c}{desinvertido (USD)} \\
 \midrule
 \endfirsthead
 \toprule
-\multicolumn{1}{c}{Fecha} & \multicolumn{1}{c}{Capital desinvertido} &
-\multicolumn{1}{c}{Rentabilidad} & \multicolumn{1}{c}{Rentabilidad neta} &
-\multicolumn{1}{c}{Factor} & \multicolumn{1}{c}{Lucro cesante} &  \multicolumn{1}{c}{Lucro Cesante +
-capital} \\
-& \multicolumn{1}{c}{(USD)} & \multicolumn{1}{c}{neta (\%)}          &
-\multicolumn{1}{c}{mensualizada (\%)} &       &    \multicolumn{1}{c}{(USD)}      &
+\multicolumn{1}{c}{Fecha} &
+\multicolumn{1}{c}{Capital desinvertido} &
+\multicolumn{1}{c}{Rentabilidad} & 
+\multicolumn{1}{c}{Rentabilidad neta} &
+\multicolumn{1}{c}{Lucro cesante} &  
+\multicolumn{1}{c}{Lucro Cesante + capital} \\
+
+&
+\multicolumn{1}{c}{(USD)} &
+\multicolumn{1}{c}{neta (\%)} &
+\multicolumn{1}{c}{mensualizada (\%)} & 
+\multicolumn{1}{c}{(USD)} &
 \multicolumn{1}{c}{desinvertido (USD)} \\
 \midrule
 \endhead
 \hline
-\multicolumn{4}{c}{continúa...} \\
+\multicolumn{6}{c}{continúa...} \\
 \endfoot
 %\bottomrule
 \caption*{\scriptsize Fuente: Dirección de Tesorería-BIESS \\

@@ -548,8 +548,8 @@ La edad promedio de los beneficiarios es 59,55 años en los hombres y 58,92 en l
 Durante el año 2021, se entregaron USD 15.593.885,44 por pensiones de incapacidad permanente parcial y décimos, de los cuales USD 13.784.071,55 (88,39\%) corresponden a las pensiones mensuales; USD 1.139.632,21 (7,31\%) al pago de decimotercero y solo USD 670.181,68 por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 3.378.532,13 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados. 
 
 Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad permanente parcial fue igual a USD 12.215.353,31 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 16.061.662,05 en el 2020 a USD 15.593.885,44, es decir, una reducción del 2,91\%, debido a la extinción de pensionistas; en cambio, los descuentos a los pensionistas crecieron en 18,75\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_pt_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de incapacidad permanente parcial del \Sexpr{REP_seg}.
-\clearpage
 
+\vspace*{\fill}
 
 \begin{figure}[H]
 \centering
@@ -561,15 +561,6 @@ Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad per
 \end{figure}
 
 \vspace*{\fill}
-
-\begin{figure}[H]
-\centering
-\caption{Distribución de la población pensionistas por incapacidad permanente parcial, por edad y sexo, a la fecha de corte}
-\label{fig:iess_pir_ben_pp}
-\includegraphics[scale=1]{graficos/iess_pir_ben_pp.png}
-\caption*{\scriptsize Fuente: DSGRT - IESS
-\\Elaborado: DAIE}
-\end{figure}
 
 \newpage
 
@@ -653,6 +644,15 @@ Elaborado: DAIE}
 
 \begin{figure}[H]
 \centering
+\caption{Distribución de la población pensionistas por incapacidad permanente parcial, por edad y sexo, a la fecha de corte}
+\label{fig:iess_pir_ben_pp}
+\includegraphics[scale=1]{graficos/iess_pir_ben_pp.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+\begin{figure}[H]
+\centering
 \caption{Distribución de las pensiones promedio, incluido décimos, entregados por incapacidad permanente parcial, por edad y sexo}
 \label{fig:iess_pir_pensiones_pp}
 \includegraphics[scale=1]{graficos/iess_pir_pensiones_pp.png}
@@ -715,19 +715,7 @@ Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad 
 %---------------------------------------------------------------------------------------------------
 \subsection{Pensionistas por incapacidad permanente total}
 
-Según lo establecido en el artículo 33 de la \legalcite{ResIESS_CD513}, la incapacidad permanente total es aquella que inhabilita al trabajador para la realización de todas o las fundamentales tareas de su profesión u oficio habitual. 
-
-El artículo 34 de la \legalcite{ResIESS_CD513} establece que la pensión es equivale al ochenta por ciento (80\%) del promedio mensual de la remuneración base de aportación del último año anterior de trescientos sesenta días (360) o del promedio mensual de los cinco (5) años de mayor aportación si éste fuere superior, calculada desde la fecha del accidente de trabajo o de la fecha de calificación de la enfermedad profesional u ocupacional por el Comité de Valuación de Incapacidades y de Responsabilidad Patronal “CVIRP”.
-
-\begin{figure}[H]
-\centering
-\caption{Evolución histórica de la población beneficiaria por incapacidad permanente total del \Sexpr{REP_seg}}
-\label{fig:iess_evo_ben_pt_rtr}
-\includegraphics[scale=1]{graficos/iess_evo_ben_pt_rtr.png}
-\caption*{\scriptsize Fuente: DSGRT - IESS
-\\Elaborado: DAIE}
-\end{figure}
-
+Según lo establecido en el artículo 33 de la \legalcite{ResIESS_CD513}, la incapacidad permanente total es aquella que inhabilita al trabajador para la realización de todas o las fundamentales tareas de su profesión u oficio habitual. El artículo 34 de la \legalcite{ResIESS_CD513} establece que la pensión es equivale al ochenta por ciento (80\%) del promedio mensual de la remuneración base de aportación del último año anterior de trescientos sesenta días (360) o del promedio mensual de los cinco (5) años de mayor aportación si éste fuere superior, calculada desde la fecha del accidente de trabajo o de la fecha de calificación de la enfermedad profesional u ocupacional por el Comité de Valuación de Incapacidades y de Responsabilidad Patronal “CVIRP”.
 
 {\setlength{\tabcolsep}{5pt}
 {\fontsize{11}{14}\selectfont
@@ -783,10 +771,23 @@ Elaborado: DAIE}
 }
 }
 
+\begin{figure}[H]
+\centering
+\caption{Evolución histórica de la población beneficiaria por incapacidad permanente total del \Sexpr{REP_seg}}
+\label{fig:iess_evo_ben_pt_rtr}
+\includegraphics[scale=1]{graficos/iess_evo_ben_pt_rtr.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+
+
 En el año 2021, se entregó pensiones por incapacidad permanente total a 1.210 beneficiarios, de los cuales la mayoría 1.048 (86,61\%) son hombres y solo 162 (13,39\%) mujeres, lo que representó un decremento igual a 0,74\%, respecto al año anterior. Además, el año 2012, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el máximo número de beneficiarios de pensiones por incapacidad permanente total se proporcionó en el año 2018 (1.223). En la tabla \ref{tab:tab_evo_ben_pt_rtr} y figura \ref{fig:iess_evo_ben_pt_rtr}, se presenta la evolución histórica de los pensionistas de incapacidad permanente total del \Sexpr{REP_seg}.
 
 
 La edad promedio de los beneficiarios es 58,07 años en los hombres y 58,7 en las mujeres. En la figura \ref{fig:iess_pir_pensiones_pt}, se muestra la pirámide poblacional de los pensionistas de incapacidad permanente total en el año 2021, la cual posee una forma regresiva, que muestra una población que continúa envejeciendo y en su mayoría son mayores de 55 años; y pocas entradas de nuevos pensionistas.
+
+\newpage
+\vspace*{\fill}
 
 \begin{figure}[H]
 \centering
@@ -797,6 +798,19 @@ La edad promedio de los beneficiarios es 58,07 años en los hombres y 58,7 en la
 \\Elaborado: DAIE}
 \end{figure}
 
+\vspace*{\fill}
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de las pensiones promedio, incluido décimos, entregados por incapacidad permanente total, por edad y sexo}
+\label{fig:iess_pir_pensiones_pt}
+\includegraphics[scale=1]{graficos/iess_pir_pensiones_pt.png}
+\caption*{\scriptsize Fuente: DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
+\vspace*{\fill}
+
+\newpage
 
 \begin{landscape}
 \vspace*{\fill}
@@ -881,15 +895,6 @@ Durante el año 2021, se entregaron USD 8.896.545,91 por pensiones de incapacida
 
 Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad permanente total fue USD 6.690.924,30 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 9.059.076,83 en el 2020 a USD 8.896.545,91, es decir, una reducción del 1,79\%, debido a la extinción de pensionistas; en cambio, los descuentos a los pensionistas crecieron en 3,59\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_pt_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de incapacidad permanente total del \Sexpr{REP_seg}.
 
-\begin{figure}[H]
-\centering
-\caption{Distribución de las pensiones promedio, incluido décimos, entregados por incapacidad permanente total, por edad y sexo}
-\label{fig:iess_pir_pensiones_pt}
-\includegraphics[scale=1]{graficos/iess_pir_pensiones_pt.png}
-\caption*{\scriptsize Fuente: DSGRT - IESS
-\\Elaborado: DAIE}
-\end{figure}
-
 Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad permanente total recibieron menos de USD 578; el otro 40\% recibió entre USD 578 y USD 755; y, solamente, el 10\% restante recibió más de USD 755 a USD 2.104 de renta mensual, incluido décimas. Y, por último, durante el 2021, la pensión promedio de incapacidad permanente total fue igual a USD 635,31 para los hombres y USD 675,82 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_pt_rtr} y la figura \ref{fig:iess_pir_ben_pt} para la distribución de las pensiones promedio por edad y sexo).
 
 {\fontsize{9}{11}\selectfont
@@ -943,11 +948,6 @@ Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad 
 
 El artículo 36 de la \legalcite{ResIESS_CD513} define a la incapacidad permanente absoluta como aquella que le inhabilita por completo al asegurado para el ejercicio de toda profesión u ocupación, requiriendo de otra persona para su cuidado y atención permanente, producida por consecuencia de un accidente de trabajo, o enfermedad profesional u ocupacional. El asegurado que fuere declarado con incapacidad permanente absoluta tendrá derecho a una pensión mensual equivalente al ciento por ciento (100\%) del promedio mensual de la remuneración del último año anterior o del promedio mensual de los cinco (5) años de mayor aportación, si éste fuere superior, calculada desde la fecha del accidente de trabajo, en concordancia al artículo 38 de la \legalcite{ResIESS_CD513}.
 
-En el año 2021, se entregó pensiones por incapacidad permanente absoluta a 157 beneficiarios, de los cuales la mayoría 149 (94,90\%) son hombres y solo 8 (5,20\%) mujeres, lo que representó un incremento igual a 3,97\%, respecto al año anterior. Además, el año 2012, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el máximo número de beneficiarios de pensiones por incapacidad permanente absoluta se proporcionó en el año 2021 (157), debido a una tendencia creciente del número de afiliados. En la tabla \ref{tab:tab_evo_ben_pa_rtr} y figura \ref{fig:iess_evo_ben_pa_rtr}, se presenta la evolución histórica de los pensionistas de incapacidad permanente absoluta del \Sexpr{REP_seg}.
-
-La edad promedio de los beneficiarios es 46,22 años en los hombres y 49,52 en las mujeres. En la figura \ref{fig:iess_pir_pensiones_pa}, se muestra la pirámide poblacional de los pensionistas de incapacidad permanente absoluta en el año 2021, la cual posee una forma regresiva, que muestra una población que continúa envejeciendo y en su mayoría se encuentran entre 35 y 60 años de sexo masculino; y pocas entradas de nuevos pensionistas.
-
-Durante el año 2021, se entregaron USD 1.117.097,10 por pensiones de incapacidad permanente total y décimos, de los cuales USD 974.207,52 (87,21\%) corresponden a las pensiones mensuales; USD 82.376,76 (7,37\%) al pago de decimotercero y solo USD 60.512,82 (5,42\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 270.781,16 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos representan el 24,24\% de los ingresos por pensiones y décimas.
 
 \begin{figure}[H]
 \centering
@@ -1090,18 +1090,11 @@ Elaborado: DAIE}
 \vspace*{\fill}
 \end{landscape}
 
+En el año 2021, se entregó pensiones por incapacidad permanente absoluta a 157 beneficiarios, de los cuales la mayoría 149 (94,90\%) son hombres y solo 8 (5,20\%) mujeres, lo que representó un incremento igual a 3,97\%, respecto al año anterior. Además, el año 2012, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el máximo número de beneficiarios de pensiones por incapacidad permanente absoluta se proporcionó en el año 2021 (157), debido a una tendencia creciente del número de afiliados. En la tabla \ref{tab:tab_evo_ben_pa_rtr} y figura \ref{fig:iess_evo_ben_pa_rtr}, se presenta la evolución histórica de los pensionistas de incapacidad permanente absoluta del \Sexpr{REP_seg}.
 
+La edad promedio de los beneficiarios es 46,22 años en los hombres y 49,52 en las mujeres. En la figura \ref{fig:iess_pir_pensiones_pa}, se muestra la pirámide poblacional de los pensionistas de incapacidad permanente absoluta en el año 2021, la cual posee una forma regresiva, que muestra una población que continúa envejeciendo y en su mayoría se encuentran entre 35 y 60 años de sexo masculino; y pocas entradas de nuevos pensionistas.
 
-Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad permanente absoluta fue igual a USD 846.315,94 en el 2021. Durante el último año, monto entregado por pensiones y décimos creció de USD 1.082.414,84 en el 2020 a USD 1.117.097,10, es decir, un aumento igual a 3,20\%, debido al pequeño aumento de pensionistas; de igual manera, los descuentos a los pensionistas crecieron en 7,43\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_pa_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de incapacidad permanente absoluta del \Sexpr{REP_seg}.
-
-\begin{figure}[H]
-\centering
-\caption{Distribución de la población de pensionistas por incapacidad permanente absoluta, por edad y sexo}
-\label{fig:iess_pir_ben_pa}
-\includegraphics[scale=1]{graficos/iess_pir_ben_pa.png}
-\caption*{\scriptsize DSGRT - IESS
-\\Elaborado: DAIE}
-\end{figure}
+Durante el año 2021, se entregaron USD 1.117.097,10 por pensiones de incapacidad permanente total y décimos, de los cuales USD 974.207,52 (87,21\%) corresponden a las pensiones mensuales; USD 82.376,76 (7,37\%) al pago de decimotercero y solo USD 60.512,82 (5,42\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 270.781,16 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos representan el 24,24\% de los ingresos por pensiones y décimas.
 
 {\fontsize{9}{11}\selectfont
 \begin{longtable}[H]{lrrrrrr}
@@ -1149,7 +1142,17 @@ Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad per
 \end{longtable}
 }
 
-Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad permanente absoluta recibieron menos de USD 490; el otro 40\% recibió entre USD 490 y USD 919; y, solamente, el 10\% restante recibió de USD 919 a USD 1.983 de renta mensual, incluido décimas. Y, por último, en el 2021, la pensión promedio de incapacidad permanente absoluta fue igual a USD 621,55 para los hombres y USD 513,46 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_pa_rtr} y la figura \ref{fig:iess_pir_ben_pa} para la distribución de las pensiones promedio por edad y sexo).
+Por consiguiente, el valor liquido a pagar a los pensionistas de incapacidad permanente absoluta fue igual a USD 846.315,94 en el 2021. Durante el último año, monto entregado por pensiones y décimos creció de USD 1.082.414,84 en el 2020 a USD 1.117.097,10, es decir, un aumento igual a 3,20\%, debido al pequeño aumento de pensionistas; de igual manera, los descuentos a los pensionistas crecieron en 7,43\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_pa_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de incapacidad permanente absoluta del \Sexpr{REP_seg}.
+
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población de pensionistas por incapacidad permanente absoluta, por edad y sexo}
+\label{fig:iess_pir_ben_pa}
+\includegraphics[scale=1]{graficos/iess_pir_ben_pa.png}
+\caption*{\scriptsize DSGRT - IESS
+\\Elaborado: DAIE}
+\end{figure}
 
 \begin{figure}[H]
 \centering
@@ -1160,14 +1163,13 @@ Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad 
 \\Elaborado: DAIE}
 \end{figure}
 
-
+Durante el año 2021, el 50\% de los beneficiarios por pensiones de incapacidad permanente absoluta recibieron menos de USD 490; el otro 40\% recibió entre USD 490 y USD 919; y, solamente, el 10\% restante recibió de USD 919 a USD 1.983 de renta mensual, incluido décimas. Y, por último, en el 2021, la pensión promedio de incapacidad permanente absoluta fue igual a USD 621,55 para los hombres y USD 513,46 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_pa_rtr} y la figura \ref{fig:iess_pir_ben_pa} para la distribución de las pensiones promedio por edad y sexo).
 %---------------------------------------------------------------------------------------------------
 \subsection{Pensionistas por orfandad}
 
-Cuando el asegurado que falleciere a consecuencia de un accidente de trabajo o de una enfermedad profesional u ocupacional, generará derecho a la prestación de montepío cualquiera sea el número de aportaciones; igualmente, al fallecimiento del pensionista por incapacidad permanente total o incapacidad permanente absoluta, según el artículo 40 de la \legalcite{ResIESS_CD513}. Por la muerte del asegurado las pensiones de viudedad y orfandad se concederán con sujeción a los porcentajes fijados en la Ley de Seguridad Social y en la normativa interna, se calcularán sobre la pensión de incapacidad permanente total que le habría correspondido al causante al momento de su muerte, establecido por el artículo 41 de la \legalcite{ResIESS_CD513}.
+Cuando el asegurado que falleciere a consecuencia de un accidente de trabajo o de una enfermedad profesional u ocupacional, generará derecho a la prestación de montepío cualquiera sea el número de aportaciones; igualmente, al fallecimiento del pensionista por incapacidad permanente total o incapacidad permanente absoluta, según el artículo 40 de la \legalcite{ResIESS_CD513}. 
 
-Anteriormente, se entregó el derecho a una pensión vitalicia de montepío a hijas solteras y hermanos hasta 1956; a partir del año 1984, se restringe la entrega de pensiones de orfandad solo a hijos menores de dieciocho (18) años e hijos mayores a dieciocho (18) años con alguna incapacidad y se deja de entregar el beneficio a padres. Desde la expedición de la \legalcite{ResIESS_CD100}, se limita a solo los hijos menores de dieciocho (18) años y menores de veintiuno (21) que se encuentren estudiando. Por esta razón, se IESS se encuentra pagando pensiones de orfandad a mayores de edad y personas de noventa (90) años.
-
+Por la muerte del asegurado las pensiones de viudedad y orfandad se concederán con sujeción a los porcentajes fijados en la Ley de Seguridad Social y en la normativa interna, se calcularán sobre la pensión de incapacidad permanente total que le habría correspondido al causante al momento de su muerte, establecido por el artículo 41 de la \legalcite{ResIESS_CD513}.
 
 \begin{figure}[H]
 \centering
@@ -1178,7 +1180,11 @@ Anteriormente, se entregó el derecho a una pensión vitalicia de montepío a hi
 \\Elaborado: DAIE}
 \end{figure}
 
-En el año 2021, se entregó pensiones de orfandad del \Sexpr{REP_seg} a 3.150 beneficiarios, de los cuales la mayoría 1.987 (63,08\%) son mujeres y solo 1.163 (36,92\%) son hombres, lo que representó un decrecimiento igual a 3,43\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años. Y, el número máximo de beneficiarios de pensiones de orfandad del \Sexpr{REP_seg} se alcanzó en el año 2016 (4.056). En la tabla \ref{tab:tab_evo_ben_of_rtr} y figura \ref{fig:iess_evo_ben_of_rtr}, se presenta la evolución histórica de los beneficiarios de orfandad del \Sexpr{REP_seg}.
+Anteriormente, se entregó el derecho a una pensión vitalicia de montepío a hijas solteras y hermanos hasta 1956; a partir del año 1984, se restringe la entrega de pensiones de orfandad solo a hijos menores de dieciocho (18) años e hijos mayores a dieciocho (18) años con alguna incapacidad y se deja de entregar el beneficio a padres. Desde la expedición de la \legalcite{ResIESS_CD100}, se limita a solo los hijos menores de dieciocho (18) años y menores de veintiuno (21) que se encuentren estudiando. Por esta razón, el IESS se encuentra pagando pensiones de orfandad a mayores de edad y personas de noventa (90) años.
+
+En el año 2021, se entregó pensiones de orfandad del \Sexpr{REP_seg} a 3.150 beneficiarios, de los cuales la mayoría 1.987 (63,08\%) son mujeres y solo 1.163 (36,92\%) son hombres, lo que representó un decrecimiento igual a 3,43\%, respecto al año anterior. Además, el año 2021, fue el año con menos número de pensionistas, durante los últimos diez (10) años.
+
+Y, el número máximo de beneficiarios de pensiones de orfandad del \Sexpr{REP_seg} se alcanzó en el año 2016 (4.056). En la tabla \ref{tab:tab_evo_ben_of_rtr} y figura \ref{fig:iess_evo_ben_of_rtr}, se presenta la evolución histórica de los beneficiarios de orfandad del \Sexpr{REP_seg}. La edad promedio de los beneficiarios es 14,16 años en los hombres y 36 años en las mujeres, debido a que antiguamente el IESS entregaba pensiones de montepío a los hijos mayores de dieciocho años incapacitados e hijas solteras.
 
 {\setlength{\tabcolsep}{5pt}
 {\fontsize{11}{15}\selectfont
@@ -1234,17 +1240,7 @@ Elaborado: DAIE}
 }
 }
 
-La edad promedio de los beneficiarios es 14,16 años en los hombres y 36 años en las mujeres, debido a que antiguamente el IESS entregaba pensiones de montepío a los hijos mayores de dieciocho años incapacitados e hijas solteras. En la figura \ref{fig:iess_pir_pensiones_of}, se muestra la pirámide poblacional de los beneficiarios de una pensión de orfandad del \Sexpr{REP_seg} en el año 2021, la cual posee una forma irregular, que muestra una población dos poblaciones claramente diferentes; la primera, de los huérfanos menores de dieciocho (18) años, los cuales se van acumulando hasta los diecisiete (17) años, y se encuentra equilibrada en genero; en segundo lugar, una población compuesta mayormente por mujeres entre 45 a 63 años, las cuales obtuvieron el derecho bajo el antiguo régimen que permitía a entregar el beneficio a hijas solteras, y se encuentra envejeciendo.
-
-\begin{figure}[H]
-\centering
-\caption{Distribución de la población de pensionistas por orfandad, por edad y sexo}
-\label{fig:iess_pir_ben_of}
-\includegraphics[scale=1]{graficos/iess_pir_ben_of.png}
-\caption*{\scriptsize Fuente: DSGRT
-\\Elaborado: DAIE}
-\end{figure}
-
+En la figura \ref{fig:iess_pir_pensiones_of}, se muestra la pirámide poblacional de los beneficiarios de una pensión de orfandad del \Sexpr{REP_seg} en el año 2021, la cual posee una forma irregular, que muestra una población dos poblaciones claramente diferentes; la primera, de los huérfanos menores de dieciocho (18) años, los cuales se van acumulando hasta los diecisiete (17) años, y se encuentra equilibrada en genero; en segundo lugar, una población compuesta mayormente por mujeres entre 45 a 63 años, las cuales obtuvieron el derecho bajo el antiguo régimen que permitía a entregar el beneficio a hijas solteras, y se encuentra envejeciendo.
 
 \begin{landscape}
 \vspace*{\fill}
@@ -1324,9 +1320,15 @@ Elaborado: DAIE}
 \vspace*{\fill}
 \end{landscape}
 
-Durante el año 2021, se entregaron USD 6.145.332,92 por pensiones de orfandad del \Sexpr{REP_seg} y décimos, de los cuales USD 5.116.543,62 (83,26\%) corresponden a las pensiones mensuales; USD 433.198,43 (7,05\%) al pago de decimotercero y USD 595.590,87 (9,69\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 107.190,40 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos solo representan el 1,74\% de los ingresos por pensiones y décimas.
 
-Por consiguiente, el valor liquido a pagar a los beneficiarios de una pensión de orfandad del \Sexpr{REP_seg} fue igual a USD 6.038.142,52 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 6.316.515,77 en el 2020 a USD 6.145.332,92; es decir, un decrecimiento igual a 1,74\%; en cambio, los descuentos a los pensionistas crecieron en 139,83\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_of_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de orfandad del \Sexpr{REP_seg}.
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población de pensionistas por orfandad, por edad y sexo}
+\label{fig:iess_pir_ben_of}
+\includegraphics[scale=1]{graficos/iess_pir_ben_of.png}
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\end{figure}
 
 \begin{figure}[H]
 \centering
@@ -1336,6 +1338,11 @@ Por consiguiente, el valor liquido a pagar a los beneficiarios de una pensión d
 \caption*{\scriptsize Fuente: DSGRT - IESS
 \\Elaborado: DAIE}
 \end{figure}
+
+
+Durante el año 2021, se entregaron USD 6.145.332,92 por pensiones de orfandad del \Sexpr{REP_seg} y décimos, de los cuales USD 5.116.543,62 (83,26\%) corresponden a las pensiones mensuales; USD 433.198,43 (7,05\%) al pago de decimotercero y USD 595.590,87 (9,69\%) por decimocuarto. En cambio, los descuentos\footnote{Cabe señalar desde la expedición de la Sentencia de la Corte Constitucional No. 23-18-IN/19, de fecha 18 de diciembre de 2019, se declaró la inconstitucionalidad del inciso primero del artículo 3 de la Resolución No. C.D. 501, de 13 de noviembre de 2015 y ordenó la suspensión de la retención del 2,76\% de las pensiones de los jubilados para la financiación de décimos y fondo mortuorio.} establecidos en la Ley ascendieron a USD 107.190,40 por: retención judicial, retención préstamos, seguro médico, atenciones de médica de cónyuges e hijos, federaciones y asociaciones de jubilados; es decir, que los descuentos solo representan el 1,74\% de los ingresos por pensiones y décimas.
+
+Por consiguiente, el valor liquido a pagar a los beneficiarios de una pensión de orfandad del \Sexpr{REP_seg} fue igual a USD 6.038.142,52 en el 2021. Durante el último año, monto entregado por pensiones y décimos decreció de USD 6.316.515,77 en el 2020 a USD 6.145.332,92; es decir, un decrecimiento igual a 1,74\%; en cambio, los descuentos a los pensionistas crecieron en 139,83\%, durante el último año. En la tabla \ref{tab:tab_evo_monto_of_rtr}, se presenta la evolución histórica de los beneficios entregados por pensiones de orfandad del \Sexpr{REP_seg}.
 
 Durante el año 2021, el 50\% de los beneficiarios por pensiones de orfandad recibieron menos de USD 143; el otro 40\% recibió entre USD 143 y USD 250; y, solamente, el 10\% restante recibió de USD 250 a USD 961 de renta mensual, incluido décimas. Y, por último, en el 2021, la pensión promedio de orfandad del \Sexpr{REP_seg} fue igual a USD 157,52 para los hombres y USD 193,8 para las mujeres, incluyendo todos los ingresos por Ley (ver tabla \ref{tab:tab_rango_monto_of_rtr} y la figura \ref{fig:iess_pir_ben_of} para la distribución de las pensiones promedio de orfandad por edad y sexo).
 
@@ -1457,17 +1464,6 @@ En el año 2021, se entregó pensiones de viudedad del \Sexpr{REP_seg} a 4.426 b
 \end{figure}
 
 
-\begin{figure}[H]
-\centering
-\caption{Distribución de la población de pensionista de montepío por viudez, por edad y sexo}
-\label{fig:iess_pir_ben_vo}
-\includegraphics[scale=1]{graficos/iess_pir_ben_vo.png}
-\caption*{\scriptsize Fuente: DSGRT
-\\Elaborado: DAIE}
-\end{figure}
-
-
-
 \begin{landscape}
 \vspace*{\fill}
 {\setlength{\tabcolsep}{5pt}
@@ -1545,6 +1541,17 @@ Elaborado: DAIE}
 }
 \vspace*{\fill}
 \end{landscape}
+
+
+\begin{figure}[H]
+\centering
+\caption{Distribución de la población de pensionista de montepío por viudez, por edad y sexo}
+\label{fig:iess_pir_ben_vo}
+\includegraphics[scale=1]{graficos/iess_pir_ben_vo.png}
+\caption*{\scriptsize Fuente: DSGRT
+\\Elaborado: DAIE}
+\end{figure}
+
 
 \begin{figure}[H]
 \centering

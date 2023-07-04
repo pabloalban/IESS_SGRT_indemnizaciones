@@ -464,7 +464,7 @@ Mediante el artículo 234 de la \legalcite{LeySS}, se establecen las pensiones m
 \bottomrule \multicolumn{8}{c}{continúa...} \\
 \endfoot
 %\hline
-\caption*{ \scriptsize Fuente: Artículo 4 de la Resolución No. C.D. 300 \\
+\caption*{ \scriptsize Fuente: artículo 4 de la \legalcite{ResIESS_CD300} \\
 Elaborado: DAIE}
 \endlastfoot
   \input{tablas/iess_pension_min.tex}
@@ -551,7 +551,7 @@ Elaborado: DAIE}
 \bottomrule \multicolumn{9}{c}{continúa...} \\
 \endfoot
 %\hline
-\caption*{ \scriptsize Fuente: Artículo 5 de la Resolución No. C.D. 300 \\
+\caption*{ \scriptsize Fuente: artículo 5 de la \legalcite{ResIESS_CD300} \\
 Elaborado: DAIE}
 \endlastfoot
   \input{tablas/iess_pension_max.tex}

@@ -108,7 +108,7 @@ de cada año, en la misma proporción que la inflación promedio anual del año 
 \section{Fondo inicial}
 \label{chp_hipotesis:paramecfin:fondoini}
 
-La reserva inicial del \Sexpr{REP_seg} empleada para el cálculo de la reserva en términos corrientes, $V_t^{cap}$ (ver ecuación \ref{eq:balance}), y la reserva en valor presente, $V_t$ (ver ecuación \ref{eq:balance_act}), corresponde al patrimonio al 31 de diciembre de 2020 (ver tabla \ref{tab:iess_patrimonio_fondo_rtr}), el cual asciende a USD \Sexpr{REP$cap_ini}.
+La reserva inicial del \Sexpr{REP_seg} empleada para el cálculo de la reserva en términos corrientes, $V_t^{cap}$ (ver ecuación \ref{eq:balance}), y la reserva en valor presente, $V_t$ (ver ecuación \ref{eq:balance_act}), corresponde al patrimonio al 31 de diciembre de 2021 (ver tabla \ref{tab:iess_patrimonio_fondo_rtr}), el cual asciende a USD \Sexpr{REP$cap_ini}.
 
 %---------------------------------------------------------------------------------------------------
 \section{Aportes y beneficios}
