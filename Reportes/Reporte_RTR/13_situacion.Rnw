@@ -6,17 +6,17 @@ Tomando en cuenta el modelo actuarial presentado en el capítulo \ref{chp_modelo
 
 A partir del balance actuarial, se puede apreciar la situación actuarial y financiera del \Sexpr{REP_seg} de forma dinámica, para cada año desde la fecha de corte y hasta el horizonte de estudio ($T = \Sexpr{REP_hor}$ años).
 
-Para el análisis se han definido tres (3) escenarios:
+Para el análisis, se han definido tres (3) escenarios:
 
 \begin{enumerate}[itemsep=0mm, topsep=0pt] 
 \item \textbf{Escenario 1:} constituye el escenario con cien (100) salarios básicos unificados como límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}, en concordancia al artículo 32 de la \legalcite{ResIESS_CD513}; 
 \item \textbf{Escenario 2:} sigue lo dictaminado en la disposición final séptima de la de la \legalcite{ResIESS_CD513}, con cincuenta (50) salarios básicos unificados como límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}; y,
-\item \textbf{Escenario 3:} considera límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg} a cuarenta (40) salarios básicos unificados. 
+\item \textbf{Escenario 3:} establece cuarenta (40) salarios básicos unificados como el límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}. 
 \end{enumerate}
 
-Para los tres (3) escenarios, se consideró la misma estructura actuarial del \Sexpr{REP_seg}, definida por un sistema de financiamiento de reparto con prima media nivelada, un esquema de prestaciones de beneficio definido y un régimen demográfico en grupo abierto, acorde a lo expuesto en la sección \ref{chp_modelo:actu}. Además, para los tres escenarios se aplican las mismas hipótesis macroeconómicas conservadores y realistas, como son: tasa actuarial \Sexpr{REP$i_a}\%, tasa de crecimiento salarial de \Sexpr{REP$i_s}\% y tasa de crecimiento de pensiones igual a \Sexpr{REP$i_p}\%. Y, supone que el aporte estatal promedio para los próximos años es igual a 28\% y toma en cuenta el cese del aporte del 2,76\% de los pensionistas.
+Para los tres (3) escenarios que presenta el estudio, se consideró la misma estructura actuarial del \Sexpr{REP_seg}, definida por un sistema de financiamiento de reparto con prima media nivelada, un esquema de prestaciones de beneficio definido y un régimen demográfico en grupo abierto, acorde a lo expuesto en la sección \ref{chp_modelo:actu}. Además, para los tres escenarios se aplican las mismas hipótesis macroeconómicas conservadores y realistas, como son: la tasa actuarial, \Sexpr{REP$i_a}\%, la tasa de crecimiento salarial igual a \Sexpr{REP$i_s}\% y la tasa de crecimiento de pensiones en \Sexpr{REP$i_p}\%. Y, supone que el aporte estatal promedio para los próximos años es igual a 28\% y toma en cuenta el cese del aporte del 2,76\% de los pensionistas.
 
-Solo se considera el 28\% (no el 40\%) del aporte del Estado a las pensiones, puesto que ese fue el porcentaje que el Estado aporta desde el año 2019. Además, se aplica los porcentajes de aportación dispuestos por la \legalcite{ResIESS_CD515}.
+Solo se considera el 28\% (no el 40\%) del aporte del Estado a las pensiones, puesto que no se ha cancelado el aporte del Estado a los subsidios e indemnizaciones. Y, además, se aplica los porcentajes de aportación dispuestos por la \legalcite{ResIESS_CD515}.
 
 %\clearpage
 

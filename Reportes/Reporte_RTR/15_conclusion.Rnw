@@ -7,23 +7,28 @@ Conforme a los estados financieros con corte al 31 de diciembre de 2021, el \Sex
 %---------------------------------------------------------------------------------------------------
 \section{Conclusiones}
 \label{chp_conclusion:conclusiones}
+
 Del presente estudio se obtienen las siguientes conclusiones:
 \begin{enumerate}[itemsep=0mm, topsep=0pt]
-
 \item Al momento de elaborar el presente estudio, la Dirección del \Sexpr{REP_seg} se encuentra entregando indemnizaciones por incapacidad permanente parcial con cuantía máxima igual a cien (100) salarios básicos unificados desde la emisión de la \legalcite{ResIESS_CD390}.
-\item Al aplicar el artículo 32 de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_1} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_1}\%, en el horizonte de proyección de cuarenta (40) años.
 
-\item Al aplicar disposición general séptima de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_2} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_2}\%, en el horizonte de proyección de cuarenta (40) años.
+\item Al aplicar el artículo 32 de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presenta un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_1} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_1}\%, aplicada a la masa salarial en el horizonte de proyección de cuarenta (40) años.
 
-\item En caso de establecer cuarenta (40) salarios básicos unificados, como cuantía máxima de las indemnizaciones por incapacidad permanente parcial, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_3} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_3}\%, en el horizonte de proyección de cuarenta (40) años.
-\item Se concluye que desde la emisión de la \legalcite{ResIESS_CD390} hasta el 31 de diciembre de 2021, se han entregado 6.925 indemnizaciones por incapacidad permanente parciales, de las cuales cuarenta y seis (46) alcanzaron la indemnización máxima de cien (100) salarios básicos unificados en el cálculo de su beneficio; es decir, el 0,66\% de los beneficiarios. En caso de que se hubiese aplicado la disposición general séptima de la \legalcite{ResIESS_CD513}, se hubiese afectado a 664 beneficiarios que hubiesen alcanzado la indemnización máxima; es decir, el 9,59\% de los beneficiarios y el gasto en la entrega de indemnizaciones hubiese reducido en USD 2.744.938,64, durante el mismo período.
+\item En el año 2023, el valor máximo por indemnización será de USD 45.000,00 y el valor prestacional proyectado para las indemnizaciones en el 2023 será igual a USD 6.653.052,89.
+
+\item Al aplicar disposición general séptima de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presentaría un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_2} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_2}\%, aplicada a la masa salarial en el horizonte de proyección de cuarenta (40) años.
+
+\item En caso de establecer cuarenta (40) salarios básicos unificados, como cuantía máxima de las indemnizaciones por incapacidad permanente parcial, el Fondo del \Sexpr{REP_seg} presentaría un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_3} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_3}\%, aplicada a la masa salarial en el horizonte de proyección de cuarenta (40) años.
+
+
+\item Se concluye que desde la emisión de la \legalcite{ResIESS_CD390} hasta el 31 de diciembre de 2021, se han entregado 6.925 indemnizaciones por incapacidad permanente parciales, de las cuales cuarenta y seis (46) alcanzaron la indemnización máxima de cien (100) salarios básicos unificados en el cálculo de su beneficio; es decir, el 0,66\% de los beneficiarios. En caso de que se hubiese aplicado la disposición general séptima de la \legalcite{ResIESS_CD513}, se hubiese afectado a 664 beneficiarios que hubiesen alcanzado la indemnización máxima; es decir, el 9,59\% de los beneficiarios y el gasto en la entrega de indemnizaciones se hubiese reducido en USD 2.744.938,64, durante el mismo período.
+
+
 \end{enumerate}
-
 %---------------------------------------------------------------------------------------------------
 \section{Recomendaciones}
 \label{chp_conclusion:recomendacion}
-Sobre la base del análisis efectuado y los resultados obtenidos en el presente estudio, se emiten las siguientes recomendaciones:
-
+Las principales recomendaciones de esta Dirección son:
 \begin{enumerate}
 \item La Dirección Actuarial, de Investigación y Estadística recomienda que la cuantía de indemnización global única por incapacidad permanente parcial del \Sexpr{REP_seg} no supere los cien (100) salarios básicos unificados.
 \item La Dirección del Seguro General de Riesgos del Trabajo deberá presentar un proyecto de resolución al Consejo Directivo para normar la entrega de la cuantía máxima de indemnización global única por incapacidad permanente parcial del \Sexpr{REP_seg}.

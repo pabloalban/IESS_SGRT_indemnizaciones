@@ -6,15 +6,15 @@
 \section{Objetivo del estudio}
 \label{chp_res_ejec:objeto}
 
-El presente estudio actuarial abarca al Seguro General de Riesgos del Trabajo con fecha de corte 31 de diciembre de 2021, un horizonte de 40 años, cuyo objetivo es determinar la cuantía máxima de la indemnización global única por incapacidad permanente parcial entregada por el Seguro General de Riesgos del Trabajo y estimar su impacto en tiempo.
+El presente estudio actuarial del \Sexpr{REP_seg}, con fecha de corte 31 de diciembre de 2021, abarca un horizonte de estudio de 40 años, cuyo objetivo es determinar la cuantía máxima de la indemnización global única por incapacidad permanente parcial entregada por el \Sexpr{REP_seg} y estimar su impacto en el tiempo.
 
 %---------------------------------------------------------------------------------------------------
 \section{Sobre la entrega y cuantía de las indemnizaciones por incapacidad permanente parcial}
 \label{chp_res_ejec:descripcion}
-Respecto a la cuantía indemnización global única por incapacidad permanente parcial, en el ``REGLAMENTO DEL SEGURO GENERAL DE RIESGOS DEL TRABAJO'', emitido mediante \legalcite{ResIESS_CD513}, se establecen dos límites máximos a las cuantías por indemnización establecidos en los siguientes artículos:
+Respecto a la cuantía indemnización global única por incapacidad permanente parcial, en el ``REGLAMENTO DEL SEGURO GENERAL DE RIESGOS DEL TRABAJO'', emitido mediante \legalcite{ResIESS_CD513}, se establecen dos límites máximos a la cuantía por indemnización:
 \begin{enumerate}[label=\arabic*.,topsep=0pt,itemsep=1ex,parsep=1ex,partopsep=1ex]
-\item \textit{``\textbf{Artículo 32}.- Cuantía de la Indemnización Global Única por Incapacidad Permanente Parcial.- Será equivalente al porcentaje de incapacidad establecido por el Comité de Valuación de Incapacidades y de Responsabilidad Patronal "CVIRP"; se considerará como base de cálculo el promedio mensual de la remuneración de aportación del año anterior a la fecha del accidente o a la fecha de calificación de la enfermedad profesional u ocupacional por parte del Comité de Valuación de Incapacidades y de Responsabilidad Patronal "CVIRP", multiplicado por sesenta mensualidades (60), correspondiente al periodo de protección de cinco (5)años, pagadero por una sola vez, con un límite máximo de cien (100) salarios básicos unificados del trabajador en general (...)''.}
-\item \textit{``\textbf{DISPOSICIÓN GENERAL SEPTIMA}.- Por única vez, en el caso de que el asegurado que recibió una indemnización por incapacidad permanente parcial, sufriere un agravamiento de su lesión y el Comité de Valuación de Incapacidades y de Responsabilidad Patronal "CVIRP" calificare un aumento en el grado de incapacidad permanente parcial, se re-liquidará la indemnización concedida y se pagará al asegurado la diferencia, siempre que no supere los cincuenta (50) salarios básicos unificados del trabajador en general, incluida la indemnización inicial''.}
+\item \textit{``\textbf{Artículo 32}.- Cuantía de la Indemnización Global Única por Incapacidad Permanente Parcial.- Será equivalente al porcentaje de incapacidad establecido por el Comité de Valuación de Incapacidades y de Responsabilidad Patronal ``CVIRP''; se considerará como base de cálculo el promedio mensual de la remuneración de aportación del año anterior a la fecha del accidente o a la fecha de calificación de la enfermedad profesional u ocupacional por parte del Comité de Valuación de Incapacidades y de Responsabilidad Patronal ``CVIRP'', multiplicado por sesenta mensualidades (60), correspondiente al periodo de protección de cinco (5)años, pagadero por una sola vez, con un límite máximo de cien (100) salarios básicos unificados del trabajador en general (...)''.}
+\item \textit{``\textbf{DISPOSICIÓN GENERAL SEPTIMA}.- Por única vez, en el caso de que el asegurado que recibió una indemnización por incapacidad permanente parcial, sufriere un agravamiento de su lesión y el Comité de Valuación de Incapacidades y de Responsabilidad Patronal ``CVIRP'' calificare un aumento en el grado de incapacidad permanente parcial, se re-liquidará la indemnización concedida y se pagará al asegurado la diferencia, siempre que no supere los cincuenta (50) salarios básicos unificados del trabajador en general, incluida la indemnización inicial''.}
 \end{enumerate}
 
 %---------------------------------------------------------------------------------------------------
@@ -40,17 +40,17 @@ A manera de resumen, se describen las principales hipótesis de este estudio:
 %---------------------------------------------------------------------------------------------------
 \section{Escenarios del estudio}
 \label{chp_res_ejec:escenarios}
-Para el análisis se han definido tres (3) escenarios:
+Para el análisis, se han definido tres (3) escenarios:
 
 \begin{enumerate}[itemsep=0mm, topsep=0pt] 
 \item \textbf{Escenario 1:} constituye el escenario con cien (100) salarios básicos unificados como límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}, en concordancia al artículo 32 de la \legalcite{ResIESS_CD513}; 
 \item \textbf{Escenario 2:} sigue lo dictaminado en la disposición final séptima de la de la \legalcite{ResIESS_CD513}, con cincuenta (50) salarios básicos unificados como límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}; y,
-\item \textbf{Escenario 3:} considera límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg} a cuarenta (40) salarios básicos unificados. 
+\item \textbf{Escenario 3:} establece cuarenta (40) salarios básicos unificados como el límite máximo para las indemnizaciones por incapacidad permanente parcial del \Sexpr{REP_seg}. 
 \end{enumerate}
 
-Para los tres (3) escenarios, se consideró la misma estructura actuarial del \Sexpr{REP_seg}, definida por un sistema de financiamiento de reparto con prima media nivelada, un esquema de prestaciones de beneficio definido y un régimen demográfico en grupo abierto, acorde a lo expuesto en la sección \ref{chp_modelo:actu}. Además, para los tres escenarios se aplican las mismas hipótesis macroeconómicas conservadores y realistas, como son: tasa actuarial \Sexpr{REP$i_a}\%, tasa de crecimiento salarial de \Sexpr{REP$i_s}\% y tasa de crecimiento de pensiones igual a \Sexpr{REP$i_p}\%. Y, supone que el aporte estatal promedio para los próximos años es igual a 28\% y toma en cuenta el cese del aporte del 2,76\% de los pensionistas.
+Para los tres (3) escenarios que presenta el estudio, se consideró la misma estructura actuarial del \Sexpr{REP_seg}, definida por un sistema de financiamiento de reparto con prima media nivelada, un esquema de prestaciones de beneficio definido y un régimen demográfico en grupo abierto, acorde a lo expuesto en la sección \ref{chp_modelo:actu}. Además, para los tres escenarios se aplican las mismas hipótesis macroeconómicas conservadores y realistas, como son: la tasa actuarial, \Sexpr{REP$i_a}\%, la tasa de crecimiento salarial igual a \Sexpr{REP$i_s}\% y la tasa de crecimiento de pensiones en \Sexpr{REP$i_p}\%. Y, supone que el aporte estatal promedio para los próximos años es igual a 28\% y toma en cuenta el cese del aporte del 2,76\% de los pensionistas.
 
-Solo se considera el 28\% (no el 40\%) del aporte del Estado a las pensiones, puesto que ese fue el porcentaje que el Estado aporta desde el año 2019. Además, se aplica los porcentajes de aportación dispuestos por la \legalcite{ResIESS_CD515}.
+Solo se considera el 28\% (no el 40\%) del aporte del Estado a las pensiones, puesto que no se ha cancelado el aporte del Estado a los subsidios e indemnizaciones. Y, además, se aplica los porcentajes de aportación dispuestos por la \legalcite{ResIESS_CD515}.
 %---------------------------------------------------------------------------------------------------
 \section{Principales resultados}
 \label{chp_res_ejec:resultados}
@@ -80,12 +80,19 @@ Del estudio actuarial, se concluyen los siguientes resultados:
 Del presente estudio se obtienen las siguientes conclusiones:
 \begin{enumerate}[itemsep=0mm, topsep=0pt]
 \item Al momento de elaborar el presente estudio, la Dirección del \Sexpr{REP_seg} se encuentra entregando indemnizaciones por incapacidad permanente parcial con cuantía máxima igual a cien (100) salarios básicos unificados desde la emisión de la \legalcite{ResIESS_CD390}.
-\item Al aplicar el artículo 32 de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_1} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_1}\%, en el horizonte de proyección de cuarenta (40) años.
 
-\item Al aplicar disposición general séptima de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_2} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_2}\%, en el horizonte de proyección de cuarenta (40) años.
+\item Al aplicar el artículo 32 de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presenta un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_1} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_1}\%, aplicada a la masa salarial en el horizonte de proyección de cuarenta (40) años.
 
-\item En caso de establecer cuarenta (40) salarios básicos unificados, como cuantía máxima de las indemnizaciones por incapacidad permanente parcial, el Fondo del \Sexpr{REP_seg} presentará un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_3} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_3}\%, en el horizonte de proyección de cuarenta (40) años.
-\item Se concluye que desde la emisión de la \legalcite{ResIESS_CD390} hasta el 31 de diciembre de 2021, se han entregado 6.925 indemnizaciones por incapacidad permanente parciales, de las cuales cuarenta y seis (46) alcanzaron la indemnización máxima de cien (100) salarios básicos unificados en el cálculo de su beneficio; es decir, el 0,66\% de los beneficiarios. En caso de que se hubiese aplicado la disposición general séptima de la \legalcite{ResIESS_CD513}, se hubiese afectado a 664 beneficiarios que hubiesen alcanzado la indemnización máxima; es decir, el 9,59\% de los beneficiarios y el gasto en la entrega de indemnizaciones hubiese reducido en USD 2.744.938,64, durante el mismo período.
+\item En el año 2023, el valor máximo por indemnización será de USD 45.000,00 y el valor prestacional proyectado para las indemnizaciones en el 2023 será igual a USD 6.653.052,89.
+
+\item Al aplicar disposición general séptima de la \legalcite{ResIESS_CD513}, el Fondo del \Sexpr{REP_seg} presentaría un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_2} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_2}\%, aplicada a la masa salarial en el horizonte de proyección de cuarenta (40) años.
+
+\item En caso de establecer cuarenta (40) salarios básicos unificados, como cuantía máxima de las indemnizaciones por incapacidad permanente parcial, el Fondo del \Sexpr{REP_seg} presentaría un superávit actuarial igual a USD \Sexpr{REP$bal_act_esc_3} y su prima suficiente que mantiene el equilibrio financiero en el tiempo es \Sexpr{REP$pri_med_niv_esc_3}\%, aplicada a la masa salarial en el horizonte de proyección de cuarenta (40) años.
+
+
+\item Se concluye que desde la emisión de la \legalcite{ResIESS_CD390} hasta el 31 de diciembre de 2021, se han entregado 6.925 indemnizaciones por incapacidad permanente parciales, de las cuales cuarenta y seis (46) alcanzaron la indemnización máxima de cien (100) salarios básicos unificados en el cálculo de su beneficio; es decir, el 0,66\% de los beneficiarios. En caso de que se hubiese aplicado la disposición general séptima de la \legalcite{ResIESS_CD513}, se hubiese afectado a 664 beneficiarios que hubiesen alcanzado la indemnización máxima; es decir, el 9,59\% de los beneficiarios y el gasto en la entrega de indemnizaciones se hubiese reducido en USD 2.744.938,64, durante el mismo período.
+
+
 \end{enumerate}
 %--------------------------------------------------------------------------------------------------
 Las principales recomendaciones de esta Dirección son:
