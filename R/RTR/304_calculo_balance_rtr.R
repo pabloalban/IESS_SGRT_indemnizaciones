@@ -40,6 +40,10 @@ aux <- SALg %>%
                          'M',
                          'F') ) %>%
   dplyr::select( t, x, sexo, M:=SALg ) %>%
+  rbind( data.frame( t = 0,
+                     x = 18,
+                     sexo = 'M',
+                     M = 0 ),.) %>%
   as.data.table( )
 
 balance <- merge( balance, 
